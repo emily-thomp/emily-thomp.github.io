@@ -4,6 +4,8 @@ Welcome to **Emily's Notes**.
 
 This site presents openly readable technical literature, organizing its text, equations, tables and illustrations into chapters for reading, searching and comparison with the original sources.
 
+Documents are grouped under [Communications](communications/index.md), [Chemical Engineering](chemical-engineering/index.md), [Mechanical Engineering](mechanical-engineering/index.md) and [Information Security](information-security/index.md). The currently available nitric acid handbook is in Chemical Engineering.
+
 Scanned books can be difficult to search, and their equations and tables inconvenient to reference. The site preserves the source material while providing searchable text and an English translation, so readers in different languages can explore the same document.
 
 ## Available literature
@@ -14,11 +16,11 @@ Scanned books can be difficult to search, and their equations and tables inconve
 
 The book describes the historical production of nitric acid through catalytic ammonia oxidation using local materials and small-scale equipment. It covers the flowsheet, equipment construction, operating controls, analysis, technical and economic indicators, catalyst manufacture and worker protection, alongside the industrial context of its period.
 
-[Read the handbook](book/01-overview.md). Its contents are organized into eight chapters. Begin with the overview, or select the book title in the top navigation to browse the chapters.
+[Read the handbook](book/01-overview.md). Its contents are organized into eight chapters. Begin with the overview, or select Chemical Engineering in the top navigation and choose a chapter from the book's sidebar.
 
 ## Reading the site
 
-- **Browse chapters:** select a document in the top navigation, then use the chapter list on the left and the section contents on the right.
+- **Browse chapters:** select a subject in the top navigation, then use the books and chapters on the left and the section contents on the right.
 - **Find a topic:** use the search box to locate terms or passages.
 - **Change language:** the header language menu switches between Chinese and English while retaining the current chapter.
 - **Check the original:** scan links at the end of each chapter allow comparison of text, equations and illustrations.

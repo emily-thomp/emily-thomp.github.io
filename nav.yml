@@ -1,0 +1,19 @@
+nav:
+  - 首页: index.md
+  - 通信:
+      - 概览: communications/index.md
+  - 化工:
+      - 概览: chemical-engineering/index.md
+      - 氨氧化土法制硝酸:
+          - 01 概述与书籍信息: book/01-overview.md
+          - 02 氨氧化法制硝酸: book/02-process.md
+          - 03 生产系统的开停车: book/03-start-stop.md
+          - 04 生产控制分析方法: book/04-analysis.md
+          - 05 生产操作方法: book/05-operation.md
+          - 06 技术经济指标: book/06-indicators.md
+          - 07 氨氧化触媒的制造: book/07-catalyst.md
+          - 08 安全技术与劳动保护: book/08-safety.md
+  - 机械:
+      - 概览: mechanical-engineering/index.md
+  - 信息安全:
+      - 概览: information-security/index.md

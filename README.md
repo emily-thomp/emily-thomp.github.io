@@ -16,6 +16,8 @@ python -m mkdocs serve
 
 中文首页是 `docs/index.md`，英文首页是 `docs/index.en.md`。章节使用 `docs/book/<chapter>.zh.md` 与 `<chapter>.en.md` 成对维护；导航中的路径省略语言后缀。中文发布到站点根路径，英文发布到 `/en/`，顶部语言菜单保持当前章节。
 
+导航单独维护在 `nav.yml`，主配置通过 `INHERIT: nav.yml` 引用。顶部栏目依次为首页、通信、化工、机械、信息安全；《氨氧化土法制硝酸》在化工栏目下。书籍页面的原有 URL 保持不变。
+
 原扫描页与插图存放在 `docs/assets/`；`source-transcription/` 保留来源哈希、公式和 OCR 校订记录。图内标注保留中文。此版本为校订初稿，尚未逐字终校。
 
 图表提供 SVG 重绘与原书扫描对照。21 张图采用用户提供的 v2 重绘，另含单独提供的氧化炉 SVG；5 张 v2 图有待核图注，已在页面中标明。重绘来源、哈希和待核标注记录在 `source-transcription/figure-redraws.json`。
