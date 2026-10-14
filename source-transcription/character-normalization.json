@@ -1,0 +1,40 @@
+{
+  "conversion": "OpenCC t2s; additional legacy character variants",
+  "original_scans_preserved": true,
+  "numbers_unchanged": true,
+  "svg_geometry_unchanged": true,
+  "files": [
+    {
+      "file": "docs/book/01-overview.zh.md",
+      "changed_characters": 62
+    },
+    {
+      "file": "docs/book/02-process.zh.md",
+      "changed_characters": 216
+    },
+    {
+      "file": "docs/book/03-start-stop.zh.md",
+      "changed_characters": 54
+    },
+    {
+      "file": "docs/book/04-analysis.zh.md",
+      "changed_characters": 34
+    },
+    {
+      "file": "docs/book/05-operation.zh.md",
+      "changed_characters": 39
+    },
+    {
+      "file": "docs/book/06-indicators.zh.md",
+      "changed_characters": 1
+    },
+    {
+      "file": "docs/book/07-catalyst.zh.md",
+      "changed_characters": 77
+    },
+    {
+      "file": "docs/book/08-safety.zh.md",
+      "changed_characters": 12
+    }
+  ]
+}

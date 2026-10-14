@@ -25,6 +25,6 @@ The book describes the historical production of nitric acid through catalytic am
 
 ## Sources and corrections
 
-The current edition has received initial proofreading and may still contain recognition or translation errors. Apparent original printing errors are retained with editorial notes. Figure labels remain Chinese, and the original historical context and operating practices are preserved.
+The current edition has received initial proofreading and may still contain recognition or translation errors. Chinese text and SVG labels use simplified characters; original scan images are unchanged. Apparent original printing errors are retained with editorial notes, as are the original historical context and operating practices.
 
 Use the repository link to inspect the source text and editorial records. To suggest a correction, open a [GitHub issue](https://github.com/emily-thomp/emily-thomp.github.io/issues) with the chapter, original page number and proposed change.

@@ -11,3 +11,8 @@ an initial corrected OCR transcription: text has not received complete
 character-by-character proofreading. Apparent printed errors are distinguished
 from OCR corrections in the chapter notes. English translations were prepared
 for this edition; original figure labels remain Chinese.
+
+Published Chinese text and SVG labels use simplified characters. The original
+scan images and the original OCR correction ledger are preserved for comparison.
+`character-normalization.json` records the character conversion; numeric values
+and SVG geometric attributes were checked to remain unchanged.

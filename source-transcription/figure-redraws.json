@@ -4,7 +4,9 @@
     "version": "v2",
     "sha256": "e83b57c989364603b2b9be2fabf8fac71546fb4b0fbe71feedba2e2ada94ad24",
     "pending_annotation_ids": [],
-    "scan": "p07_f01.png"
+    "scan": "p07_f01.png",
+    "published_sha256": "e83b57c989364603b2b9be2fabf8fac71546fb4b0fbe71feedba2e2ada94ad24",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p09_f01.svg",
@@ -13,42 +15,54 @@
     "pending_annotation_ids": [
       "a"
     ],
-    "scan": "p09_f01.png"
+    "scan": "p09_f01.png",
+    "published_sha256": "c93eab1f5f9a2063cbac7d77c4ab7a4443f629165a97396584319d956f1434cf",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p11_f01.svg",
     "version": "v2",
     "sha256": "37cc7311685e51598db82dc95dfe9aa72a2df6e087b0bf6db8a25916c7018b9c",
     "pending_annotation_ids": [],
-    "scan": "p11_f01.png"
+    "scan": "p11_f01.png",
+    "published_sha256": "37cc7311685e51598db82dc95dfe9aa72a2df6e087b0bf6db8a25916c7018b9c",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p12_f01.svg",
     "version": "v2",
     "sha256": "712936b0fe99eb6498c64f4ea9deca2fc1b48e60471ab456d5819b28de5f5c78",
     "pending_annotation_ids": [],
-    "scan": "p12_f01.png"
+    "scan": "p12_f01.png",
+    "published_sha256": "712936b0fe99eb6498c64f4ea9deca2fc1b48e60471ab456d5819b28de5f5c78",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p12_f02.svg",
     "version": "v2",
     "sha256": "5ebffa5d37b91310db0ee7f2793c3dfe122699b92966198a5e403635ed92a9c2",
     "pending_annotation_ids": [],
-    "scan": "p12_f02.png"
+    "scan": "p12_f02.png",
+    "published_sha256": "5ebffa5d37b91310db0ee7f2793c3dfe122699b92966198a5e403635ed92a9c2",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p13_f01.svg",
     "version": "v2",
     "sha256": "91a90a791123a35daeeff15c21763ec68ef23c996b065011b114708cee19ab92",
     "pending_annotation_ids": [],
-    "scan": "p13_f01.png"
+    "scan": "p13_f01.png",
+    "published_sha256": "91a90a791123a35daeeff15c21763ec68ef23c996b065011b114708cee19ab92",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p14_f01.svg",
     "version": "v2",
     "sha256": "c047f9cd0a461d33eb56f869f2a7bbbbab25d61df40b20ab3db2024933121f52",
     "pending_annotation_ids": [],
-    "scan": "p14_f01.png"
+    "scan": "p14_f01.png",
+    "published_sha256": "c047f9cd0a461d33eb56f869f2a7bbbbab25d61df40b20ab3db2024933121f52",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p17_f01.svg",
@@ -60,49 +74,63 @@
       "c",
       "d"
     ],
-    "scan": "p17_f01.png"
+    "scan": "p17_f01.png",
+    "published_sha256": "48137fd1de17d8060dccdfd4a55ba8cbca3fd28ef68a49149c3886102dda7f67",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p19_f01.svg",
     "version": "v2",
     "sha256": "9e456d6eae73a02d4a5e57edb306dc447cdcd2b694cc5586dbb56295061bc0b3",
     "pending_annotation_ids": [],
-    "scan": "p19_f01.png"
+    "scan": "p19_f01.png",
+    "published_sha256": "9e456d6eae73a02d4a5e57edb306dc447cdcd2b694cc5586dbb56295061bc0b3",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p19_f02.svg",
     "version": "v2",
     "sha256": "732d746570e223ea8ba04358cc01eeb3c8fd62e73f74725176ba511d997f2ee6",
     "pending_annotation_ids": [],
-    "scan": "p19_f02.png"
+    "scan": "p19_f02.png",
+    "published_sha256": "732d746570e223ea8ba04358cc01eeb3c8fd62e73f74725176ba511d997f2ee6",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p20_f01.svg",
     "version": "v2",
     "sha256": "2944fb92c846110fac15b339d5c3a992b55cc396ef328dde1e2eb4b747a65bc8",
     "pending_annotation_ids": [],
-    "scan": "p20_f01.png"
+    "scan": "p20_f01.png",
+    "published_sha256": "2944fb92c846110fac15b339d5c3a992b55cc396ef328dde1e2eb4b747a65bc8",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p21_f01.svg",
     "version": "v2",
     "sha256": "07fb88e12f501283b293818d5a3443332ad5b9b70c7655d2494d5112bf806187",
     "pending_annotation_ids": [],
-    "scan": "p21_f01.png"
+    "scan": "p21_f01.png",
+    "published_sha256": "07fb88e12f501283b293818d5a3443332ad5b9b70c7655d2494d5112bf806187",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p21_f02.svg",
     "version": "v2",
     "sha256": "6f4321c97a93fc0a1566339aca9c8ea9d3cdc7cea55754567deca33a2ee376d3",
     "pending_annotation_ids": [],
-    "scan": "p21_f02.png"
+    "scan": "p21_f02.png",
+    "published_sha256": "6f4321c97a93fc0a1566339aca9c8ea9d3cdc7cea55754567deca33a2ee376d3",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p22_f01.svg",
     "version": "v2",
     "sha256": "7e5553c3479f85ca1f0a34b539e8323e70d90497a5c7d9da2ceb4214a964cd0b",
     "pending_annotation_ids": [],
-    "scan": "p22_f01.png"
+    "scan": "p22_f01.png",
+    "published_sha256": "7e5553c3479f85ca1f0a34b539e8323e70d90497a5c7d9da2ceb4214a964cd0b",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p24_f01.svg",
@@ -111,14 +139,18 @@
     "pending_annotation_ids": [
       "a"
     ],
-    "scan": "p24_f01.png"
+    "scan": "p24_f01.png",
+    "published_sha256": "e2df716c11cfaf8ba68beae87066a753d3c7eaa1494da06304a9610aeee578c9",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p25_f01.svg",
     "version": "v2",
     "sha256": "c7d70956a39487fd006197733e4e0a781387cae647cc6d86bc8226d30450db30",
     "pending_annotation_ids": [],
-    "scan": "p25_f01.png"
+    "scan": "p25_f01.png",
+    "published_sha256": "c7d70956a39487fd006197733e4e0a781387cae647cc6d86bc8226d30450db30",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p26_f01.svg",
@@ -127,7 +159,9 @@
     "pending_annotation_ids": [
       "a"
     ],
-    "scan": "p26_f01.png"
+    "scan": "p26_f01.png",
+    "published_sha256": "3cbbf0f830c5df7f6502cc0a301b474df202203fee650168595718ea092b9d8d",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p27_f01.svg",
@@ -141,27 +175,35 @@
       "e",
       "f"
     ],
-    "scan": "p27_f01.png"
+    "scan": "p27_f01.png",
+    "published_sha256": "266bf83794cfa8b0054836c95d519030c02d126d4652d841bb1bd22f339e2bff",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p32_f01.svg",
     "version": "v2",
     "sha256": "77977297719ae69d41762f9a63b78496a5d7d848e31bf4dd016c050bace37b97",
     "pending_annotation_ids": [],
-    "scan": "p32_f01.png"
+    "scan": "p32_f01.png",
+    "published_sha256": "77977297719ae69d41762f9a63b78496a5d7d848e31bf4dd016c050bace37b97",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p33_f01.svg",
     "version": "v2",
     "sha256": "d675f30c1c1f61d738020953a2061657d1a26244eb21caec700ebd3fc2472742",
     "pending_annotation_ids": [],
-    "scan": "p33_f01.png"
+    "scan": "p33_f01.png",
+    "published_sha256": "d675f30c1c1f61d738020953a2061657d1a26244eb21caec700ebd3fc2472742",
+    "published_character_form": "Simplified Chinese"
   },
   {
     "file": "p37_f01.svg",
     "version": "v2",
     "sha256": "f7928e60f0a830ba52e64270570945df9d56d989b534b14e1425385bce16fff0",
     "pending_annotation_ids": [],
-    "scan": "p37_f01.png"
+    "scan": "p37_f01.png",
+    "published_sha256": "f7928e60f0a830ba52e64270570945df9d56d989b534b14e1425385bce16fff0",
+    "published_character_form": "Simplified Chinese"
   }
 ]
