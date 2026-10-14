@@ -4,7 +4,7 @@ Welcome to **Emily's Notes**.
 
 This site presents openly readable technical literature, organizing its text, equations, tables and illustrations into chapters for reading, searching and comparison with the original sources.
 
-Documents and notes are grouped under [Communications](communications/index.md), [Chemical Engineering](chemical-engineering/index.md), [Mechanical Engineering](mechanical-engineering/index.md), [Information Security](information-security/index.md) and [Artificial Intelligence](artificial-intelligence/index.md). The nitric acid handbook is in Chemical Engineering, and the report on model persona training is in Artificial Intelligence.
+Documents and notes are grouped under [Communications](communications/index.md), [Chemical Engineering](chemical-engineering/index.md), [Mechanical Engineering](mechanical-engineering/index.md), [Information Security](information-security/index.md) and [Artificial Intelligence](artificial-intelligence/index.md). The nitric acid handbook is in Chemical Engineering, and the report on model ideological alignment is in Artificial Intelligence.
 
 Scanned books can be difficult to search, and their equations and tables inconvenient to reference. The site preserves the source material while providing searchable text and an English translation, so readers in different languages can explore the same document.
 
