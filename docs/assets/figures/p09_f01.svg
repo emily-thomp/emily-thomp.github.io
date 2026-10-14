@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="465" height="761" viewBox="0 0 465 761">
+<defs>
+<pattern id="hatch" width="11" height="11" patternUnits="userSpaceOnUse"><path d="M-2 2 L2 -2 M0 11 L11 0 M9 13 L13 9" fill="none" stroke="black" stroke-width="1"/></pattern>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".8"/><circle cx="9" cy="9" r=".8"/></pattern>
+<marker id="flow-arrow" viewBox="0 0 12 8" refX="11" refY="4" markerWidth="12" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0 L12 4 L0 8 Z" fill="black"/></marker>
+<marker id="dim-arrow" viewBox="0 0 10 6" refX="10" refY="3" markerWidth="10" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M10 3 L0 0 L0 6 Z" fill="black"/></marker>
+</defs>
+<rect id="paper" width="100%" height="100%" fill="white"/>
+<g id="hatching" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.8">
+<polygon id="hatching-2" points="33,290 229,290 229,589 33,589" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+</g>
+<g id="outlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="2.5">
+<g id="vessel-shell">
+<path id="outlines-1" d="M32 637 V254 L110 157 V124 H82 V89 H110 V35 a23 23 0 0 1 23 -23 H213 M299 58 H165 a17 17 0 0 0 -17 17 V124 H169 V157 L230 254 V637 H32"/>
+</g>
+<rect id="outlines-3" x="23" y="631" width="218" height="8"/>
+<rect id="outlines-4" x="31" y="583" width="199" height="9"/>
+<line id="outlines-5" x1="73" y1="90" x2="109" y2="90"/>
+<line id="outlines-6" x1="149" y1="90" x2="181" y2="90"/>
+<line id="outlines-7" x1="73" y1="101" x2="109" y2="101"/>
+<line id="outlines-8" x1="149" y1="101" x2="181" y2="101"/>
+<line id="outlines-9" x1="73" y1="123" x2="109" y2="123"/>
+<line id="outlines-10" x1="149" y1="123" x2="181" y2="123"/>
+<rect id="outlines-11" x="75" y="73" width="17" height="13" fill="white"/>
+<line id="outlines-12" x1="75" y1="79.5" x2="92" y2="79.5"/>
+<line id="outlines-13" x1="83.5" y1="68" x2="83.5" y2="91"/>
+<rect id="outlines-14" x="75" y="127" width="17" height="14" fill="white"/>
+<line id="outlines-15" x1="75" y1="134.0" x2="92" y2="134.0"/>
+<line id="outlines-16" x1="83.5" y1="122" x2="83.5" y2="146"/>
+<rect id="outlines-17" x="157" y="73" width="17" height="13" fill="white"/>
+<line id="outlines-18" x1="157" y1="79.5" x2="174" y2="79.5"/>
+<line id="outlines-19" x1="165.5" y1="68" x2="165.5" y2="91"/>
+<rect id="outlines-20" x="157" y="127" width="17" height="14" fill="white"/>
+<line id="outlines-21" x1="157" y1="134.0" x2="174" y2="134.0"/>
+<line id="outlines-22" x1="165.5" y1="122" x2="165.5" y2="146"/>
+<line id="outlines-23" x1="197" y1="35" x2="272" y2="35" marker-end="url(#flow-arrow)"/>
+<line id="outlines-24" x1="124" y1="711" x2="124" y2="653" marker-end="url(#flow-arrow)"/>
+</g>
+<g id="hidden-lines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.3" stroke-dasharray="10 6">
+
+</g>
+<g id="centerlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1" stroke-dasharray="16 4 3 4">
+
+</g>
+<g id="dimensions" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+
+</g>
+<g id="leaders" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+<path id="leaders-25" d="M230 398 L306 358"/>
+<path id="leaders-26" d="M159 500 L307 443"/>
+<path id="leaders-27" d="M230 586 L300 580"/>
+<path id="leaders-28" d="M229 640 L300 661"/>
+</g>
+<g id="annotations" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="0">
+<text id="annotations-29" font-family="sans-serif" stroke="none" fill="black" x="315" y="51.8" font-size="14.085036057692308" textLength="150" lengthAdjust="spacingAndGlyphs">接鼓风进待填入文字_a</text>
+<text id="annotations-30" font-family="sans-serif" stroke="none" fill="black" x="315" y="373.2" font-size="30" textLength="66" lengthAdjust="spacingAndGlyphs">木桶</text>
+<text id="annotations-31" font-family="sans-serif" stroke="none" fill="black" x="313" y="470.0" font-size="30" textLength="70" lengthAdjust="spacingAndGlyphs">陶圈</text>
+<text id="annotations-32" font-family="sans-serif" stroke="none" fill="black" x="312" y="596.2" font-size="30" textLength="135" lengthAdjust="spacingAndGlyphs">多孔漏板</text>
+<text id="annotations-33" font-family="sans-serif" stroke="none" fill="black" x="312" y="692.0" font-size="30" textLength="106" lengthAdjust="spacingAndGlyphs">毛巾布</text>
+<text id="annotations-34" font-family="sans-serif" stroke="none" fill="black" x="64" y="748.0" font-size="30" textLength="131" lengthAdjust="spacingAndGlyphs">空气进口</text>
+</g>
+<!-- 待填入: a=右上方被裁切的进口标注 -->
+</svg>

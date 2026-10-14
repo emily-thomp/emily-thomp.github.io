@@ -73,7 +73,14 @@ Dry the filtered precipitate in an oven and grind it to powder. Calcine the dry 
 
 Without a tablet press, the book describes drying the precipitate at 80°C, grinding it, mixing it with distilled water to a paste, and extruding strands. The extruder could be homemade or a hand-operated meat grinder. Dry the strands, break them into particles of the stated size, and then calcine.
 
-![Original catalyst-manufacturing flowsheet](../assets/figures/p37_f01.png)
+=== "SVG redraw"
+
+    ![Original catalyst-manufacturing flowsheet](../assets/figures/p37_f01.svg)
+
+=== "Original scan"
+
+    ![Original catalyst-manufacturing flowsheet](../assets/figures/p37_f01.png)
+
 
 The preparation of iron–bismuth and iron–chromium catalysts is broadly similar. The text concentrates on iron–bismuth because chromium compounds were difficult to purchase, while the iron–bismuth materials were domestically available and relatively inexpensive.
 

@@ -28,7 +28,14 @@ Previously, this process generally used large conventional plants. Platinum–rh
 
 Ammonia in cylinders is vaporized by hot water or steam and admitted to the pressure-buffer vessel (1). A valve controls its flow, which is measured with an orifice flowmeter (2), before it enters the ammonia–air mixer (4).
 
-![Ammonia oxidation flowsheet](../assets/figures/p07_f01.png)
+=== "SVG redraw"
+
+    ![Ammonia oxidation flowsheet](../assets/figures/p07_f01.svg)
+
+=== "Original scan"
+
+    ![Ammonia oxidation flowsheet](../assets/figures/p07_f01.png)
+
 
 | Number | Equipment |
 | --- | --- |
@@ -65,7 +72,16 @@ Air for ammonia oxidation must be clean. Contaminants can poison the catalyst, l
 
 The filter may be a wooden barrel or a converted diesel drum, about 0.8 m high and 0.4 m in diameter, packed with 20 × 20 mm ceramic rings. Short bamboo rings may substitute for ceramic rings. Wash and dry the packing, wet it with viscous machine oil, let excess oil drain, and place it in the barrel. Towelling or flannel at the bottom removes coarse dust; the oiled rings retain finer particles.
 
-![Air filter](../assets/figures/p09_f01.png)
+=== "SVG redraw"
+
+    ![Air filter](../assets/figures/p09_f01.svg)
+
+    > Some annotations in this supplied redraw remain unresolved; compare the original scan.
+
+=== "Original scan"
+
+    ![Air filter](../assets/figures/p09_f01.png)
+
 
 Replace and wash the cloth frequently. After several months, clean the rings as their condition requires: remove them, wash off deposits with kerosene, and reapply machine oil.
 
@@ -95,7 +111,14 @@ Both flows must be controlled strictly and kept stable, usually at 9–10.5% amm
 
 Where instruments are difficult to obtain, a simple orifice differential-pressure meter can be made more cheaply. A thin metal plate with a small central hole is clamped between flanges. Static-pressure taps upstream and downstream connect to an inclined liquid-column differential manometer, from which flow is determined.
 
-![Orifice differential-pressure flowmeter](../assets/figures/p11_f01.png)
+=== "SVG redraw"
+
+    ![Orifice differential-pressure flowmeter](../assets/figures/p11_f01.svg)
+
+=== "Original scan"
+
+    ![Orifice differential-pressure flowmeter](../assets/figures/p11_f01.png)
+
 
 Calibrate it against an accurate meter before use. Connect a blower upstream and a gas meter downstream. Record the actual flow corresponding to different pressure differences, establishing a relation between manometer reading and m³/h.
 
@@ -107,13 +130,27 @@ Thorough mixing ensures uniform reaction across the catalyst. Poor mixing gives 
 
 The aluminium mixer has a 100 mm air inlet and a 30 mm ammonia inlet. It contains 20 × 20 mm ceramic packing rings. Ammonia enters through a 10 mm nozzle, mixes with air at the nozzle outlet, and is mixed further in the packing before leaving for the oxidizer.
 
-![Packed mixer](../assets/figures/p12_f01.png)
+=== "SVG redraw"
+
+    ![Packed mixer](../assets/figures/p12_f01.svg)
+
+=== "Original scan"
+
+    ![Packed mixer](../assets/figures/p12_f01.png)
+
 
 #### Baffled mixer
 
 An aluminium vessel, 200 mm in diameter and about 1 m long, contains ten baffles. Repeated changes in gas direction produce mixing. Insulate its wall against heat loss; the original describes asbestos rope covered with an asbestos-based insulating paste.
 
-![Baffled mixer](../assets/figures/p12_f02.png)
+=== "SVG redraw"
+
+    ![Baffled mixer](../assets/figures/p12_f02.svg)
+
+=== "Original scan"
+
+    ![Baffled mixer](../assets/figures/p12_f02.png)
+
 
 ### 5. Catalytic ammonia oxidizer
 
@@ -121,7 +158,14 @@ This is a principal unit of the plant. Ammonia and air react over the catalyst t
 
 The mixture enters through a 100 mm aluminium pipe at the top. The aluminium cover is conical, at 45° to the horizontal, or preferably 65°, to distribute gas uniformly across the catalyst. An asbestos seal between cover and vessel is bolted tight. Two 100 mm viewing ports, covered with transparent mica, permit observation and also serve as ignition openings when the mica is removed.
 
-![Oxidizer for a non-platinum catalyst](../assets/figures/p13_f01.png)
+=== "SVG redraw"
+
+    ![Oxidizer for a non-platinum catalyst](../assets/figures/p13_f01.svg)
+
+=== "Original scan"
+
+    ![Oxidizer for a non-platinum catalyst](../assets/figures/p13_f01.png)
+
 
 The iron shell can be assembled from old diesel drums. It has about 12 cm of insulating brick lining and an inner refractory-brick lining. A flange ring 30 cm below the top supports an optional platinum gauze; omit it if using only a non-platinum catalyst. A nickel mesh 50 cm below the top supports the catalyst. Stainless mesh with 16 openings per inch may substitute, or a perforated refractory plate with holes smaller than the catalyst particles and enough total open area to avoid excessive resistance.
 
@@ -129,7 +173,14 @@ A chromium–aluminium thermocouple is installed in the bed to measure temperatu
 
 The viewing ports should expose the whole bed surface and allow the ignition flame to reach it. Seal the thermocouple penetration against leakage with matching flanges on the shell and thermocouple tube, asbestos packing, and bolts. Position its tip near the centre of the vessel.
 
-![Thermocouple installation](../assets/figures/p14_f01.png)
+=== "SVG redraw"
+
+    ![Thermocouple installation](../assets/figures/p14_f01.svg)
+
+=== "Original scan"
+
+    ![Thermocouple installation](../assets/figures/p14_f01.png)
+
 
 Refractory-brick reactors may leak ammonia through cracks, bypassing the catalyst and reducing conversion while forming ammonium-nitrate mist. Weld a plate flange ring at the bed support so leaked gas still passes through the catalyst. Minimize thermal cracking, use relatively thick refractory mortar, and add a little water glass when mixing it.
 
@@ -185,7 +236,16 @@ Non-platinum iron–bismuth reactors were used by the institute, Tiangong Acid a
 
 The book then provides the Tiangong flowsheet and reactor drawing.
 
-![Tiangong nitric acid flowsheet](../assets/figures/p17_f01.png)
+=== "SVG redraw"
+
+    ![Tiangong nitric acid flowsheet](../assets/figures/p17_f01.svg)
+
+    > Some annotations in this supplied redraw remain unresolved; compare the original scan.
+
+=== "Original scan"
+
+    ![Tiangong nitric acid flowsheet](../assets/figures/p17_f01.png)
+
 
 ![Original Tiangong oxidizer drawing](../assets/scans/p18.png)
 
@@ -199,9 +259,23 @@ Gas entering the bed must have a suitable temperature for catalytic reaction. Al
 
 The described exchanger has about 2 m² heat-transfer area, is 1.4 m long and 0.3 m in diameter, and contains eighteen 25 mm heating pipes. Internal baffles improve heat transfer. Insulate the shell with the asbestos-based paste mentioned in the original. Provide a thermometer pocket in the preheated-air line.
 
-![Air preheater, longitudinal view](../assets/figures/p19_f01.png)
+=== "SVG redraw"
 
-![Air preheater, end view](../assets/figures/p19_f02.png)
+    ![Air preheater, longitudinal view](../assets/figures/p19_f01.svg)
+
+=== "Original scan"
+
+    ![Air preheater, longitudinal view](../assets/figures/p19_f01.png)
+
+
+=== "SVG redraw"
+
+    ![Air preheater, end view](../assets/figures/p19_f02.svg)
+
+=== "Original scan"
+
+    ![Air preheater, end view](../assets/figures/p19_f02.png)
+
 
 ### 7. Ammonia pressure-buffer vessel
 
@@ -209,7 +283,14 @@ Ammonia feed is normally supplied as liquid in steel cylinders. Direct cylinder 
 
 The iron vessel is to withstand 15 kg/cm² and have an ammonia pressure gauge. Operating pressure is about 4–5 kg/cm². If pressure is too high, remove the hot water from the cylinder to stop vaporization. Control delivery with the outlet valve. Existing equipment may be converted; larger volume provides more reserve and more time to change cylinders.
 
-![Ammonia pressure-buffer vessel](../assets/figures/p20_f01.png)
+=== "SVG redraw"
+
+    ![Ammonia pressure-buffer vessel](../assets/figures/p20_f01.svg)
+
+=== "Original scan"
+
+    ![Ammonia pressure-buffer vessel](../assets/figures/p20_f01.png)
+
 
 ### 8. Nitrogen-oxide gas cooler
 
@@ -223,13 +304,27 @@ Ceramic pipes transfer heat relatively poorly and require greater area. The illu
 
 Connect straight sections and elbows in an S-shaped path. The original uses asbestos-board gaskets first treated in paraffin and coated on both sides with tallow, then clamped with flanges.
 
-![Flat-ended ceramic-pipe connection](../assets/figures/p21_f01.png)
+=== "SVG redraw"
+
+    ![Flat-ended ceramic-pipe connection](../assets/figures/p21_f01.svg)
+
+=== "Original scan"
+
+    ![Flat-ended ceramic-pipe connection](../assets/figures/p21_f01.png)
+
 
 #### Socketed ceramic pipes
 
 Pack the joints with asbestos rope soaked in water glass and seal them with acid-resistant cement or diabase-powder mortar. Allow the joints to dry fully; inadequate sealing causes acid or gas leakage.
 
-![Socketed ceramic-pipe connection](../assets/figures/p21_f02.png)
+=== "SVG redraw"
+
+    ![Socketed ceramic-pipe connection](../assets/figures/p21_f02.svg)
+
+=== "Original scan"
+
+    ![Socketed ceramic-pipe connection](../assets/figures/p21_f02.png)
+
 
 #### Glass-pipe cooler
 
@@ -237,7 +332,14 @@ China No. 3 Dye Works in Shanghai reported successful glass coolers at lower cos
 
 The glass pipes are about 40 mm in diameter. Three parallel rows of ten pipes give about 10 m² cooling area. The text reports better cooling than ceramic pipes.
 
-![Glass-pipe cooler](../assets/figures/p22_f01.png)
+=== "SVG redraw"
+
+    ![Glass-pipe cooler](../assets/figures/p22_f01.svg)
+
+=== "Original scan"
+
+    ![Glass-pipe cooler](../assets/figures/p22_f01.png)
+
 
 ### 9. Oxidation and absorption towers
 
@@ -259,7 +361,16 @@ Better cooling permits a smaller volume; the text generally selects 5 m³. The d
 
 Use jars of the same dimensions, joining mouth to mouth and bottom to bottom. Seal joints with water-glass-soaked asbestos rope and diabase-powder mortar. Make roughly a dozen holes about 30 mm across in the bottoms for gas passage. A common “seven-shi” jar is stated to hold about 0.4 m³; twelve jars provide sufficient volume. Rather than a dangerously tall stack, use two six-jar towers in series or parallel. Support the jars against tilting and reinforce their mouths with bamboo hoops.
 
-![Oxidation-tower construction](../assets/figures/p24_f01.png)
+=== "SVG redraw"
+
+    ![Oxidation-tower construction](../assets/figures/p24_f01.svg)
+
+    > Some annotations in this supplied redraw remain unresolved; compare the original scan.
+
+=== "Original scan"
+
+    ![Oxidation-tower construction](../assets/figures/p24_f01.png)
+
 
 #### Ceramic-section towers
 
@@ -279,7 +390,14 @@ Poor cooling, particularly in summer, permits yellow nitrogen oxides to escape f
 
 Install successive towers with a 20–30 cm difference in elevation so acid can overflow from the fifth towards the first; five towers on one level make acid transfer difficult.
 
-![Absorption-tower arrangement](../assets/figures/p25_f01.png)
+=== "SVG redraw"
+
+    ![Absorption-tower arrangement](../assets/figures/p25_f01.svg)
+
+=== "Original scan"
+
+    ![Absorption-tower arrangement](../assets/figures/p25_f01.png)
+
 
 Commercial ceramic acid distributors are available. Alternatively, place three porcelain cups on the packing and one above them. Pump acid first into the top cup; some overflows directly onto the packing and some into the three lower cups, spreading it more evenly.
 
@@ -287,9 +405,27 @@ The circulating-acid coolers may use glass tubes like the gas cooler. The specif
 
 Hardwood acid pumps, coated internally six or seven times with perchlorovinyl varnish, were reported to resist acid adequately. Their delivery is about 8 m³/h to a head of 8 m. Wooden pumps from Shanghai Minghuang Works were used; the text anticipates replacing wood with rigid PVC for better acid resistance.
 
-![Single-row absorption flowsheet](../assets/figures/p26_f01.png)
+=== "SVG redraw"
 
-![Two-row parallel absorption flowsheet](../assets/figures/p27_f01.png)
+    ![Single-row absorption flowsheet](../assets/figures/p26_f01.svg)
+
+    > Some annotations in this supplied redraw remain unresolved; compare the original scan.
+
+=== "Original scan"
+
+    ![Single-row absorption flowsheet](../assets/figures/p26_f01.png)
+
+
+=== "SVG redraw"
+
+    ![Two-row parallel absorption flowsheet](../assets/figures/p27_f01.svg)
+
+    > Some annotations in this supplied redraw remain unresolved; compare the original scan.
+
+=== "Original scan"
+
+    ![Two-row parallel absorption flowsheet](../assets/figures/p27_f01.png)
+
 
 ---
 

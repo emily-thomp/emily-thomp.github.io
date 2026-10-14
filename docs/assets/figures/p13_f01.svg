@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1088" height="854" viewBox="0 0 1088 854">
+<defs>
+<pattern id="hatch" width="11" height="11" patternUnits="userSpaceOnUse"><path d="M-2 2 L2 -2 M0 11 L11 0 M9 13 L13 9" fill="none" stroke="black" stroke-width="1"/></pattern>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".8"/><circle cx="9" cy="9" r=".8"/></pattern>
+<marker id="flow-arrow" viewBox="0 0 12 8" refX="11" refY="4" markerWidth="12" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0 L12 4 L0 8 Z" fill="black"/></marker>
+<marker id="dim-arrow" viewBox="0 0 10 6" refX="10" refY="3" markerWidth="10" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M10 3 L0 0 L0 6 Z" fill="black"/></marker>
+</defs>
+<rect id="paper" width="100%" height="100%" fill="white"/>
+<g id="hatching" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.8">
+<polygon id="hatching-1" points="263,383 286,383 286,475 315,475 315,618 442,747 442,796 409,796 263,646" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-2" points="634,383 655,383 655,646 518,786 476,786 476,751 603,620 603,475 634,475" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-3" points="229,382 257,382 257,650 407,801 440,803 444,813 686,821 686,830 229,830" fill="url(#dots)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-4" points="660,382 687,382 687,785 523,785 660,646" fill="url(#dots)" stroke="black" stroke-width="1.8"/>
+</g>
+<g id="outlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="2.5">
+<g id="furnace-cover">
+<path id="outlines-5" d="M263 375 L449 207 V88 Q449 68 465 68 H671 V53 M634 375 L479 212 V114 Q479 101 492 101 H671 V115"/>
+</g>
+<line id="outlines-6" x1="671" y1="68" x2="479" y2="68"/>
+<line id="outlines-7" x1="534" y1="15" x2="534" y2="83"/>
+<line id="outlines-8" x1="541" y1="16" x2="541" y2="82"/>
+<path id="outlines-9" d="M228 377 H290 V474 H316 V616 L444 746 V797 Q442 815 458 816 H811 V835 M690 379 H633 V474 H604 V616 L475 746 V788 H713 V766 M723 766 V789 H811 V817"/>
+<rect id="outlines-10" x="227" y="377" width="33" height="455"/>
+<path id="outlines-11" d="M656 377 H690 V788 H522 M317 510 H603 M317 533 H603"/>
+<circle id="outlines-13" cx="334" cy="503" r="3" fill="white"/>
+<circle id="outlines-14" cx="365" cy="507" r="3" fill="white"/>
+<circle id="outlines-15" cx="400" cy="503" r="3" fill="white"/>
+<circle id="outlines-16" cx="439" cy="503" r="3" fill="white"/>
+<circle id="outlines-17" cx="479" cy="507" r="3" fill="white"/>
+<circle id="outlines-18" cx="515" cy="507" r="3" fill="white"/>
+<circle id="outlines-19" cx="550" cy="503" r="3" fill="white"/>
+<circle id="outlines-20" cx="584" cy="507" r="3" fill="white"/>
+<circle id="outlines-21" cx="326" cy="520" r="2" fill="white"/>
+<circle id="outlines-22" cx="359" cy="520" r="2" fill="white"/>
+<circle id="outlines-23" cx="389" cy="520" r="2" fill="white"/>
+<circle id="outlines-24" cx="430" cy="520" r="2" fill="white"/>
+<circle id="outlines-25" cx="461" cy="520" r="2" fill="white"/>
+<circle id="outlines-26" cx="502" cy="520" r="2" fill="white"/>
+<circle id="outlines-27" cx="534" cy="520" r="2" fill="white"/>
+<circle id="outlines-28" cx="570" cy="520" r="2" fill="white"/>
+<circle id="outlines-29" cx="592" cy="520" r="2" fill="white"/>
+<rect id="outlines-30" x="259" y="359" width="20" height="13" fill="black"/>
+<rect id="outlines-31" x="637" y="359" width="21" height="14" fill="black"/>
+<path id="outlines-32" d="M293 470 V454 H301 V473 M611 470 V454 H620 V473 M691 503 H748 L776 503 M691 510 H748 L779 512"/>
+<path id="outlines-34" d="M329 285 L350 263 L369 282 L348 304 Z M326 289 L355 251 M546 266 L562 250 L590 278 L575 294 Z"/>
+<circle id="outlines-35" cx="465" cy="320" r="6"/>
+<path id="outlines-69" d="M298 376 a28 28 0 0 1 9 -20 M318 616 a35 35 0 0 1 34 17" stroke-width="1.2"/>
+</g>
+<g id="hidden-lines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.3" stroke-dasharray="10 6">
+<path id="hidden-lines-12" d="M318 484 H604 M318 530 H604"/>
+</g>
+<g id="centerlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1" stroke-dasharray="16 4 3 4">
+<path id="centerlines-33" d="M746 507 H798"/>
+</g>
+<g id="dimensions" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+<line id="dimensions-49" x1="207" y1="280" x2="221" y2="280"/>
+<line id="dimensions-50" x1="258" y1="377" x2="221" y2="377"/>
+<line id="dimensions-51" x1="209" y1="280" x2="209" y2="286" marker-start="url(#dim-arrow)"/>
+<line id="dimensions-52" x1="209" y1="341" x2="209" y2="377" marker-end="url(#dim-arrow)"/>
+<line id="dimensions-53" x1="290" y1="378" x2="347" y2="378"/>
+<line id="dimensions-54" x1="317" y1="484" x2="347" y2="484"/>
+<line id="dimensions-55" x1="335" y1="378" x2="335" y2="393" marker-start="url(#dim-arrow)"/>
+<line id="dimensions-56" x1="335" y1="480" x2="335" y2="484" marker-end="url(#dim-arrow)"/>
+<line id="dimensions-57" x1="401" y1="378" x2="395" y2="378"/>
+<line id="dimensions-58" x1="317" y1="530" x2="395" y2="530"/>
+<line id="dimensions-59" x1="383" y1="378" x2="383" y2="413" marker-start="url(#dim-arrow)"/>
+<line id="dimensions-60" x1="383" y1="481" x2="383" y2="530" marker-end="url(#dim-arrow)"/>
+<line id="dimensions-61" x1="544" y1="378" x2="570" y2="378"/>
+<line id="dimensions-62" x1="604" y1="615" x2="570" y2="615"/>
+<line id="dimensions-63" x1="558" y1="378" x2="558" y2="403" marker-start="url(#dim-arrow)"/>
+<line id="dimensions-64" x1="558" y1="498" x2="558" y2="615" marker-end="url(#dim-arrow)"/>
+<line id="dimensions-65" x1="317" y1="602" x2="317" y2="595"/>
+<line id="dimensions-66" x1="604" y1="602" x2="604" y2="595"/>
+<line id="dimensions-67" x1="317" y1="583" x2="419" y2="583" marker-start="url(#dim-arrow)"/>
+<line id="dimensions-68" x1="491" y1="583" x2="604" y2="583" marker-end="url(#dim-arrow)"/>
+</g>
+<g id="leaders" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+<path id="leaders-36" d="M187 216 L327 332"/>
+<path id="leaders-37" d="M188 452 L293 452"/>
+<path id="leaders-38" d="M184 504 L316 504"/>
+<path id="leaders-39" d="M184 548 L214 548 L239 533"/>
+<path id="leaders-40" d="M183 601 L258 601"/>
+<path id="leaders-41" d="M183 695 L259 695"/>
+<path id="leaders-42" d="M182 783 L223 787"/>
+<path id="leaders-43" d="M541 31 L816 31"/>
+<path id="leaders-44" d="M465 313 L547 201 L816 201"/>
+<path id="leaders-45" d="M583 298 L635 315 L817 315"/>
+<path id="leaders-46" d="M731 507 L816 448"/>
+<path id="leaders-47" d="M591 523 L622 565 L816 565"/>
+<path id="leaders-48" d="M728 776 L806 752"/>
+</g>
+<g id="annotations" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="0">
+<text id="annotations-70" font-family="sans-serif" stroke="none" fill="black" x="11" y="220.4" font-size="30" textLength="163" lengthAdjust="spacingAndGlyphs">铝质氨炉盖</text>
+<text id="annotations-71" font-family="sans-serif" stroke="none" fill="black" x="11" y="445.6" font-size="29.6" textLength="159" lengthAdjust="spacingAndGlyphs">可按装铂网</text>
+<text id="annotations-72" font-family="sans-serif" stroke="none" fill="black" x="68" y="508.2" font-size="30" textLength="106" lengthAdjust="spacingAndGlyphs">触媒层</text>
+<text id="annotations-73" font-family="sans-serif" stroke="none" fill="black" x="37" y="558.2" font-size="30" textLength="134" lengthAdjust="spacingAndGlyphs">铁法兰圈</text>
+<text id="annotations-74" font-family="sans-serif" stroke="none" fill="black" x="65" y="606.2" font-size="30" textLength="104" lengthAdjust="spacingAndGlyphs">耐火砖</text>
+<text id="annotations-75" font-family="sans-serif" stroke="none" fill="black" x="65" y="705.8" font-size="30" textLength="106" lengthAdjust="spacingAndGlyphs">保温砖</text>
+<text id="annotations-76" font-family="sans-serif" stroke="none" fill="black" x="68" y="800.8" font-size="30" textLength="101" lengthAdjust="spacingAndGlyphs">铁外壳</text>
+<text id="annotations-77" font-family="sans-serif" stroke="none" fill="black" x="830" y="42.6" font-size="29.6" textLength="104" lengthAdjust="spacingAndGlyphs">取样孔</text>
+<text id="annotations-78" font-family="sans-serif" stroke="none" fill="black" x="831" y="220.4" font-size="30" textLength="104" lengthAdjust="spacingAndGlyphs">取样孔</text>
+<text id="annotations-79" font-family="sans-serif" stroke="none" fill="black" x="831" y="317.8" font-size="27.350427350427353" textLength="256" lengthAdjust="spacingAndGlyphs">窥孔（兼作点火孔）</text>
+<text id="annotations-80" font-family="sans-serif" stroke="none" fill="black" x="829" y="445.0" font-size="30" textLength="106" lengthAdjust="spacingAndGlyphs">热电偶</text>
+<text id="annotations-81" font-family="sans-serif" stroke="none" fill="black" x="824" y="577.0" font-size="30" textLength="263" lengthAdjust="spacingAndGlyphs">镍网或耐火多孔板</text>
+<text id="annotations-82" font-family="sans-serif" stroke="none" fill="black" x="823" y="751.0" font-size="30" textLength="106" lengthAdjust="spacingAndGlyphs">取样孔</text>
+<text id="annotations-83" font-family="sans-serif" stroke="none" fill="black" x="431" y="597.2" font-size="30" textLength="52" lengthAdjust="spacingAndGlyphs">1米</text>
+<text id="annotations-84" font-family="sans-serif" stroke="none" fill="black" x="314" y="368.2" font-size="30" textLength="59" lengthAdjust="spacingAndGlyphs">45°</text>
+<text id="annotations-85" font-family="sans-serif" stroke="none" fill="black" x="344" y="649.4" font-size="25.33085194375517" textLength="49" lengthAdjust="spacingAndGlyphs">45°</text>
+<text id="annotations-86" font-family="sans-serif" stroke="none" fill="black" transform="translate(219.25 340) rotate(-90)" font-size="22.189349112426033" textLength="66" lengthAdjust="spacingAndGlyphs">1.5米</text>
+<text id="annotations-87" font-family="sans-serif" stroke="none" fill="black" transform="translate(345.5 486) rotate(-90)" font-size="27.599715099715098" textLength="93" lengthAdjust="spacingAndGlyphs">30厘米</text>
+<text id="annotations-88" font-family="sans-serif" stroke="none" fill="black" transform="translate(398.75 486) rotate(-90)" font-size="22.257834757834758" textLength="75" lengthAdjust="spacingAndGlyphs">50厘米</text>
+<text id="annotations-89" font-family="sans-serif" stroke="none" fill="black" transform="translate(569.75 498) rotate(-90)" font-size="27.302943969610634" textLength="92" lengthAdjust="spacingAndGlyphs">80厘米</text>
+</g>
+<!-- 待填入: 无 -->
+</svg>

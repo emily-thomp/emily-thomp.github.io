@@ -6,3 +6,4 @@
 .md-typeset table:not([class]) { font-variant-numeric: tabular-nums; }
 .md-typeset blockquote { font-size: .92em; }
 .md-select__link { white-space: nowrap; }
+.md-typeset img[src$=".svg"] { background: #fff; padding: .6rem; border-radius: .2rem; }

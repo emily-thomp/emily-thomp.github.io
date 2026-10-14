@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1023" height="535" viewBox="0 0 1023 535">
+<defs>
+<pattern id="hatch" width="11" height="11" patternUnits="userSpaceOnUse"><path d="M-2 2 L2 -2 M0 11 L11 0 M9 13 L13 9" fill="none" stroke="black" stroke-width="1"/></pattern>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".8"/><circle cx="9" cy="9" r=".8"/></pattern>
+<marker id="flow-arrow" viewBox="0 0 12 8" refX="11" refY="4" markerWidth="12" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0 L12 4 L0 8 Z" fill="black"/></marker>
+<marker id="dim-arrow" viewBox="0 0 10 6" refX="10" refY="3" markerWidth="10" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M10 3 L0 0 L0 6 Z" fill="black"/></marker>
+</defs>
+<rect id="paper" width="100%" height="100%" fill="white"/>
+<g id="hatching" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.8">
+
+</g>
+<g id="outlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="2.5">
+<g id="buffer-vessel">
+<rect id="outlines-1" x="47" y="83" width="96" height="35" rx="17"/>
+</g>
+<path id="outlines-2" d="M8 41 H62 V83 M130 83 V24 H255 V45 M98 83 V68"/>
+<polygon id="outlines-3" points="57,60 67,60 57,70 67,70" fill="white"/>
+<polygon id="outlines-4" points="125,50 135,50 125,60 135,60" fill="white"/>
+<circle id="outlines-5" cx="98" cy="59" r="6" fill="white"/>
+<line id="outlines-6" x1="98" y1="59" x2="94" y2="53" stroke-width="1.2"/>
+<circle id="outlines-7" cx="98" cy="59" r="1.5" fill="black" stroke="none"/>
+<rect id="outlines-8" x="239" y="45" width="31" height="66"/>
+<path id="outlines-9" d="M255 111 V157 L228 178 V245 L255 264 L283 245 V178 L255 157"/>
+<line id="outlines-10" x1="228" y1="178" x2="283" y2="178"/>
+<line id="outlines-11" x1="228" y1="245" x2="283" y2="245"/>
+<path id="outlines-12" d="M181 24 V34 H169 V41 H177 V91 a5 5 0 0 0 10 0 V41 H198 V34 H188 V24"/>
+<path id="outlines-13" d="M270 55 H369 V295 M300 55 V397 H322 a7 7 0 0 1 0 14 H321 V453 a5 5 0 0 1 -10 0 V411 H300 M255 264 V319 H357"/>
+<rect id="outlines-14" x="357" y="295" width="92" height="42"/>
+<path id="outlines-15" d="M449 319 H528 V302 M437 337 V369 H300 V482 M300 466 H557 V197 H573"/>
+<rect id="outlines-16" x="528" y="271" width="20" height="31"/>
+<path id="outlines-17" d="M538 271 V197 H557 M110 490 H139 M219 490 H276"/>
+<rect id="outlines-18" x="139" y="472" width="80" height="34"/>
+<circle id="outlines-19" cx="289" cy="497" r="14" fill="white"/>
+<polygon id="outlines-20" points="275,525 303,525 294,511 284,511" fill="white"/>
+<circle id="outlines-21" cx="289" cy="497" r="1.8" fill="black" stroke="none"/>
+<polygon id="outlines-22" points="295,364 295,374 305,364 305,374" fill="white"/>
+<polygon id="outlines-23" points="330,364 330,374 340,364 340,374" fill="white"/>
+<polygon id="outlines-24" points="407,461 407,471 417,461 417,471" fill="white"/>
+<g id="tower-1">
+<rect id="outlines-25" x="573" y="181" width="32" height="174"/>
+</g>
+<path id="outlines-26" d="M605 338 H637"/>
+<g id="tower-2">
+<rect id="outlines-27" x="637" y="180" width="30" height="175"/>
+</g>
+<path id="outlines-28" d="M649 180 V164 H683 V195 H667 M649 355 V385 H675 V195"/>
+<circle id="outlines-29" cx="675" cy="390" r="7" fill="white"/>
+<polygon id="outlines-30" points="668,411 682,411 680,397 670,397" fill="white"/>
+<circle id="outlines-31" cx="675" cy="390" r="1.8" fill="black" stroke="none"/>
+<path id="outlines-32" d="M667 195 H703"/>
+<path id="outlines-33" d="M667 331 H703"/>
+<g id="tower-3">
+<rect id="outlines-34" x="703" y="180" width="32" height="175"/>
+</g>
+<path id="outlines-35" d="M715 180 V164 H751 V195 H735 M715 355 V385 H743 V195"/>
+<circle id="outlines-36" cx="743" cy="390" r="7" fill="white"/>
+<polygon id="outlines-37" points="736,411 750,411 748,397 738,397" fill="white"/>
+<circle id="outlines-38" cx="743" cy="390" r="1.8" fill="black" stroke="none"/>
+<path id="outlines-39" d="M735 195 H767"/>
+<path id="outlines-40" d="M735 331 H767"/>
+<g id="tower-4">
+<rect id="outlines-41" x="767" y="179" width="33" height="176"/>
+</g>
+<path id="outlines-42" d="M779 179 V164 H816 V195 H800 M779 355 V385 H808 V195"/>
+<circle id="outlines-43" cx="808" cy="390" r="7" fill="white"/>
+<polygon id="outlines-44" points="801,411 815,411 813,397 803,397" fill="white"/>
+<circle id="outlines-45" cx="808" cy="390" r="1.8" fill="black" stroke="none"/>
+<path id="outlines-46" d="M800 195 H831"/>
+<path id="outlines-47" d="M800 331 H831"/>
+<g id="tower-5">
+<rect id="outlines-48" x="831" y="178" width="30" height="177"/>
+</g>
+<path id="outlines-49" d="M843 178 V164 H877 V195 H861 M843 355 V385 H869 V195"/>
+<circle id="outlines-50" cx="869" cy="390" r="7" fill="white"/>
+<polygon id="outlines-51" points="862,411 876,411 874,397 864,397" fill="white"/>
+<circle id="outlines-52" cx="869" cy="390" r="1.8" fill="black" stroke="none"/>
+<path id="outlines-53" d="M861 195 H896"/>
+<path id="outlines-54" d="M861 331 H896"/>
+<g id="tower-6">
+<rect id="outlines-55" x="896" y="178" width="33" height="177"/>
+</g>
+<path id="outlines-56" d="M908 178 V164 H945 V195 H929 M908 355 V385 H937 V195"/>
+<circle id="outlines-57" cx="937" cy="390" r="7" fill="white"/>
+<polygon id="outlines-58" points="930,411 944,411 942,397 932,397" fill="white"/>
+<circle id="outlines-59" cx="937" cy="390" r="1.8" fill="black" stroke="none"/>
+<path id="outlines-60" d="M929 195 H960"/>
+<path id="outlines-61" d="M929 331 H960"/>
+<g id="tower-7">
+<rect id="outlines-62" x="960" y="178" width="38" height="177"/>
+</g>
+<path id="outlines-63" d="M972 178 V164 H1014 V195 H998 M972 355 V385 H1006 V195"/>
+<circle id="outlines-64" cx="1006" cy="390" r="7" fill="white"/>
+<polygon id="outlines-65" points="999,411 1013,411 1011,397 1001,397" fill="white"/>
+<circle id="outlines-66" cx="1006" cy="390" r="1.8" fill="black" stroke="none"/>
+<path id="outlines-67" d="M667 197 C679 207 673 218 680 228 M735 330 C746 320 748 323 753 336 M801 331 C814 320 815 321 822 337 M862 331 C875 318 881 321 886 337"/>
+<path id="outlines-68" d="M998 337 H1014 V108 M898 143 V178 M966 141 V178 M624 339 V399"/>
+<line id="outlines-69" x1="110" y1="490" x2="139" y2="490" marker-end="url(#flow-arrow)"/>
+<line id="outlines-70" x1="223" y1="490" x2="259" y2="490" marker-end="url(#flow-arrow)"/>
+<line id="outlines-71" x1="340" y1="466" x2="425" y2="466" marker-end="url(#flow-arrow)"/>
+</g>
+<g id="hidden-lines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.3" stroke-dasharray="10 6">
+
+</g>
+<g id="centerlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1" stroke-dasharray="16 4 3 4">
+
+</g>
+<g id="dimensions" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+
+</g>
+<g id="leaders" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+
+</g>
+<g id="annotations" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="0">
+<text id="annotations-72" font-family="sans-serif" stroke="none" fill="black" x="75" y="141.4" font-size="22.229114971050457" textLength="43" lengthAdjust="spacingAndGlyphs">(1)</text>
+<text id="annotations-73" font-family="sans-serif" stroke="none" fill="black" x="184" y="65.6" font-size="22.74607113316791" textLength="44" lengthAdjust="spacingAndGlyphs">(2)</text>
+<text id="annotations-74" font-family="sans-serif" stroke="none" fill="black" x="243" y="87.8" font-size="12.923904052936312" textLength="25" lengthAdjust="spacingAndGlyphs">(4)</text>
+<text id="annotations-75" font-family="sans-serif" stroke="none" fill="black" x="238" y="220.0" font-size="20.161290322580648" textLength="39" lengthAdjust="spacingAndGlyphs">(5)</text>
+<text id="annotations-76" font-family="sans-serif" stroke="none" fill="black" x="325" y="434.2" font-size="18.093465674110835" textLength="35" lengthAdjust="spacingAndGlyphs">(2)</text>
+<text id="annotations-77" font-family="sans-serif" stroke="none" fill="black" x="159" y="462.0" font-size="23.26302729528536" textLength="45" lengthAdjust="spacingAndGlyphs">(3)</text>
+<text id="annotations-78" font-family="sans-serif" stroke="none" fill="black" x="311" y="499.6" font-size="16.542597187758478" textLength="32" lengthAdjust="spacingAndGlyphs">(6)</text>
+<text id="annotations-79" font-family="sans-serif" stroke="none" fill="black" x="386" y="324.0" font-size="19.127377998345743" textLength="37" lengthAdjust="spacingAndGlyphs">(7)</text>
+<text id="annotations-80" font-family="sans-serif" stroke="none" fill="black" x="488" y="299.0" font-size="14.733250620347393" textLength="38" lengthAdjust="spacingAndGlyphs">(12)</text>
+<text id="annotations-81" font-family="sans-serif" stroke="none" fill="black" x="576" y="278.4" font-size="13.440860215053764" textLength="26" lengthAdjust="spacingAndGlyphs">(8)</text>
+<text id="annotations-82" font-family="sans-serif" stroke="none" fill="black" x="640" y="273.8" font-size="12.40694789081886" textLength="24" lengthAdjust="spacingAndGlyphs">(9)</text>
+<text id="annotations-83" font-family="sans-serif" stroke="none" fill="black" x="706" y="276.0" font-size="13.440860215053764" textLength="26" lengthAdjust="spacingAndGlyphs">(9)</text>
+<text id="annotations-84" font-family="sans-serif" stroke="none" fill="black" x="769" y="275.6" font-size="14.474772539288669" textLength="28" lengthAdjust="spacingAndGlyphs">(9)</text>
+<text id="annotations-85" font-family="sans-serif" stroke="none" fill="black" x="834" y="273.8" font-size="12.40694789081886" textLength="24" lengthAdjust="spacingAndGlyphs">(9)</text>
+<text id="annotations-86" font-family="sans-serif" stroke="none" fill="black" x="899" y="273.8" font-size="13.957816377171216" textLength="27" lengthAdjust="spacingAndGlyphs">(9)</text>
+<text id="annotations-87" font-family="sans-serif" stroke="none" fill="black" x="962" y="273.6" font-size="12.794665012406947" textLength="33" lengthAdjust="spacingAndGlyphs">(10)</text>
+<text id="annotations-88" font-family="sans-serif" stroke="none" fill="black" x="880" y="132.2" font-size="23.26302729528536" textLength="45" lengthAdjust="spacingAndGlyphs">H₂O</text>
+<text id="annotations-89" font-family="sans-serif" stroke="none" fill="black" x="936" y="132.6" font-size="24.038461538461537" textLength="62" lengthAdjust="spacingAndGlyphs">NaOH</text>
+<text id="annotations-90" font-family="sans-serif" stroke="none" fill="black" x="602" y="426.4" font-size="21.712158808933" textLength="56" lengthAdjust="spacingAndGlyphs">HNO₃</text>
+<text id="annotations-91" font-family="sans-serif" stroke="none" fill="black" x="657" y="424.6" font-size="13.957816377171214" textLength="36" lengthAdjust="spacingAndGlyphs">(11)</text>
+<text id="annotations-92" font-family="sans-serif" stroke="none" fill="black" x="724" y="424.6" font-size="13.957816377171214" textLength="36" lengthAdjust="spacingAndGlyphs">(11)</text>
+<text id="annotations-93" font-family="sans-serif" stroke="none" fill="black" x="790" y="424.6" font-size="13.957816377171214" textLength="36" lengthAdjust="spacingAndGlyphs">(11)</text>
+<text id="annotations-94" font-family="sans-serif" stroke="none" fill="black" x="854" y="424.6" font-size="13.957816377171214" textLength="36" lengthAdjust="spacingAndGlyphs">(11)</text>
+<text id="annotations-95" font-family="sans-serif" stroke="none" fill="black" x="918" y="424.6" font-size="13.957816377171214" textLength="36" lengthAdjust="spacingAndGlyphs">(11)</text>
+<text id="annotations-96" font-family="sans-serif" stroke="none" fill="black" x="971" y="424.6" font-size="17.05955334987593" textLength="44" lengthAdjust="spacingAndGlyphs">(11)</text>
+</g>
+<!-- 待填入: 无 -->
+</svg>

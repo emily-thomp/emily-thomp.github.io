@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1004" height="263" viewBox="0 0 1004 263">
+<defs>
+<pattern id="hatch" width="11" height="11" patternUnits="userSpaceOnUse"><path d="M-2 2 L2 -2 M0 11 L11 0 M9 13 L13 9" fill="none" stroke="black" stroke-width="1"/></pattern>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".8"/><circle cx="9" cy="9" r=".8"/></pattern>
+<marker id="flow-arrow" viewBox="0 0 12 8" refX="11" refY="4" markerWidth="12" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0 L12 4 L0 8 Z" fill="black"/></marker>
+<marker id="dim-arrow" viewBox="0 0 10 6" refX="10" refY="3" markerWidth="10" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M10 3 L0 0 L0 6 Z" fill="black"/></marker>
+</defs>
+<rect id="paper" width="100%" height="100%" fill="white"/>
+<g id="hatching" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.8">
+
+</g>
+<g id="outlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="2.5">
+<path id="outlines-1" d="M142 131 H235 L286 95 H847 L895 120 H943 a30 30 0 0 1 30 30 V239 H999 M142 200 V180 H235 L286 205 H847 L895 168 H914 a9 9 0 0 1 9 9 V240 H900"/>
+<path id="outlines-2" d="M180 80 V158 H208 M193 80 V147 H214 M142 105 V131"/>
+<line id="outlines-3" x1="353" y1="95" x2="353" y2="165"/>
+<line id="outlines-4" x1="291" y1="132" x2="291" y2="204"/>
+<line id="outlines-5" x1="476" y1="95" x2="476" y2="165"/>
+<line id="outlines-6" x1="414" y1="132" x2="414" y2="204"/>
+<line id="outlines-7" x1="599" y1="95" x2="599" y2="165"/>
+<line id="outlines-8" x1="537" y1="132" x2="537" y2="204"/>
+<line id="outlines-9" x1="722" y1="95" x2="722" y2="165"/>
+<line id="outlines-10" x1="660" y1="132" x2="660" y2="204"/>
+<line id="outlines-11" x1="845" y1="95" x2="845" y2="165"/>
+<line id="outlines-12" x1="783" y1="132" x2="783" y2="204"/>
+<line id="outlines-13" x1="185" y1="49" x2="185" y2="83" marker-end="url(#flow-arrow)"/>
+<line id="outlines-14" x1="84" y1="158" x2="124" y2="158" marker-end="url(#flow-arrow)"/>
+<line id="outlines-15" x1="946" y1="217" x2="946" y2="254" marker-end="url(#flow-arrow)"/>
+</g>
+<g id="hidden-lines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.3" stroke-dasharray="10 6">
+
+</g>
+<g id="centerlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1" stroke-dasharray="16 4 3 4">
+
+</g>
+<g id="dimensions" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+<line id="dimensions-16" x1="238" y1="213" x2="238" y2="239"/>
+<line id="dimensions-17" x1="896" y1="202" x2="896" y2="239"/>
+<line id="dimensions-18" x1="238" y1="227" x2="460" y2="227" marker-start="url(#dim-arrow)"/>
+<line id="dimensions-19" x1="546" y1="227" x2="896" y2="227" marker-end="url(#dim-arrow)"/>
+<line id="dimensions-20" x1="347" y1="95" x2="368" y2="95"/>
+<line id="dimensions-21" x1="347" y1="171" x2="368" y2="171"/>
+<line id="dimensions-22" x1="356" y1="95" x2="356" y2="171" marker-start="url(#dim-arrow)" marker-end="url(#dim-arrow)"/>
+</g>
+<g id="leaders" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+
+</g>
+<g id="annotations" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="0">
+<text id="annotations-23" font-family="sans-serif" stroke="none" fill="black" x="8" y="168.2" font-size="30" textLength="72" lengthAdjust="spacingAndGlyphs">空气</text>
+<text id="annotations-24" font-family="sans-serif" stroke="none" fill="black" x="151" y="39.2" font-size="30" textLength="71" lengthAdjust="spacingAndGlyphs">氨气</text>
+<text id="annotations-25" font-family="sans-serif" stroke="none" fill="black" transform="translate(386.75 166) rotate(-90)" font-size="16.191709844559586" textLength="65" lengthAdjust="spacingAndGlyphs">140毫米</text>
+<text id="annotations-26" font-family="sans-serif" stroke="none" fill="black" x="483" y="238.6" font-size="25.6" textLength="46" lengthAdjust="spacingAndGlyphs">1米</text>
+</g>
+<!-- 待填入: 无 -->
+</svg>

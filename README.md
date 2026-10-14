@@ -18,6 +18,8 @@ python -m mkdocs serve
 
 原扫描页与插图存放在 `docs/assets/`；`source-transcription/` 保留来源哈希、公式和 OCR 校订记录。图内标注保留中文。此版本为校订初稿，尚未逐字终校。
 
+图表提供 SVG 重绘与原书扫描对照。21 张图采用用户提供的 v2 重绘，另含单独提供的氧化炉 SVG；5 张 v2 图有待核图注，已在页面中标明。重绘来源、哈希和待核标注记录在 `source-transcription/figure-redraws.json`。
+
 严格构建检查：
 
 ```shell

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="764" height="446" viewBox="0 0 764 446">
+<defs>
+<pattern id="hatch" width="11" height="11" patternUnits="userSpaceOnUse"><path d="M-2 2 L2 -2 M0 11 L11 0 M9 13 L13 9" fill="none" stroke="black" stroke-width="1"/></pattern>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".8"/><circle cx="9" cy="9" r=".8"/></pattern>
+<marker id="flow-arrow" viewBox="0 0 12 8" refX="11" refY="4" markerWidth="12" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0 L12 4 L0 8 Z" fill="black"/></marker>
+<marker id="dim-arrow" viewBox="0 0 10 6" refX="10" refY="3" markerWidth="10" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M10 3 L0 0 L0 6 Z" fill="black"/></marker>
+</defs>
+<rect id="paper" width="100%" height="100%" fill="white"/>
+<g id="hatching" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.8">
+
+</g>
+<g id="outlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="2.5">
+<path id="outlines-1" d="M510 83 H348 a16 16 0 0 0 0 32 H510 a15 15 0 0 1 0 30 H348 a16 16 0 0 0 0 32 H510 a15 15 0 0 1 0 30 H350 a16 16 0 0 0 0 32 H510 a14 14 0 0 1 0 28 H350 a16 16 0 0 0 0 31 H511 a15 15 0 0 1 0 30 H284"/>
+<line id="outlines-2" x1="306" y1="20" x2="543" y2="20" stroke-width="4"/>
+<circle id="outlines-3" cx="354" cy="30" r="2.4" fill="black" stroke="none"/>
+<circle id="outlines-4" cx="354" cy="44" r="2.4" fill="black" stroke="none"/>
+<circle id="outlines-5" cx="354" cy="58" r="2.4" fill="black" stroke="none"/>
+<circle id="outlines-6" cx="395" cy="30" r="2.4" fill="black" stroke="none"/>
+<circle id="outlines-7" cx="395" cy="44" r="2.4" fill="black" stroke="none"/>
+<circle id="outlines-8" cx="395" cy="58" r="2.4" fill="black" stroke="none"/>
+<circle id="outlines-9" cx="437" cy="30" r="2.4" fill="black" stroke="none"/>
+<circle id="outlines-10" cx="437" cy="44" r="2.4" fill="black" stroke="none"/>
+<circle id="outlines-11" cx="437" cy="58" r="2.4" fill="black" stroke="none"/>
+<circle id="outlines-12" cx="478" cy="30" r="2.4" fill="black" stroke="none"/>
+<circle id="outlines-13" cx="478" cy="44" r="2.4" fill="black" stroke="none"/>
+<circle id="outlines-14" cx="478" cy="58" r="2.4" fill="black" stroke="none"/>
+<line id="outlines-16" x1="215" y1="321" x2="273" y2="321" marker-end="url(#flow-arrow)"/>
+<line id="outlines-17" x1="489" y1="319" x2="489" y2="351"/>
+<line id="outlines-18" x1="496" y1="319" x2="496" y2="347"/>
+<line id="outlines-19" x1="528" y1="81" x2="555" y2="81" marker-end="url(#flow-arrow)"/>
+</g>
+<g id="hidden-lines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.3" stroke-dasharray="10 6">
+<path id="hidden-lines-15" d="M354 79 V207"/>
+</g>
+<g id="centerlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1" stroke-dasharray="16 4 3 4">
+
+</g>
+<g id="dimensions" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+
+</g>
+<g id="leaders" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+
+</g>
+<g id="annotations" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="0">
+<text id="annotations-20" font-family="sans-serif" stroke="none" fill="black" x="210" y="48.400000000000006" font-size="30" textLength="73" lengthAdjust="spacingAndGlyphs">淋水</text>
+<text id="annotations-21" font-family="sans-serif" stroke="none" fill="black" x="562" y="83.0" font-size="30" textLength="201" lengthAdjust="spacingAndGlyphs">接通至氧化塔</text>
+<text id="annotations-22" font-family="sans-serif" stroke="none" fill="black" x="4" y="329.6" font-size="30" textLength="195" lengthAdjust="spacingAndGlyphs">接预热器出口</text>
+<text id="annotations-23" font-family="sans-serif" stroke="none" fill="black" x="470" y="395.8" font-size="30" textLength="293" lengthAdjust="spacingAndGlyphs">接考克以备放冷凝酸</text>
+<text id="annotations-24" font-family="sans-serif" stroke="none" fill="black" x="266" y="436.0" font-size="30" textLength="295" lengthAdjust="spacingAndGlyphs">氧化氮气体冷却器图</text>
+</g>
+<!-- 待填入: 无 -->
+</svg>

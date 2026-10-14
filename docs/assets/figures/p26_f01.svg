@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1110" height="917" viewBox="0 0 1110 917">
+<defs>
+<pattern id="hatch" width="11" height="11" patternUnits="userSpaceOnUse"><path d="M-2 2 L2 -2 M0 11 L11 0 M9 13 L13 9" fill="none" stroke="black" stroke-width="1"/></pattern>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".8"/><circle cx="9" cy="9" r=".8"/></pattern>
+<marker id="flow-arrow" viewBox="0 0 12 8" refX="11" refY="4" markerWidth="12" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0 L12 4 L0 8 Z" fill="black"/></marker>
+<marker id="dim-arrow" viewBox="0 0 10 6" refX="10" refY="3" markerWidth="10" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M10 3 L0 0 L0 6 Z" fill="black"/></marker>
+</defs>
+<rect id="paper" width="100%" height="100%" fill="white"/>
+<g id="hatching" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.8">
+
+</g>
+<g id="outlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="2.5">
+<rect id="outlines-1" x="229" y="167" width="76" height="331"/>
+<line id="outlines-2" x1="181" y1="182" x2="270" y2="182" marker-end="url(#flow-arrow)"/>
+<line id="outlines-3" x1="270" y1="469" x2="380" y2="471" marker-end="url(#flow-arrow)"/>
+<g id="absorption-tower-1">
+<rect id="outlines-4" x="380" y="198" width="72" height="326"/>
+</g>
+<path id="outlines-5" d="M416.0 221 V205 H472 V698 H438.0"/>
+<circle id="outlines-6" cx="416.0" cy="223" r="5" fill="white"/>
+<line id="outlines-7" x1="416.0" y1="228" x2="406.0" y2="235" stroke-width="1.5"/>
+<line id="outlines-8" x1="416.0" y1="228" x2="411.0" y2="238" stroke-width="1.5"/>
+<line id="outlines-9" x1="416.0" y1="228" x2="416.0" y2="239" stroke-width="1.5"/>
+<line id="outlines-10" x1="416.0" y1="228" x2="421.0" y2="238" stroke-width="1.5"/>
+<line id="outlines-11" x1="416.0" y1="228" x2="426.0" y2="235" stroke-width="1.5"/>
+<path id="outlines-12" d="M416.0 524 V594"/>
+<path id="outlines-13" d="M416.0 594 L427.0 604.4 L405.0 614.8 L427.0 625.2 L405.0 635.6 L427.0 646 L405.0 656.4 L427.0 666.8 L405.0 677.2 L427.0 687.6 L405.0 698 L416.0 698"/>
+<line id="outlines-14" x1="416.0" y1="698" x2="426.0" y2="698"/>
+<circle id="outlines-15" cx="439.0" cy="698" r="10" fill="white"/>
+<polygon id="outlines-16" points="429.0,722 449.0,722 444.0,708 434.0,708" fill="white"/>
+<circle id="outlines-17" cx="439.0" cy="698" r="1.8" fill="black" stroke="none"/>
+<line id="outlines-18" x1="472" y1="262" x2="472" y2="344" marker-end="url(#flow-arrow)"/>
+<g id="absorption-tower-2">
+<rect id="outlines-19" x="526" y="175" width="72" height="328"/>
+</g>
+<path id="outlines-20" d="M562.0 198 V182 H618 V677 H584.0"/>
+<circle id="outlines-21" cx="562.0" cy="200" r="5" fill="white"/>
+<line id="outlines-22" x1="562.0" y1="205" x2="552.0" y2="212" stroke-width="1.5"/>
+<line id="outlines-23" x1="562.0" y1="205" x2="557.0" y2="215" stroke-width="1.5"/>
+<line id="outlines-24" x1="562.0" y1="205" x2="562.0" y2="216" stroke-width="1.5"/>
+<line id="outlines-25" x1="562.0" y1="205" x2="567.0" y2="215" stroke-width="1.5"/>
+<line id="outlines-26" x1="562.0" y1="205" x2="572.0" y2="212" stroke-width="1.5"/>
+<path id="outlines-27" d="M562.0 503 V573"/>
+<path id="outlines-28" d="M562.0 573 L573.0 583.4 L551.0 593.8 L573.0 604.2 L551.0 614.6 L573.0 625 L551.0 635.4 L573.0 645.8 L551.0 656.2 L573.0 666.6 L551.0 677 L562.0 677"/>
+<line id="outlines-29" x1="562.0" y1="677" x2="572.0" y2="677"/>
+<circle id="outlines-30" cx="585.0" cy="677" r="10" fill="white"/>
+<polygon id="outlines-31" points="575.0,701 595.0,701 590.0,687 580.0,687" fill="white"/>
+<circle id="outlines-32" cx="585.0" cy="677" r="1.8" fill="black" stroke="none"/>
+<line id="outlines-33" x1="618" y1="239" x2="618" y2="321" marker-end="url(#flow-arrow)"/>
+<g id="absorption-tower-3">
+<rect id="outlines-34" x="678" y="155" width="72" height="327"/>
+</g>
+<path id="outlines-35" d="M714.0 178 V162 H770 V656 H736.0"/>
+<circle id="outlines-36" cx="714.0" cy="180" r="5" fill="white"/>
+<line id="outlines-37" x1="714.0" y1="185" x2="704.0" y2="192" stroke-width="1.5"/>
+<line id="outlines-38" x1="714.0" y1="185" x2="709.0" y2="195" stroke-width="1.5"/>
+<line id="outlines-39" x1="714.0" y1="185" x2="714.0" y2="196" stroke-width="1.5"/>
+<line id="outlines-40" x1="714.0" y1="185" x2="719.0" y2="195" stroke-width="1.5"/>
+<line id="outlines-41" x1="714.0" y1="185" x2="724.0" y2="192" stroke-width="1.5"/>
+<path id="outlines-42" d="M714.0 482 V552"/>
+<path id="outlines-43" d="M714.0 552 L725.0 562.4 L703.0 572.8 L725.0 583.2 L703.0 593.6 L725.0 604 L703.0 614.4 L725.0 624.8 L703.0 635.2 L725.0 645.6 L703.0 656 L714.0 656"/>
+<line id="outlines-44" x1="714.0" y1="656" x2="724.0" y2="656"/>
+<circle id="outlines-45" cx="737.0" cy="656" r="10" fill="white"/>
+<polygon id="outlines-46" points="727.0,680 747.0,680 742.0,666 732.0,666" fill="white"/>
+<circle id="outlines-47" cx="737.0" cy="656" r="1.8" fill="black" stroke="none"/>
+<line id="outlines-48" x1="770" y1="219" x2="770" y2="301" marker-end="url(#flow-arrow)"/>
+<g id="absorption-tower-4">
+<rect id="outlines-49" x="824" y="131" width="72" height="332"/>
+</g>
+<path id="outlines-50" d="M860.0 154 V138 H916 V546 H882.0"/>
+<circle id="outlines-51" cx="860.0" cy="156" r="5" fill="white"/>
+<line id="outlines-52" x1="860.0" y1="161" x2="850.0" y2="168" stroke-width="1.5"/>
+<line id="outlines-53" x1="860.0" y1="161" x2="855.0" y2="171" stroke-width="1.5"/>
+<line id="outlines-54" x1="860.0" y1="161" x2="860.0" y2="172" stroke-width="1.5"/>
+<line id="outlines-55" x1="860.0" y1="161" x2="865.0" y2="171" stroke-width="1.5"/>
+<line id="outlines-56" x1="860.0" y1="161" x2="870.0" y2="168" stroke-width="1.5"/>
+<path id="outlines-57" d="M860.0 463 V546 H870.0"/>
+<circle id="outlines-58" cx="883.0" cy="546" r="10" fill="white"/>
+<polygon id="outlines-59" points="873.0,570 893.0,570 888.0,556 878.0,556" fill="white"/>
+<circle id="outlines-60" cx="883.0" cy="546" r="1.8" fill="black" stroke="none"/>
+<line id="outlines-61" x1="916" y1="195" x2="916" y2="277" marker-end="url(#flow-arrow)"/>
+<g id="absorption-tower-5">
+<rect id="outlines-62" x="968" y="116" width="72" height="320"/>
+</g>
+<path id="outlines-63" d="M1004.0 139 V123 H1060 V519 H1026.0"/>
+<circle id="outlines-64" cx="1004.0" cy="141" r="5" fill="white"/>
+<line id="outlines-65" x1="1004.0" y1="146" x2="994.0" y2="153" stroke-width="1.5"/>
+<line id="outlines-66" x1="1004.0" y1="146" x2="999.0" y2="156" stroke-width="1.5"/>
+<line id="outlines-67" x1="1004.0" y1="146" x2="1004.0" y2="157" stroke-width="1.5"/>
+<line id="outlines-68" x1="1004.0" y1="146" x2="1009.0" y2="156" stroke-width="1.5"/>
+<line id="outlines-69" x1="1004.0" y1="146" x2="1014.0" y2="153" stroke-width="1.5"/>
+<path id="outlines-70" d="M1004.0 436 V519 H1014.0"/>
+<circle id="outlines-71" cx="1027.0" cy="519" r="10" fill="white"/>
+<polygon id="outlines-72" points="1017.0,543 1037.0,543 1032.0,529 1022.0,529" fill="white"/>
+<circle id="outlines-73" cx="1027.0" cy="519" r="1.8" fill="black" stroke="none"/>
+<line id="outlines-74" x1="1060" y1="180" x2="1060" y2="262" marker-end="url(#flow-arrow)"/>
+<path id="outlines-75" d="M417 198 V139 H563 V175 M714 155 V107 H858 V131 M1005 116 V78 M1032 116 V89 Q1039 84 1041 99"/>
+<line id="outlines-76" x1="1005" y1="111" x2="1005" y2="62" marker-end="url(#flow-arrow)"/>
+<path id="outlines-77" d="M274 476 L378 507 M426 515 L596 472 M573 490 L748 447 M723 469 L896 420 M870 420 L981 384"/>
+<path id="outlines-78" d="M570 465 L686 430 M726 467 L834 438 M871 447 L970 410"/>
+<path id="outlines-79" d="M615 446 Q604 454 615 461 Q625 467 615 474"/>
+<path id="outlines-80" d="M768 444 Q757 452 768 459 Q778 465 768 472"/>
+<path id="outlines-81" d="M917 403 Q906 411 917 418 Q927 424 917 431"/>
+<line id="outlines-82" x1="566" y1="466" x2="686" y2="430" marker-end="url(#flow-arrow)"/>
+<line id="outlines-83" x1="726" y1="468" x2="779" y2="451" marker-end="url(#flow-arrow)"/>
+<line id="outlines-84" x1="923" y1="404" x2="981" y2="384" marker-end="url(#flow-arrow)"/>
+<path id="outlines-85" d="M461 680 H485 V731 H510"/>
+<line id="outlines-86" x1="486" y1="731" x2="511" y2="731" marker-end="url(#flow-arrow)"/>
+</g>
+<g id="hidden-lines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.3" stroke-dasharray="10 6">
+
+</g>
+<g id="centerlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1" stroke-dasharray="16 4 3 4">
+
+</g>
+<g id="dimensions" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+
+</g>
+<g id="leaders" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+<path id="leaders-87" d="M638 481 L645 509"/>
+</g>
+<g id="annotations" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="0">
+<text id="annotations-88" font-family="sans-serif" stroke="none" fill="black" x="1" y="181.6" font-size="30" textLength="165" lengthAdjust="spacingAndGlyphs">氧化氮气体</text>
+<text id="annotations-89" font-family="sans-serif" stroke="none" fill="black" x="970" y="46.800000000000004" font-size="30" textLength="73" lengthAdjust="spacingAndGlyphs">放空</text>
+<text id="annotations-90" font-family="sans-serif" stroke="none" fill="black" x="1088.0" y="40.239999999999995" font-size="27.2" text-anchor="middle">水</text>
+<text id="annotations-91" font-family="sans-serif" stroke="none" fill="black" x="1088.0" y="72.23999999999998" font-size="27.2" text-anchor="middle">加</text>
+<text id="annotations-92" font-family="sans-serif" stroke="none" fill="black" x="1088.0" y="104.24" font-size="27.2" text-anchor="middle">入</text>
+<text id="annotations-93" font-family="sans-serif" stroke="none" fill="black" x="529" y="737.8" font-size="28.8" textLength="65" lengthAdjust="spacingAndGlyphs">成品</text>
+<text id="annotations-94" font-family="sans-serif" stroke="none" fill="black" x="265.5" y="541.5133333333333" font-size="27.483333333333334" text-anchor="middle">氧</text>
+<text id="annotations-95" font-family="sans-serif" stroke="none" fill="black" x="265.5" y="573.8466666666667" font-size="27.483333333333334" text-anchor="middle">化</text>
+<text id="annotations-96" font-family="sans-serif" stroke="none" fill="black" x="265.5" y="606.18" font-size="27.483333333333334" text-anchor="middle">塔</text>
+<text id="annotations-97" font-family="sans-serif" stroke="none" fill="black" x="254" y="340.8" font-size="21.89217032967033" textLength="51" lengthAdjust="spacingAndGlyphs">6米³</text>
+<text id="annotations-98" font-family="sans-serif" stroke="none" fill="black" x="399" y="400.6" font-size="24.038461538461537" textLength="56" lengthAdjust="spacingAndGlyphs">6米³</text>
+<text id="annotations-99" font-family="sans-serif" stroke="none" fill="black" x="545" y="405.2" font-size="26.184752747252745" textLength="61" lengthAdjust="spacingAndGlyphs">6米³</text>
+<text id="annotations-100" font-family="sans-serif" stroke="none" fill="black" x="690" y="404.2" font-size="24.467719780219777" textLength="57" lengthAdjust="spacingAndGlyphs">6米³</text>
+<text id="annotations-101" font-family="sans-serif" stroke="none" fill="black" x="833" y="405.0" font-size="24.896978021978022" textLength="58" lengthAdjust="spacingAndGlyphs">6米³</text>
+<text id="annotations-102" font-family="sans-serif" stroke="none" fill="black" x="987" y="344.6" font-size="22.75068681318681" textLength="53" lengthAdjust="spacingAndGlyphs">6米³</text>
+<text id="annotations-103" font-family="sans-serif" stroke="none" fill="black" x="430.0" y="752.8233333333334" font-size="23.65833333333333" text-anchor="middle">吸</text>
+<text id="annotations-104" font-family="sans-serif" stroke="none" fill="black" x="430.0" y="780.6566666666666" font-size="23.65833333333333" text-anchor="middle">收</text>
+<text id="annotations-105" font-family="sans-serif" stroke="none" fill="black" x="430.0" y="808.49" font-size="23.65833333333333" text-anchor="middle">塔</text>
+<text id="annotations-106" font-family="sans-serif" stroke="none" fill="black" x="430.0" y="836.3233333333333" font-size="23.65833333333333" text-anchor="middle">（</text>
+<text id="annotations-107" font-family="sans-serif" stroke="none" fill="black" x="430.0" y="864.1566666666666" font-size="23.65833333333333" text-anchor="middle">1</text>
+<text id="annotations-108" font-family="sans-serif" stroke="none" fill="black" x="430.0" y="891.99" font-size="23.65833333333333" text-anchor="middle">）</text>
+<text id="annotations-109" font-family="sans-serif" stroke="none" fill="black" x="586.0" y="752.8233333333334" font-size="23.65833333333333" text-anchor="middle">吸</text>
+<text id="annotations-110" font-family="sans-serif" stroke="none" fill="black" x="586.0" y="780.6566666666666" font-size="23.65833333333333" text-anchor="middle">收</text>
+<text id="annotations-111" font-family="sans-serif" stroke="none" fill="black" x="586.0" y="808.49" font-size="23.65833333333333" text-anchor="middle">塔</text>
+<text id="annotations-112" font-family="sans-serif" stroke="none" fill="black" x="586.0" y="836.3233333333333" font-size="23.65833333333333" text-anchor="middle">（</text>
+<text id="annotations-113" font-family="sans-serif" stroke="none" fill="black" x="586.0" y="864.1566666666666" font-size="23.65833333333333" text-anchor="middle">2</text>
+<text id="annotations-114" font-family="sans-serif" stroke="none" fill="black" x="586.0" y="891.99" font-size="23.65833333333333" text-anchor="middle">）</text>
+<text id="annotations-115" font-family="sans-serif" stroke="none" fill="black" x="735.0" y="752.8233333333334" font-size="23.65833333333333" text-anchor="middle">吸</text>
+<text id="annotations-116" font-family="sans-serif" stroke="none" fill="black" x="735.0" y="780.6566666666666" font-size="23.65833333333333" text-anchor="middle">收</text>
+<text id="annotations-117" font-family="sans-serif" stroke="none" fill="black" x="735.0" y="808.49" font-size="23.65833333333333" text-anchor="middle">塔</text>
+<text id="annotations-118" font-family="sans-serif" stroke="none" fill="black" x="735.0" y="836.3233333333333" font-size="23.65833333333333" text-anchor="middle">（</text>
+<text id="annotations-119" font-family="sans-serif" stroke="none" fill="black" x="735.0" y="864.1566666666666" font-size="23.65833333333333" text-anchor="middle">3</text>
+<text id="annotations-120" font-family="sans-serif" stroke="none" fill="black" x="735.0" y="891.99" font-size="23.65833333333333" text-anchor="middle">）</text>
+<text id="annotations-121" font-family="sans-serif" stroke="none" fill="black" x="892.0" y="752.8233333333334" font-size="23.65833333333333" text-anchor="middle">吸</text>
+<text id="annotations-122" font-family="sans-serif" stroke="none" fill="black" x="892.0" y="780.6566666666666" font-size="23.65833333333333" text-anchor="middle">收</text>
+<text id="annotations-123" font-family="sans-serif" stroke="none" fill="black" x="892.0" y="808.49" font-size="23.65833333333333" text-anchor="middle">塔</text>
+<text id="annotations-124" font-family="sans-serif" stroke="none" fill="black" x="892.0" y="836.3233333333333" font-size="23.65833333333333" text-anchor="middle">（</text>
+<text id="annotations-125" font-family="sans-serif" stroke="none" fill="black" x="892.0" y="864.1566666666666" font-size="23.65833333333333" text-anchor="middle">4</text>
+<text id="annotations-126" font-family="sans-serif" stroke="none" fill="black" x="892.0" y="891.99" font-size="23.65833333333333" text-anchor="middle">）</text>
+<text id="annotations-127" font-family="sans-serif" stroke="none" fill="black" x="1004.0" y="752.8233333333334" font-size="23.65833333333333" text-anchor="middle">吸</text>
+<text id="annotations-128" font-family="sans-serif" stroke="none" fill="black" x="1004.0" y="780.6566666666666" font-size="23.65833333333333" text-anchor="middle">收</text>
+<text id="annotations-129" font-family="sans-serif" stroke="none" fill="black" x="1004.0" y="808.49" font-size="23.65833333333333" text-anchor="middle">塔</text>
+<text id="annotations-130" font-family="sans-serif" stroke="none" fill="black" x="1004.0" y="836.3233333333333" font-size="23.65833333333333" text-anchor="middle">（</text>
+<text id="annotations-131" font-family="sans-serif" stroke="none" fill="black" x="1004.0" y="864.1566666666666" font-size="23.65833333333333" text-anchor="middle">5</text>
+<text id="annotations-132" font-family="sans-serif" stroke="none" fill="black" x="1004.0" y="891.99" font-size="23.65833333333333" text-anchor="middle">）</text>
+<text id="annotations-133" font-family="sans-serif" stroke="none" fill="black" transform="translate(645.75 601) rotate(-90)" font-size="14.946992110453648" textLength="97" lengthAdjust="spacingAndGlyphs">待填入文字_a</text>
+</g>
+<!-- 待填入: a=塔间倾斜管线标注 -->
+</svg>

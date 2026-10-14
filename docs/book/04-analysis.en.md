@@ -69,7 +69,14 @@ The original's concentration is by mass. Numerical values are transcribed from t
 | 10 | 1.054 | 21 | 1.121 | 32 | 1.193 | 43 | 1.266 | — | — |
 | 11 | 1.060 | 22 | 1.128 | 33 | 1.200 | 44 | 1.272 | — | — |
 
-![Original specific-gravity table](../assets/figures/p32_f01.png)
+=== "SVG redraw"
+
+    ![Original specific-gravity table](../assets/figures/p32_f01.svg)
+
+=== "Original scan"
+
+    ![Original specific-gravity table](../assets/figures/p32_f01.png)
+
 
 ---
 

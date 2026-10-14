@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1019" height="421" viewBox="0 0 1019 421">
+<defs>
+<pattern id="hatch" width="11" height="11" patternUnits="userSpaceOnUse"><path d="M-2 2 L2 -2 M0 11 L11 0 M9 13 L13 9" fill="none" stroke="black" stroke-width="1"/></pattern>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".8"/><circle cx="9" cy="9" r=".8"/></pattern>
+<marker id="flow-arrow" viewBox="0 0 12 8" refX="11" refY="4" markerWidth="12" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0 L12 4 L0 8 Z" fill="black"/></marker>
+<marker id="dim-arrow" viewBox="0 0 10 6" refX="10" refY="3" markerWidth="10" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M10 3 L0 0 L0 6 Z" fill="black"/></marker>
+</defs>
+<rect id="paper" width="100%" height="100%" fill="white"/>
+<g id="hatching" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.8">
+
+</g>
+<g id="outlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="2.5">
+<g id="pressure-vessel">
+<path id="outlines-1" d="M254 174 H663 C700 211 700 285 663 321 H254 C218 282 218 213 254 174 Z"/>
+</g>
+<path id="outlines-2" d="M224 87 H315 V117 H304 V94 H224 M305 132 V174 M314 132 V174 M456 134 V174 M464 134 V174 M463 146 H470 V158 M547 322 V376 M555 322 V376 M581 174 V136 M588 174 V136 M582 115 V80 H894 M590 115 V87 H728 V156"/>
+<circle id="outlines-3" cx="455" cy="116" r="17" fill="white"/>
+<line id="outlines-4" x1="455" y1="116" x2="451" y2="110" stroke-width="1.2"/>
+<circle id="outlines-5" cx="455" cy="116" r="1.5" fill="black" stroke="none"/>
+<line id="outlines-6" x1="456" y1="61" x2="456" y2="96"/>
+<path id="outlines-7" d="M731 86 V158"/>
+<polygon id="outlines-8" points="725,120 737,120 725,132 737,132" fill="white"/>
+<path id="outlines-9" d="M783 86 V158"/>
+<polygon id="outlines-10" points="777,120 789,120 777,132 789,132" fill="white"/>
+<path id="outlines-11" d="M824 86 V158"/>
+<polygon id="outlines-12" points="818,120 830,120 818,132 830,132" fill="white"/>
+<path id="outlines-13" d="M868 86 V158"/>
+<polygon id="outlines-14" points="862,120 874,120 862,132 874,132" fill="white"/>
+<path id="outlines-15" d="M868 155 C867 183 834 210 796 210 V203 H786 V230 M876 155 C875 189 837 216 800 216"/>
+<path id="outlines-16" d="M780 230 V240 Q766 248 766 263 V415 H807 V263 Q807 248 792 240 V230 Z"/>
+<line id="outlines-17" x1="767" y1="312" x2="807" y2="312"/>
+<line id="outlines-18" x1="775" y1="326" x2="783" y2="326" stroke-width="1"/>
+<line id="outlines-19" x1="792" y1="326" x2="800" y2="326" stroke-width="1"/>
+<line id="outlines-20" x1="775" y1="339" x2="783" y2="339" stroke-width="1"/>
+<line id="outlines-21" x1="792" y1="339" x2="800" y2="339" stroke-width="1"/>
+<line id="outlines-22" x1="775" y1="352" x2="783" y2="352" stroke-width="1"/>
+<line id="outlines-23" x1="792" y1="352" x2="800" y2="352" stroke-width="1"/>
+<line id="outlines-24" x1="775" y1="365" x2="783" y2="365" stroke-width="1"/>
+<line id="outlines-25" x1="792" y1="365" x2="800" y2="365" stroke-width="1"/>
+<line id="outlines-26" x1="775" y1="378" x2="783" y2="378" stroke-width="1"/>
+<line id="outlines-27" x1="792" y1="378" x2="800" y2="378" stroke-width="1"/>
+<line id="outlines-28" x1="775" y1="391" x2="783" y2="391" stroke-width="1"/>
+<line id="outlines-29" x1="792" y1="391" x2="800" y2="391" stroke-width="1"/>
+<line id="outlines-30" x1="775" y1="404" x2="783" y2="404" stroke-width="1"/>
+<line id="outlines-31" x1="792" y1="404" x2="800" y2="404" stroke-width="1"/>
+<line id="outlines-32" x1="789" y1="206" x2="789" y2="233" marker-end="url(#flow-arrow)"/>
+<line id="outlines-33" x1="835" y1="222" x2="802" y2="242" marker-end="url(#flow-arrow)"/>
+<line id="outlines-34" x1="183" y1="89" x2="214" y2="89" marker-end="url(#flow-arrow)"/>
+</g>
+<g id="hidden-lines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.3" stroke-dasharray="10 6">
+
+</g>
+<g id="centerlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1" stroke-dasharray="16 4 3 4">
+
+</g>
+<g id="dimensions" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+<line id="dimensions-40" x1="398" y1="174" x2="385" y2="174"/>
+<line id="dimensions-41" x1="398" y1="321" x2="385" y2="321"/>
+<line id="dimensions-42" x1="373" y1="174" x2="373" y2="207" marker-start="url(#dim-arrow)"/>
+<line id="dimensions-43" x1="373" y1="280" x2="373" y2="321" marker-end="url(#dim-arrow)"/>
+<line id="dimensions-44" x1="254" y1="332" x2="254" y2="357"/>
+<line id="dimensions-45" x1="663" y1="332" x2="663" y2="357"/>
+<line id="dimensions-46" x1="254" y1="345" x2="398" y2="345" marker-start="url(#dim-arrow)"/>
+<line id="dimensions-47" x1="493" y1="345" x2="663" y2="345" marker-end="url(#dim-arrow)"/>
+</g>
+<g id="leaders" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+<path id="leaders-35" d="M319 124 L376 69"/>
+<path id="leaders-36" d="M535 58 L582 132"/>
+<path id="leaders-37" d="M807 240 L900 211"/>
+<path id="leaders-38" d="M795 279 L900 276"/>
+<path id="leaders-39" d="M795 350 L900 363"/>
+</g>
+<g id="annotations" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="0">
+<text id="annotations-48" font-family="sans-serif" stroke="none" fill="black" x="8" y="106.2" font-size="30" textLength="165" lengthAdjust="spacingAndGlyphs">送入系统中</text>
+<text id="annotations-49" font-family="sans-serif" stroke="none" fill="black" x="282" y="39.0" font-size="30" textLength="104" lengthAdjust="spacingAndGlyphs">控制阀</text>
+<text id="annotations-50" font-family="sans-serif" stroke="none" fill="black" x="411" y="39.0" font-size="30" textLength="104" lengthAdjust="spacingAndGlyphs">压力表</text>
+<text id="annotations-51" font-family="sans-serif" stroke="none" fill="black" x="536" y="38.400000000000006" font-size="30" textLength="74" lengthAdjust="spacingAndGlyphs">阀门</text>
+<text id="annotations-52" font-family="sans-serif" stroke="none" fill="black" transform="translate(379.75 278) rotate(-90)" font-size="22.189349112426033" textLength="66" lengthAdjust="spacingAndGlyphs">0.7米</text>
+<text id="annotations-53" font-family="sans-serif" stroke="none" fill="black" x="411" y="354.4" font-size="25.88757396449704" textLength="77" lengthAdjust="spacingAndGlyphs">1.2米</text>
+<text id="annotations-54" font-family="sans-serif" stroke="none" fill="black" x="490" y="412.2" font-size="30" textLength="173" lengthAdjust="spacingAndGlyphs">放油放水用</text>
+<text id="annotations-55" font-family="sans-serif" stroke="none" fill="black" x="911" y="213.2" font-size="30" textLength="107" lengthAdjust="spacingAndGlyphs">淋热水</text>
+<text id="annotations-56" font-family="sans-serif" stroke="none" fill="black" x="911" y="278.8" font-size="30" textLength="74" lengthAdjust="spacingAndGlyphs">氨气</text>
+<text id="annotations-57" font-family="sans-serif" stroke="none" fill="black" x="911" y="376.0" font-size="30" textLength="74" lengthAdjust="spacingAndGlyphs">液氨</text>
+</g>
+<!-- 待填入: 无 -->
+</svg>

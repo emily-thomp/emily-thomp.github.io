@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="402" height="411" viewBox="0 0 402 411">
+<defs>
+<pattern id="hatch" width="11" height="11" patternUnits="userSpaceOnUse"><path d="M-2 2 L2 -2 M0 11 L11 0 M9 13 L13 9" fill="none" stroke="black" stroke-width="1"/></pattern>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".8"/><circle cx="9" cy="9" r=".8"/></pattern>
+<marker id="flow-arrow" viewBox="0 0 12 8" refX="11" refY="4" markerWidth="12" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0 L12 4 L0 8 Z" fill="black"/></marker>
+<marker id="dim-arrow" viewBox="0 0 10 6" refX="10" refY="3" markerWidth="10" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M10 3 L0 0 L0 6 Z" fill="black"/></marker>
+</defs>
+<rect id="paper" width="100%" height="100%" fill="white"/>
+<g id="hatching" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.8">
+
+</g>
+<g id="outlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="2.5">
+<g id="perforated-disc">
+<ellipse id="outlines-1" cx="203" cy="210" rx="189" ry="192" stroke-width="4"/>
+</g>
+<g id="hole-1">
+<circle id="outlines-2" cx="139" cy="87" r="13"/>
+</g>
+<g id="hole-2">
+<circle id="outlines-3" cx="206" cy="73" r="13"/>
+</g>
+<g id="hole-3">
+<circle id="outlines-4" cx="274" cy="91" r="13"/>
+</g>
+<g id="hole-4">
+<circle id="outlines-5" cx="87" cy="135" r="13"/>
+</g>
+<g id="hole-5">
+<circle id="outlines-6" cx="154" cy="164" r="13"/>
+</g>
+<g id="hole-6">
+<circle id="outlines-7" cx="217" cy="142" r="13"/>
+</g>
+<g id="hole-7">
+<circle id="outlines-8" cx="320" cy="143" r="13"/>
+</g>
+<g id="hole-8">
+<circle id="outlines-9" cx="68" cy="210" r="13"/>
+</g>
+<g id="hole-9">
+<circle id="outlines-10" cx="137" cy="229" r="13"/>
+</g>
+<g id="hole-10">
+<circle id="outlines-11" cx="266" cy="189" r="13"/>
+</g>
+<g id="hole-11">
+<circle id="outlines-12" cx="337" cy="214" r="13"/>
+</g>
+<g id="hole-12">
+<circle id="outlines-13" cx="83" cy="278" r="13"/>
+</g>
+<g id="hole-13">
+<circle id="outlines-14" cx="185" cy="275" r="13"/>
+</g>
+<g id="hole-14">
+<circle id="outlines-15" cx="250" cy="256" r="13"/>
+</g>
+<g id="hole-15">
+<circle id="outlines-16" cx="317" cy="282" r="13"/>
+</g>
+<g id="hole-16">
+<circle id="outlines-17" cx="132" cy="329" r="13"/>
+</g>
+<g id="hole-17">
+<circle id="outlines-18" cx="198" cy="349" r="13"/>
+</g>
+<g id="hole-18">
+<circle id="outlines-19" cx="266" cy="330" r="13"/>
+</g>
+</g>
+<g id="hidden-lines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.3" stroke-dasharray="10 6">
+
+</g>
+<g id="centerlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1" stroke-dasharray="16 4 3 4">
+
+</g>
+<g id="dimensions" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+
+</g>
+<g id="leaders" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+
+</g>
+<g id="annotations" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="0">
+
+</g>
+<!-- 待填入: 无 -->
+</svg>

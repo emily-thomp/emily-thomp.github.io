@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1136" height="994" viewBox="0 0 1136 994">
+<defs>
+<pattern id="hatch" width="11" height="11" patternUnits="userSpaceOnUse"><path d="M-2 2 L2 -2 M0 11 L11 0 M9 13 L13 9" fill="none" stroke="black" stroke-width="1"/></pattern>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".8"/><circle cx="9" cy="9" r=".8"/></pattern>
+<marker id="flow-arrow" viewBox="0 0 12 8" refX="11" refY="4" markerWidth="12" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0 L12 4 L0 8 Z" fill="black"/></marker>
+<marker id="dim-arrow" viewBox="0 0 10 6" refX="10" refY="3" markerWidth="10" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M10 3 L0 0 L0 6 Z" fill="black"/></marker>
+</defs>
+<rect id="paper" width="100%" height="100%" fill="white"/>
+<g id="hatching" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.8">
+<polygon id="hatching-25" points="93,560 105,567 102,592 89,586" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-26" points="255,561 267,568 264,593 251,587" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-27" points="117,670 129,677 126,702 113,696" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-28" points="233,670 245,677 242,702 229,696" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-29" points="93,764 105,771 102,796 89,790" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-30" points="255,768 267,775 264,800 251,794" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-34" points="89,881 271,881 307,976 55,976" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-38" points="522,109 529,109 529,820 522,820" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-39" points="720,110 728,110 728,890 720,890" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-40" points="529,273 720,273 720,282 529,282" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-41" points="529,571 720,571 720,580 529,580" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-42" points="531,890 729,890 757,977 500,977" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-51" points="893,90 1058,90 1058,110 893,110" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-52" points="893,875 1058,875 1058,890 893,890" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+<polygon id="hatching-151" points="849,891 1091,891 1133,981 817,981" fill="url(#hatch)" stroke="black" stroke-width="1.8"/>
+</g>
+<g id="outlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="2.5">
+<g id="jar-section-1">
+<path id="outlines-1" d="M142 84 H212 C245 84 255 149 255 183 C255 217 240 282 212 282 H142 C114 282 99 217 99 183 C99 149 109 84 142 84 Z"/>
+</g>
+<g id="jar-section-2">
+<path id="outlines-3" d="M142 288 H212 C245 288 255 353 255 384 C255 415 240 480 212 480 H142 C114 480 99 415 99 384 C99 353 109 288 142 288 Z"/>
+</g>
+<g id="jar-section-3">
+<path id="outlines-5" d="M143 487 H210 C243 487 253 552 253 583.5 C253 615 238 680 210 680 H143 C115 680 100 615 100 583.5 C100 552 110 487 143 487 Z"/>
+</g>
+<g id="jar-section-4">
+<path id="outlines-7" d="M151 687 H207 C240 687 250 752 250 783.5 C250 815 235 880 207 880 H151 C123 880 108 815 108 783.5 C108 752 118 687 151 687 Z"/>
+</g>
+<circle id="outlines-8" cx="98" cy="174" r="5" fill="black"/>
+<circle id="outlines-9" cx="255" cy="172" r="5" fill="black"/>
+<circle id="outlines-10" cx="98" cy="188" r="5" fill="black"/>
+<circle id="outlines-11" cx="255" cy="188" r="5" fill="black"/>
+<circle id="outlines-12" cx="98" cy="377" r="5" fill="black"/>
+<circle id="outlines-13" cx="255" cy="377" r="5" fill="black"/>
+<circle id="outlines-14" cx="98" cy="390" r="5" fill="black"/>
+<circle id="outlines-15" cx="255" cy="390" r="5" fill="black"/>
+<circle id="outlines-16" cx="97" cy="563" r="5" fill="black"/>
+<circle id="outlines-17" cx="255" cy="567" r="5" fill="black"/>
+<circle id="outlines-18" cx="99" cy="586" r="5" fill="black"/>
+<circle id="outlines-19" cx="255" cy="588" r="5" fill="black"/>
+<circle id="outlines-20" cx="98" cy="766" r="5" fill="black"/>
+<circle id="outlines-21" cx="260" cy="773" r="5" fill="black"/>
+<circle id="outlines-22" cx="115" cy="835" r="5" fill="black"/>
+<circle id="outlines-23" cx="124" cy="858" r="5" fill="black"/>
+<line id="outlines-24" x1="98" y1="398" x2="255" y2="398" stroke-width="3"/>
+<path id="outlines-31" d="M204 102 H277 V90 H291 M204 115 H276 L284 130 H295 M19 834 H35 V841 H111 M19 868 H35 V855 H116"/>
+<line id="outlines-32" x1="286" y1="108" x2="314" y2="108" marker-end="url(#flow-arrow)"/>
+<circle id="outlines-33" cx="179" cy="867" r="10"/>
+<path id="outlines-43" d="M598 105 V110 H609 V125 H565 Q543 125 546 145 V157 H552 V230 Q550 246 540 244 V230 M642 104 V111 H638 V125 H682 Q704 125 704 143 V158 H697 V230 Q699 246 710 244 V230"/>
+<path id="outlines-44" d="M537 121 V107 M716 121 V107 M552 251 V327 Q552 340 541 341 V327 M541 341 H552 V430 Q550 443 539 443 V430 M697 251 V327 Q699 340 709 341 V327 M709 341 H697 V430 Q699 443 710 443 V430"/>
+<path id="outlines-45" d="M539 443 H552 V545 Q550 559 541 558 V544 M710 443 H697 V545 Q699 559 709 558 V544 M539 584 H552 V646 Q550 659 541 658 V646 M710 584 H697 V647 Q699 660 709 658 V646 M541 658 H552 V743 Q550 756 541 755 V743 M709 658 H697 V743 Q699 755 709 754 V743 M541 755 H552 V883 H697 V755 M508 817 H541 V830 H552 M508 848 H529 V837 H552"/>
+<circle id="outlines-46" cx="628" cy="870" r="7"/>
+<rect id="outlines-47" x="699" y="627" width="12" height="18"/>
+<rect id="outlines-50" x="892" y="90" width="167" height="800"/>
+<line id="outlines-53" x1="893" y1="141.9" x2="1058" y2="141.9"/>
+<line id="outlines-54" x1="910" y1="110.0" x2="910" y2="141.9"/>
+<line id="outlines-55" x1="961" y1="110.0" x2="961" y2="141.9"/>
+<line id="outlines-56" x1="1015" y1="110.0" x2="1015" y2="141.9"/>
+<line id="outlines-57" x1="893" y1="173.8" x2="1058" y2="173.8"/>
+<line id="outlines-58" x1="932" y1="141.9" x2="932" y2="173.8"/>
+<line id="outlines-59" x1="991" y1="141.9" x2="991" y2="173.8"/>
+<line id="outlines-60" x1="1045" y1="141.9" x2="1045" y2="173.8"/>
+<line id="outlines-61" x1="893" y1="205.70000000000002" x2="1058" y2="205.70000000000002"/>
+<line id="outlines-62" x1="910" y1="173.8" x2="910" y2="205.70000000000002"/>
+<line id="outlines-63" x1="961" y1="173.8" x2="961" y2="205.70000000000002"/>
+<line id="outlines-64" x1="1015" y1="173.8" x2="1015" y2="205.70000000000002"/>
+<line id="outlines-65" x1="893" y1="237.6" x2="1058" y2="237.6"/>
+<line id="outlines-66" x1="932" y1="205.7" x2="932" y2="237.6"/>
+<line id="outlines-67" x1="991" y1="205.7" x2="991" y2="237.6"/>
+<line id="outlines-68" x1="1045" y1="205.7" x2="1045" y2="237.6"/>
+<line id="outlines-69" x1="893" y1="269.5" x2="1058" y2="269.5"/>
+<line id="outlines-70" x1="910" y1="237.6" x2="910" y2="269.5"/>
+<line id="outlines-71" x1="961" y1="237.6" x2="961" y2="269.5"/>
+<line id="outlines-72" x1="1015" y1="237.6" x2="1015" y2="269.5"/>
+<line id="outlines-73" x1="893" y1="301.4" x2="1058" y2="301.4"/>
+<line id="outlines-74" x1="932" y1="269.5" x2="932" y2="301.4"/>
+<line id="outlines-75" x1="991" y1="269.5" x2="991" y2="301.4"/>
+<line id="outlines-76" x1="1045" y1="269.5" x2="1045" y2="301.4"/>
+<line id="outlines-77" x1="893" y1="333.29999999999995" x2="1058" y2="333.29999999999995"/>
+<line id="outlines-78" x1="910" y1="301.4" x2="910" y2="333.29999999999995"/>
+<line id="outlines-79" x1="961" y1="301.4" x2="961" y2="333.29999999999995"/>
+<line id="outlines-80" x1="1015" y1="301.4" x2="1015" y2="333.29999999999995"/>
+<line id="outlines-81" x1="893" y1="365.19999999999993" x2="1058" y2="365.19999999999993"/>
+<line id="outlines-82" x1="932" y1="333.29999999999995" x2="932" y2="365.19999999999993"/>
+<line id="outlines-83" x1="991" y1="333.29999999999995" x2="991" y2="365.19999999999993"/>
+<line id="outlines-84" x1="1045" y1="333.29999999999995" x2="1045" y2="365.19999999999993"/>
+<line id="outlines-85" x1="893" y1="397.09999999999997" x2="1058" y2="397.09999999999997"/>
+<line id="outlines-86" x1="910" y1="365.2" x2="910" y2="397.09999999999997"/>
+<line id="outlines-87" x1="961" y1="365.2" x2="961" y2="397.09999999999997"/>
+<line id="outlines-88" x1="1015" y1="365.2" x2="1015" y2="397.09999999999997"/>
+<line id="outlines-89" x1="893" y1="428.99999999999994" x2="1058" y2="428.99999999999994"/>
+<line id="outlines-90" x1="932" y1="397.09999999999997" x2="932" y2="428.99999999999994"/>
+<line id="outlines-91" x1="991" y1="397.09999999999997" x2="991" y2="428.99999999999994"/>
+<line id="outlines-92" x1="1045" y1="397.09999999999997" x2="1045" y2="428.99999999999994"/>
+<line id="outlines-93" x1="893" y1="460.9" x2="1058" y2="460.9"/>
+<line id="outlines-94" x1="910" y1="429.0" x2="910" y2="460.9"/>
+<line id="outlines-95" x1="961" y1="429.0" x2="961" y2="460.9"/>
+<line id="outlines-96" x1="1015" y1="429.0" x2="1015" y2="460.9"/>
+<line id="outlines-97" x1="893" y1="492.79999999999995" x2="1058" y2="492.79999999999995"/>
+<line id="outlines-98" x1="932" y1="460.9" x2="932" y2="492.79999999999995"/>
+<line id="outlines-99" x1="991" y1="460.9" x2="991" y2="492.79999999999995"/>
+<line id="outlines-100" x1="1045" y1="460.9" x2="1045" y2="492.79999999999995"/>
+<line id="outlines-101" x1="893" y1="524.6999999999999" x2="1058" y2="524.6999999999999"/>
+<line id="outlines-102" x1="910" y1="492.79999999999995" x2="910" y2="524.6999999999999"/>
+<line id="outlines-103" x1="961" y1="492.79999999999995" x2="961" y2="524.6999999999999"/>
+<line id="outlines-104" x1="1015" y1="492.79999999999995" x2="1015" y2="524.6999999999999"/>
+<line id="outlines-105" x1="893" y1="556.6" x2="1058" y2="556.6"/>
+<line id="outlines-106" x1="932" y1="524.7" x2="932" y2="556.6"/>
+<line id="outlines-107" x1="991" y1="524.7" x2="991" y2="556.6"/>
+<line id="outlines-108" x1="1045" y1="524.7" x2="1045" y2="556.6"/>
+<line id="outlines-109" x1="893" y1="588.4999999999999" x2="1058" y2="588.4999999999999"/>
+<line id="outlines-110" x1="910" y1="556.5999999999999" x2="910" y2="588.4999999999999"/>
+<line id="outlines-111" x1="961" y1="556.5999999999999" x2="961" y2="588.4999999999999"/>
+<line id="outlines-112" x1="1015" y1="556.5999999999999" x2="1015" y2="588.4999999999999"/>
+<line id="outlines-113" x1="893" y1="620.4" x2="1058" y2="620.4"/>
+<line id="outlines-114" x1="932" y1="588.5" x2="932" y2="620.4"/>
+<line id="outlines-115" x1="991" y1="588.5" x2="991" y2="620.4"/>
+<line id="outlines-116" x1="1045" y1="588.5" x2="1045" y2="620.4"/>
+<line id="outlines-117" x1="893" y1="652.3" x2="1058" y2="652.3"/>
+<line id="outlines-118" x1="910" y1="620.4" x2="910" y2="652.3"/>
+<line id="outlines-119" x1="961" y1="620.4" x2="961" y2="652.3"/>
+<line id="outlines-120" x1="1015" y1="620.4" x2="1015" y2="652.3"/>
+<line id="outlines-121" x1="893" y1="684.1999999999999" x2="1058" y2="684.1999999999999"/>
+<line id="outlines-122" x1="932" y1="652.3" x2="932" y2="684.1999999999999"/>
+<line id="outlines-123" x1="991" y1="652.3" x2="991" y2="684.1999999999999"/>
+<line id="outlines-124" x1="1045" y1="652.3" x2="1045" y2="684.1999999999999"/>
+<line id="outlines-125" x1="893" y1="716.0999999999999" x2="1058" y2="716.0999999999999"/>
+<line id="outlines-126" x1="910" y1="684.1999999999999" x2="910" y2="716.0999999999999"/>
+<line id="outlines-127" x1="961" y1="684.1999999999999" x2="961" y2="716.0999999999999"/>
+<line id="outlines-128" x1="1015" y1="684.1999999999999" x2="1015" y2="716.0999999999999"/>
+<line id="outlines-129" x1="893" y1="748.0" x2="1058" y2="748.0"/>
+<line id="outlines-130" x1="932" y1="716.1" x2="932" y2="748.0"/>
+<line id="outlines-131" x1="991" y1="716.1" x2="991" y2="748.0"/>
+<line id="outlines-132" x1="1045" y1="716.1" x2="1045" y2="748.0"/>
+<line id="outlines-133" x1="893" y1="779.9" x2="1058" y2="779.9"/>
+<line id="outlines-134" x1="910" y1="748.0" x2="910" y2="779.9"/>
+<line id="outlines-135" x1="961" y1="748.0" x2="961" y2="779.9"/>
+<line id="outlines-136" x1="1015" y1="748.0" x2="1015" y2="779.9"/>
+<line id="outlines-137" x1="893" y1="811.8" x2="1058" y2="811.8"/>
+<line id="outlines-138" x1="932" y1="779.9" x2="932" y2="811.8"/>
+<line id="outlines-139" x1="991" y1="779.9" x2="991" y2="811.8"/>
+<line id="outlines-140" x1="1045" y1="779.9" x2="1045" y2="811.8"/>
+<line id="outlines-141" x1="893" y1="843.6999999999999" x2="1058" y2="843.6999999999999"/>
+<line id="outlines-142" x1="910" y1="811.8" x2="910" y2="843.6999999999999"/>
+<line id="outlines-143" x1="961" y1="811.8" x2="961" y2="843.6999999999999"/>
+<line id="outlines-144" x1="1015" y1="811.8" x2="1015" y2="843.6999999999999"/>
+<line id="outlines-145" x1="893" y1="875.5999999999999" x2="1058" y2="875.5999999999999"/>
+<line id="outlines-146" x1="932" y1="843.6999999999999" x2="932" y2="875"/>
+<line id="outlines-147" x1="991" y1="843.6999999999999" x2="991" y2="875"/>
+<line id="outlines-148" x1="1045" y1="843.6999999999999" x2="1045" y2="875"/>
+<path id="outlines-149" d="M1059 125 H1088 V111 H1108 M1059 146 H1086 V162 H1108 M820 817 H838 V828 H892 M820 866 H838 V855 H892 M892 855 H948"/>
+<circle id="outlines-150" cx="974" cy="865" r="5"/>
+</g>
+<g id="hidden-lines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.3" stroke-dasharray="10 6">
+<path id="hidden-lines-2" d="M136 287 H219"/>
+<path id="hidden-lines-4" d="M136 485 H219"/>
+<path id="hidden-lines-6" d="M136 685 H219"/>
+</g>
+<g id="centerlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1" stroke-dasharray="16 4 3 4">
+
+</g>
+<g id="dimensions" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+
+</g>
+<g id="leaders" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+<path id="leaders-35" d="M227 385 L259 420 L327 416"/>
+<path id="leaders-36" d="M251 590 L320 684 L242 682"/>
+<path id="leaders-37" d="M267 684 L324 687"/>
+<path id="leaders-48" d="M714 444 L752 447"/>
+<path id="leaders-49" d="M706 635 L752 631"/>
+</g>
+<g id="annotations" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="0">
+<text id="annotations-152" font-family="sans-serif" stroke="none" fill="black" x="88" y="42.6" font-size="30" textLength="198" lengthAdjust="spacingAndGlyphs">1.水缸做的塔</text>
+<text id="annotations-153" font-family="sans-serif" stroke="none" fill="black" x="553" y="42.6" font-size="30" textLength="138" lengthAdjust="spacingAndGlyphs">2.陶器塔</text>
+<text id="annotations-154" font-family="sans-serif" stroke="none" fill="black" x="336" y="434.0" font-size="30" textLength="133" lengthAdjust="spacingAndGlyphs">竹圈加固</text>
+<text id="annotations-155" font-family="sans-serif" stroke="none" fill="black" x="335" y="706.0" font-size="30" textLength="76" lengthAdjust="spacingAndGlyphs">密封</text>
+<text id="annotations-156" font-family="sans-serif" stroke="none" fill="black" x="754" y="460.0" font-size="30" textLength="67" lengthAdjust="spacingAndGlyphs">支架</text>
+<text id="annotations-157" font-family="sans-serif" stroke="none" fill="black" x="757" y="643.6" font-size="30" textLength="78" lengthAdjust="spacingAndGlyphs">密封</text>
+<text id="annotations-158" font-family="sans-serif" stroke="none" fill="black" x="332" y="881.4" font-size="30" textLength="165" lengthAdjust="spacingAndGlyphs">冷凝酸出口</text>
+<text id="annotations-159" font-family="sans-serif" stroke="none" fill="black" x="850" y="45.2" font-size="18.99171270718232" textLength="286" lengthAdjust="spacingAndGlyphs">3.耐酸或陶砖砌塔待填入文字_a</text>
+</g>
+<!-- 待填入: a=第三种塔标题右端被裁切 -->
+</svg>

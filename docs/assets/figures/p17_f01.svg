@@ -1,0 +1,347 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1711" height="1099" viewBox="0 0 1711 1099">
+<defs>
+<pattern id="hatch" width="11" height="11" patternUnits="userSpaceOnUse"><path d="M-2 2 L2 -2 M0 11 L11 0 M9 13 L13 9" fill="none" stroke="black" stroke-width="1"/></pattern>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".8"/><circle cx="9" cy="9" r=".8"/></pattern>
+<marker id="flow-arrow" viewBox="0 0 12 8" refX="11" refY="4" markerWidth="12" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0 L12 4 L0 8 Z" fill="black"/></marker>
+<marker id="dim-arrow" viewBox="0 0 10 6" refX="10" refY="3" markerWidth="10" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M10 3 L0 0 L0 6 Z" fill="black"/></marker>
+</defs>
+<rect id="paper" width="100%" height="100%" fill="white"/>
+<g id="hatching" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.8">
+
+</g>
+<g id="outlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="2.5">
+<line id="outlines-1" x1="77" y1="408" x2="1690" y2="408"/>
+<g id="liquid-ammonia-tank">
+<path id="outlines-2" d="M254 351 L413 335 a12 12 0 0 1 4 24 L257 376 a12 12 0 0 1 -3 -25 Z"/>
+</g>
+<path id="outlines-3" d="M254 376 V408 M266 375 V408 M428 343 H462 V260 H554 V326"/>
+<g id="ammonia-buffer">
+<rect id="outlines-4" x="528" y="326" width="102" height="51" rx="25"/>
+</g>
+<path id="outlines-5" d="M554 377 V408 M565 377 V408 M603 377 V408 M613 377 V408 M579 326 V307 M604 326 V25 H850 V80"/>
+<circle id="outlines-6" cx="579" cy="297" r="9" fill="white"/>
+<line id="outlines-7" x1="579" y1="297" x2="575" y2="291" stroke-width="1.2"/>
+<circle id="outlines-8" cx="579" cy="297" r="1.5" fill="black" stroke="none"/>
+<polygon id="outlines-9" points="594,127 614,127 594,147 614,147" fill="white"/>
+<circle id="outlines-10" cx="604" cy="225" r="7" fill="white"/>
+<circle id="outlines-11" cx="604" cy="225" r="2" fill="black"/>
+<path id="outlines-12" d="M672 26 V45 M672 66 V78 L735 62 V26"/>
+<circle id="outlines-13" cx="672" cy="55" r="7" fill="white"/>
+<line id="outlines-14" x1="672" y1="55" x2="668" y2="49" stroke-width="1.2"/>
+<circle id="outlines-15" cx="672" cy="55" r="1.5" fill="black" stroke="none"/>
+<line id="outlines-16" x1="700" y1="17" x2="700" y2="35"/>
+<line id="outlines-17" x1="708" y1="17" x2="708" y2="35"/>
+<line id="outlines-18" x1="716" y1="17" x2="716" y2="35"/>
+<line id="outlines-19" x1="843" y1="35" x2="843" y2="78" marker-end="url(#flow-arrow)"/>
+<g id="oxidation-furnace">
+<path id="outlines-20" d="M775 408 V390 H786 V198 L819 158 L840 124 V93 L851 80 L866 93 V124 L886 158 L923 198 V390 H933 V408 Z"/>
+</g>
+<line id="outlines-21" x1="786" y1="198" x2="923" y2="198"/>
+<line id="outlines-22" x1="819" y1="158" x2="886" y2="158"/>
+<line id="outlines-23" x1="840" y1="124" x2="866" y2="124"/>
+<line id="outlines-24" x1="840" y1="93" x2="866" y2="93"/>
+<line id="outlines-25" x1="786" y1="262" x2="923" y2="262"/>
+<path id="outlines-27" d="M786 277 L774 273 L773 264 M923 283 H934 V270 H929 V281"/>
+<path id="outlines-29" d="M866 102 H1065 V334 M923 369 H1028 M1065 274 H1520 V334"/>
+<g id="heat-exchanger">
+<polygon id="outlines-31" points="1028,367 1042,334 1328,334 1343,367 1329,392 1043,392"/>
+</g>
+<path id="outlines-32" d="M1041 334 V392 M1329 334 V392 M1060 392 V408 M1071 392 V408 M1292 392 V408 M1305 392 V408 M1343 367 H1408 V560 H1595 V484 H1452 V328 H1519"/>
+<rect id="outlines-33" x="1452" y="347" width="116" height="57" rx="28"/>
+<circle id="outlines-34" cx="1501" cy="374" r="17"/>
+<circle id="outlines-35" cx="1540" cy="374" r="17"/>
+<path id="outlines-36" d="M1519 404 V422 H1579 V277 H1628 V345 M1598 408 V366 L1626 346 L1654 366 V408 Z"/>
+<line id="outlines-37" x1="1598" y1="366" x2="1654" y2="366"/>
+<line id="outlines-38" x1="1598" y1="376" x2="1654" y2="376"/>
+<line id="outlines-39" x1="1598" y1="387" x2="1654" y2="387"/>
+<path id="outlines-40" d="M1298 334 V184 H1455 V274 M1298 274 H1455 M1367 274 V299 M1445 560 V593 Q1453 601 1453 590 V560 M1503 560 V910"/>
+<rect id="outlines-41" x="1336" y="172" width="82" height="21"/>
+<line id="outlines-42" x1="1336" y1="180" x2="1418" y2="180"/>
+<line id="outlines-43" x1="1336" y1="187" x2="1418" y2="187"/>
+<circle id="outlines-44" cx="1272" cy="274" r="7" fill="white"/>
+<circle id="outlines-45" cx="1272" cy="274" r="1.8" fill="black"/>
+<circle id="outlines-46" cx="1298" cy="292" r="7" fill="white"/>
+<circle id="outlines-47" cx="1298" cy="292" r="1.8" fill="black"/>
+<circle id="outlines-48" cx="1438" cy="274" r="7" fill="white"/>
+<circle id="outlines-49" cx="1438" cy="274" r="1.8" fill="black"/>
+<circle id="outlines-50" cx="1455" cy="259" r="7" fill="white"/>
+<circle id="outlines-51" cx="1455" cy="259" r="1.8" fill="black"/>
+<circle id="outlines-52" cx="1498" cy="292" r="7" fill="white"/>
+<circle id="outlines-53" cx="1498" cy="292" r="1.8" fill="black"/>
+<path id="outlines-54" d="M1475 274 V308 L1498 315 V297 M1519 484 V494 L1564 503 V482"/>
+<circle id="outlines-55" cx="1519" cy="505" r="5" fill="white"/>
+<line id="outlines-56" x1="1519" y1="505" x2="1515" y2="499" stroke-width="1.2"/>
+<circle id="outlines-57" cx="1519" cy="505" r="1.5" fill="black" stroke="none"/>
+<rect id="outlines-59" x="26" y="983" width="922" height="41"/>
+<g id="absorption-column-1">
+<rect id="outlines-60" x="38" y="597" width="51" height="386"/>
+<rect id="outlines-61" x="33" y="594" width="61" height="7" fill="white"/>
+<rect id="outlines-62" x="33" y="632" width="61" height="7" fill="white"/>
+<rect id="outlines-63" x="33" y="708" width="61" height="7" fill="white"/>
+<rect id="outlines-64" x="33" y="783" width="61" height="7" fill="white"/>
+<rect id="outlines-65" x="33" y="858" width="61" height="7" fill="white"/>
+<rect id="outlines-66" x="33" y="935" width="61" height="7" fill="white"/>
+</g>
+<path id="outlines-67" d="M89 953 H129 M89 967 H129"/>
+<g id="absorption-column-2">
+<rect id="outlines-68" x="129" y="597" width="51" height="386"/>
+<rect id="outlines-69" x="124" y="594" width="61" height="7" fill="white"/>
+<rect id="outlines-70" x="124" y="632" width="61" height="7" fill="white"/>
+<rect id="outlines-71" x="124" y="708" width="61" height="7" fill="white"/>
+<rect id="outlines-72" x="124" y="783" width="61" height="7" fill="white"/>
+<rect id="outlines-73" x="124" y="858" width="61" height="7" fill="white"/>
+<rect id="outlines-74" x="124" y="935" width="61" height="7" fill="white"/>
+</g>
+<path id="outlines-75" d="M180 608 H220 M180 622 H220"/>
+<g id="absorption-column-3">
+<rect id="outlines-76" x="220" y="597" width="51" height="386"/>
+<rect id="outlines-77" x="215" y="594" width="61" height="7" fill="white"/>
+<rect id="outlines-78" x="215" y="632" width="61" height="7" fill="white"/>
+<rect id="outlines-79" x="215" y="708" width="61" height="7" fill="white"/>
+<rect id="outlines-80" x="215" y="783" width="61" height="7" fill="white"/>
+<rect id="outlines-81" x="215" y="858" width="61" height="7" fill="white"/>
+<rect id="outlines-82" x="215" y="935" width="61" height="7" fill="white"/>
+</g>
+<path id="outlines-83" d="M271 953 H317 M271 967 H317"/>
+<g id="absorption-column-4">
+<rect id="outlines-84" x="317" y="597" width="51" height="386"/>
+<rect id="outlines-85" x="312" y="594" width="61" height="7" fill="white"/>
+<rect id="outlines-86" x="312" y="632" width="61" height="7" fill="white"/>
+<rect id="outlines-87" x="312" y="708" width="61" height="7" fill="white"/>
+<rect id="outlines-88" x="312" y="783" width="61" height="7" fill="white"/>
+<rect id="outlines-89" x="312" y="858" width="61" height="7" fill="white"/>
+<rect id="outlines-90" x="312" y="935" width="61" height="7" fill="white"/>
+</g>
+<path id="outlines-91" d="M368 608 H408 M368 622 H408"/>
+<g id="absorption-column-5">
+<rect id="outlines-92" x="408" y="597" width="51" height="386"/>
+<rect id="outlines-93" x="403" y="594" width="61" height="7" fill="white"/>
+<rect id="outlines-94" x="403" y="632" width="61" height="7" fill="white"/>
+<rect id="outlines-95" x="403" y="708" width="61" height="7" fill="white"/>
+<rect id="outlines-96" x="403" y="783" width="61" height="7" fill="white"/>
+<rect id="outlines-97" x="403" y="858" width="61" height="7" fill="white"/>
+<rect id="outlines-98" x="403" y="935" width="61" height="7" fill="white"/>
+</g>
+<path id="outlines-99" d="M459 953 H503 M459 967 H503"/>
+<g id="absorption-column-6">
+<rect id="outlines-100" x="503" y="597" width="51" height="386"/>
+<rect id="outlines-101" x="498" y="594" width="61" height="7" fill="white"/>
+<rect id="outlines-102" x="498" y="632" width="61" height="7" fill="white"/>
+<rect id="outlines-103" x="498" y="708" width="61" height="7" fill="white"/>
+<rect id="outlines-104" x="498" y="783" width="61" height="7" fill="white"/>
+<rect id="outlines-105" x="498" y="858" width="61" height="7" fill="white"/>
+<rect id="outlines-106" x="498" y="935" width="61" height="7" fill="white"/>
+</g>
+<path id="outlines-107" d="M554 608 H598 M554 622 H598"/>
+<g id="absorption-column-7">
+<rect id="outlines-108" x="598" y="597" width="51" height="386"/>
+<rect id="outlines-109" x="593" y="594" width="61" height="7" fill="white"/>
+<rect id="outlines-110" x="593" y="632" width="61" height="7" fill="white"/>
+<rect id="outlines-111" x="593" y="708" width="61" height="7" fill="white"/>
+<rect id="outlines-112" x="593" y="783" width="61" height="7" fill="white"/>
+<rect id="outlines-113" x="593" y="858" width="61" height="7" fill="white"/>
+<rect id="outlines-114" x="593" y="935" width="61" height="7" fill="white"/>
+</g>
+<path id="outlines-115" d="M649 953 H692 M649 967 H692"/>
+<g id="absorption-column-8">
+<rect id="outlines-116" x="692" y="597" width="51" height="386"/>
+<rect id="outlines-117" x="687" y="594" width="61" height="7" fill="white"/>
+<rect id="outlines-118" x="687" y="632" width="61" height="7" fill="white"/>
+<rect id="outlines-119" x="687" y="708" width="61" height="7" fill="white"/>
+<rect id="outlines-120" x="687" y="783" width="61" height="7" fill="white"/>
+<rect id="outlines-121" x="687" y="858" width="61" height="7" fill="white"/>
+<rect id="outlines-122" x="687" y="935" width="61" height="7" fill="white"/>
+</g>
+<path id="outlines-123" d="M743 608 H785 M743 622 H785"/>
+<g id="absorption-column-9">
+<rect id="outlines-124" x="785" y="597" width="51" height="386"/>
+<rect id="outlines-125" x="780" y="594" width="61" height="7" fill="white"/>
+<rect id="outlines-126" x="780" y="632" width="61" height="7" fill="white"/>
+<rect id="outlines-127" x="780" y="708" width="61" height="7" fill="white"/>
+<rect id="outlines-128" x="780" y="783" width="61" height="7" fill="white"/>
+<rect id="outlines-129" x="780" y="858" width="61" height="7" fill="white"/>
+<rect id="outlines-130" x="780" y="935" width="61" height="7" fill="white"/>
+</g>
+<path id="outlines-131" d="M836 953 H877 M836 967 H877"/>
+<g id="absorption-column-10">
+<rect id="outlines-132" x="877" y="597" width="51" height="386"/>
+<rect id="outlines-133" x="872" y="594" width="61" height="7" fill="white"/>
+<rect id="outlines-134" x="872" y="632" width="61" height="7" fill="white"/>
+<rect id="outlines-135" x="872" y="708" width="61" height="7" fill="white"/>
+<rect id="outlines-136" x="872" y="783" width="61" height="7" fill="white"/>
+<rect id="outlines-137" x="872" y="858" width="61" height="7" fill="white"/>
+<rect id="outlines-138" x="872" y="935" width="61" height="7" fill="white"/>
+</g>
+<circle id="outlines-139" cx="78" cy="584" r="5" fill="black"/>
+<circle id="outlines-140" cx="332" cy="572" r="5" fill="black"/>
+<circle id="outlines-141" cx="517" cy="573" r="5" fill="black"/>
+<circle id="outlines-142" cx="707" cy="579" r="5" fill="black"/>
+<circle id="outlines-143" cx="920" cy="573" r="5" fill="black"/>
+<rect id="outlines-151" x="193" y="1000" width="13" height="12"/>
+<rect id="outlines-153" x="388" y="1000" width="13" height="12"/>
+<rect id="outlines-155" x="571" y="1000" width="13" height="12"/>
+<rect id="outlines-157" x="758" y="1000" width="13" height="12"/>
+<rect id="outlines-159" x="857" y="1000" width="13" height="12"/>
+<path id="outlines-160" d="M13 533 V605 a10 10 0 0 0 10 10 H38 M24 533 V596 H38 M38 535 V566 Q39 575 47 566 V547 H55 V574 H66 V594"/>
+<line id="outlines-161" x1="14" y1="483" x2="14" y2="522" marker-end="url(#flow-arrow)"/>
+<line id="outlines-162" x1="43" y1="504" x2="43" y2="530" marker-end="url(#flow-arrow)"/>
+<circle id="outlines-163" cx="78" cy="584" r="6" fill="black"/>
+<path id="outlines-164" d="M928 970 H969 V982 M928 621 H1065 V910"/>
+<line id="outlines-165" x1="940" y1="970" x2="969" y2="970" marker-end="url(#flow-arrow)"/>
+<rect id="outlines-166" x="1038" y="987" width="486" height="38"/>
+<g id="cold-oxidation-jar-1">
+<path id="outlines-167" d="M1065 987 L1058 946 C1053 915 1070 906 1088 906 C1108 906 1124 919 1116 947 L1109 987 Z"/>
+</g>
+<g id="cold-oxidation-jar-2">
+<path id="outlines-168" d="M1147 987 L1140 946 C1135 915 1152 906 1170 906 C1190 906 1206 919 1198 947 L1191 987 Z"/>
+</g>
+<g id="cold-oxidation-jar-3">
+<path id="outlines-169" d="M1229 987 L1222 946 C1217 915 1234 906 1252 906 C1272 906 1288 919 1280 947 L1273 987 Z"/>
+</g>
+<g id="cold-oxidation-jar-4">
+<path id="outlines-170" d="M1311 987 L1304 946 C1299 915 1316 906 1334 906 C1354 906 1370 919 1362 947 L1355 987 Z"/>
+</g>
+<g id="cold-oxidation-jar-5">
+<path id="outlines-171" d="M1393 987 L1386 946 C1381 915 1398 906 1416 906 C1436 906 1452 919 1444 947 L1437 987 Z"/>
+</g>
+<g id="cold-oxidation-jar-6">
+<path id="outlines-172" d="M1473 987 L1466 946 C1461 915 1478 906 1496 906 C1516 906 1532 919 1524 947 L1517 987 Z"/>
+</g>
+<path id="outlines-173" d="M1110 913 V727 a19 23 0 0 1 38 0 V913"/>
+<line id="outlines-174" x1="1105" y1="727" x2="1115" y2="727"/>
+<line id="outlines-175" x1="1143" y1="727" x2="1153" y2="727"/>
+<line id="outlines-176" x1="1105" y1="770" x2="1115" y2="770"/>
+<line id="outlines-177" x1="1143" y1="770" x2="1153" y2="770"/>
+<line id="outlines-178" x1="1105" y1="815" x2="1115" y2="815"/>
+<line id="outlines-179" x1="1143" y1="815" x2="1153" y2="815"/>
+<line id="outlines-180" x1="1105" y1="859" x2="1115" y2="859"/>
+<line id="outlines-181" x1="1143" y1="859" x2="1153" y2="859"/>
+<line id="outlines-182" x1="1105" y1="905" x2="1115" y2="905"/>
+<line id="outlines-183" x1="1143" y1="905" x2="1153" y2="905"/>
+<path id="outlines-184" d="M1192 913 V727 a19 23 0 0 1 38 0 V913"/>
+<line id="outlines-185" x1="1187" y1="727" x2="1197" y2="727"/>
+<line id="outlines-186" x1="1225" y1="727" x2="1235" y2="727"/>
+<line id="outlines-187" x1="1187" y1="770" x2="1197" y2="770"/>
+<line id="outlines-188" x1="1225" y1="770" x2="1235" y2="770"/>
+<line id="outlines-189" x1="1187" y1="815" x2="1197" y2="815"/>
+<line id="outlines-190" x1="1225" y1="815" x2="1235" y2="815"/>
+<line id="outlines-191" x1="1187" y1="859" x2="1197" y2="859"/>
+<line id="outlines-192" x1="1225" y1="859" x2="1235" y2="859"/>
+<line id="outlines-193" x1="1187" y1="905" x2="1197" y2="905"/>
+<line id="outlines-194" x1="1225" y1="905" x2="1235" y2="905"/>
+<path id="outlines-195" d="M1274 913 V727 a19 23 0 0 1 38 0 V913"/>
+<line id="outlines-196" x1="1269" y1="727" x2="1279" y2="727"/>
+<line id="outlines-197" x1="1307" y1="727" x2="1317" y2="727"/>
+<line id="outlines-198" x1="1269" y1="770" x2="1279" y2="770"/>
+<line id="outlines-199" x1="1307" y1="770" x2="1317" y2="770"/>
+<line id="outlines-200" x1="1269" y1="815" x2="1279" y2="815"/>
+<line id="outlines-201" x1="1307" y1="815" x2="1317" y2="815"/>
+<line id="outlines-202" x1="1269" y1="859" x2="1279" y2="859"/>
+<line id="outlines-203" x1="1307" y1="859" x2="1317" y2="859"/>
+<line id="outlines-204" x1="1269" y1="905" x2="1279" y2="905"/>
+<line id="outlines-205" x1="1307" y1="905" x2="1317" y2="905"/>
+<path id="outlines-206" d="M1356 913 V727 a19 23 0 0 1 38 0 V913"/>
+<line id="outlines-207" x1="1351" y1="727" x2="1361" y2="727"/>
+<line id="outlines-208" x1="1389" y1="727" x2="1399" y2="727"/>
+<line id="outlines-209" x1="1351" y1="770" x2="1361" y2="770"/>
+<line id="outlines-210" x1="1389" y1="770" x2="1399" y2="770"/>
+<line id="outlines-211" x1="1351" y1="815" x2="1361" y2="815"/>
+<line id="outlines-212" x1="1389" y1="815" x2="1399" y2="815"/>
+<line id="outlines-213" x1="1351" y1="859" x2="1361" y2="859"/>
+<line id="outlines-214" x1="1389" y1="859" x2="1399" y2="859"/>
+<line id="outlines-215" x1="1351" y1="905" x2="1361" y2="905"/>
+<line id="outlines-216" x1="1389" y1="905" x2="1399" y2="905"/>
+<path id="outlines-217" d="M1438 913 V727 a18 23 0 0 1 36 0 V913"/>
+<line id="outlines-218" x1="1433" y1="727" x2="1443" y2="727"/>
+<line id="outlines-219" x1="1469" y1="727" x2="1479" y2="727"/>
+<line id="outlines-220" x1="1433" y1="770" x2="1443" y2="770"/>
+<line id="outlines-221" x1="1469" y1="770" x2="1479" y2="770"/>
+<line id="outlines-222" x1="1433" y1="815" x2="1443" y2="815"/>
+<line id="outlines-223" x1="1469" y1="815" x2="1479" y2="815"/>
+<line id="outlines-224" x1="1433" y1="859" x2="1443" y2="859"/>
+<line id="outlines-225" x1="1469" y1="859" x2="1479" y2="859"/>
+<line id="outlines-226" x1="1433" y1="905" x2="1443" y2="905"/>
+<line id="outlines-227" x1="1469" y1="905" x2="1479" y2="905"/>
+<path id="outlines-228" d="M1065 910 V621 M1503 910 V560"/>
+<circle id="outlines-229" cx="1065" cy="628" r="2" fill="black"/>
+<circle id="outlines-230" cx="1065" cy="678" r="2" fill="black"/>
+<circle id="outlines-231" cx="1065" cy="721" r="2" fill="black"/>
+<circle id="outlines-232" cx="1065" cy="770" r="2" fill="black"/>
+<circle id="outlines-233" cx="1065" cy="815" r="2" fill="black"/>
+<circle id="outlines-234" cx="1065" cy="859" r="2" fill="black"/>
+</g>
+<g id="hidden-lines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.3" stroke-dasharray="10 6">
+<path id="hidden-lines-26" d="M786 325 H923"/>
+<path id="hidden-lines-144" d="M78 578 V574 H158 V595"/>
+<path id="hidden-lines-145" d="M199 983 V577 H248 V558 H332 V567"/>
+<path id="hidden-lines-146" d="M394 983 V578 H439 V558 H517 V568"/>
+<path id="hidden-lines-147" d="M577 983 V578 H630 V558 H707 V574"/>
+<path id="hidden-lines-148" d="M764 983 V578 H816 V558 H920 V568"/>
+<path id="hidden-lines-149" d="M864 985 V578 H891 V593"/>
+<path id="hidden-lines-150" d="M200 984 V1000"/>
+<path id="hidden-lines-152" d="M395 984 V1000"/>
+<path id="hidden-lines-154" d="M578 984 V1000"/>
+<path id="hidden-lines-156" d="M765 984 V1000"/>
+<path id="hidden-lines-158" d="M864 984 V1000"/>
+</g>
+<g id="centerlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1" stroke-dasharray="16 4 3 4">
+
+</g>
+<g id="dimensions" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+
+</g>
+<g id="leaders" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+<path id="leaders-28" d="M749 326 L770 338 L786 338"/>
+<path id="leaders-30" d="M1065 176 L1085 161"/>
+<path id="leaders-58" d="M1408 499 L1389 491"/>
+<path id="leaders-235" d="M1496 934 L1526 910 L1534 900"/>
+</g>
+<g id="annotations" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="0">
+<text id="annotations-236" font-family="sans-serif" stroke="none" fill="black" x="276" y="334.0" font-size="30" textLength="108" lengthAdjust="spacingAndGlyphs">液氨箱</text>
+<text id="annotations-237" font-family="sans-serif" stroke="none" fill="black" x="483" y="244.8" font-size="22.596153846153847" textLength="47" lengthAdjust="spacingAndGlyphs">氨气</text>
+<text id="annotations-238" font-family="sans-serif" stroke="none" fill="black" transform="translate(582 283) rotate(-90)" font-size="25.6" textLength="88" lengthAdjust="spacingAndGlyphs">压力计</text>
+<text id="annotations-239" font-family="sans-serif" stroke="none" fill="black" x="631.5" y="128.68666666666667" font-size="23.200000000000003" text-anchor="middle">滤</text>
+<text id="annotations-240" font-family="sans-serif" stroke="none" fill="black" x="631.5" y="156.35333333333332" font-size="23.200000000000003" text-anchor="middle">油</text>
+<text id="annotations-241" font-family="sans-serif" stroke="none" fill="black" x="631.5" y="184.01999999999998" font-size="23.200000000000003" text-anchor="middle">器</text>
+<text id="annotations-242" font-family="sans-serif" stroke="none" fill="black" x="613" y="236.2" font-size="19.807692307692307" textLength="103" lengthAdjust="spacingAndGlyphs">氨气总开关</text>
+<text id="annotations-243" font-family="sans-serif" stroke="none" fill="black" x="655" y="109.0" font-size="19.615384615384613" textLength="102" lengthAdjust="spacingAndGlyphs">氨气流量计</text>
+<text id="annotations-244" font-family="sans-serif" stroke="none" fill="black" x="637" y="361.6" font-size="18.46153846153846" textLength="96" lengthAdjust="spacingAndGlyphs">氨气缓压箱</text>
+<text id="annotations-245" font-family="sans-serif" stroke="none" fill="black" x="710" y="267.2" font-size="20.833333333333332" textLength="65" lengthAdjust="spacingAndGlyphs">看火口</text>
+<text id="annotations-246" font-family="sans-serif" stroke="none" fill="black" x="865" y="92.2" font-size="21.794871794871796" textLength="68" lengthAdjust="spacingAndGlyphs">混合器</text>
+<text id="annotations-247" font-family="sans-serif" stroke="none" fill="black" x="936" y="294.0" font-size="21.153846153846153" textLength="66" lengthAdjust="spacingAndGlyphs">点火口</text>
+<text id="annotations-248" font-family="sans-serif" stroke="none" fill="black" x="933" y="149.2" font-size="18.26923076923077" textLength="57" lengthAdjust="spacingAndGlyphs">热空气</text>
+<text id="annotations-249" font-family="sans-serif" stroke="none" fill="black" x="1090" y="174.6" font-size="21.153846153846153" textLength="66" lengthAdjust="spacingAndGlyphs">温度计</text>
+<text id="annotations-250" font-family="sans-serif" stroke="none" fill="black" x="1214" y="257.2" font-size="12.98076923076923" textLength="81" lengthAdjust="spacingAndGlyphs">温度警报开关</text>
+<text id="annotations-251" font-family="sans-serif" stroke="none" fill="black" x="1465" y="261.0" font-size="22.115384615384613" textLength="115" lengthAdjust="spacingAndGlyphs">空气流量计</text>
+<text id="annotations-252" font-family="sans-serif" stroke="none" fill="black" x="1337" y="328.8" font-size="21.153846153846153" textLength="66" lengthAdjust="spacingAndGlyphs">压力计</text>
+<text id="annotations-253" font-family="sans-serif" stroke="none" fill="black" x="1485" y="457.6" font-size="21.73076923076923" textLength="113" lengthAdjust="spacingAndGlyphs">罗次鼓风机</text>
+<text id="annotations-254" font-family="sans-serif" stroke="none" fill="black" x="1467" y="548.4" font-size="15.934065934065934" textLength="116" lengthAdjust="spacingAndGlyphs">二次空气流量计</text>
+<text id="annotations-255" font-family="sans-serif" stroke="none" fill="black" x="1327" y="501.4" font-size="20.833333333333332" textLength="65" lengthAdjust="spacingAndGlyphs">温度计</text>
+<text id="annotations-256" font-family="sans-serif" stroke="none" fill="black" x="1410" y="638.2" font-size="21.794871794871796" textLength="68" lengthAdjust="spacingAndGlyphs">压力计</text>
+<text id="annotations-257" font-family="sans-serif" stroke="none" fill="black" x="1639.5" y="428.416" font-size="15.98" text-anchor="middle">空</text>
+<text id="annotations-258" font-family="sans-serif" stroke="none" fill="black" x="1639.5" y="447.216" font-size="15.98" text-anchor="middle">气</text>
+<text id="annotations-259" font-family="sans-serif" stroke="none" fill="black" x="1639.5" y="466.016" font-size="15.98" text-anchor="middle">过</text>
+<text id="annotations-260" font-family="sans-serif" stroke="none" fill="black" x="1639.5" y="484.81600000000003" font-size="15.98" text-anchor="middle">滤</text>
+<text id="annotations-261" font-family="sans-serif" stroke="none" fill="black" x="1639.5" y="503.616" font-size="15.98" text-anchor="middle">器</text>
+<text id="annotations-262" font-family="sans-serif" stroke="none" fill="black" x="1204" y="684.4" font-size="30" textLength="179" lengthAdjust="spacingAndGlyphs">冷却氧化法</text>
+<text id="annotations-263" font-family="sans-serif" stroke="none" fill="black" x="413" y="1014.8" font-size="20.19230769230769" textLength="84" lengthAdjust="spacingAndGlyphs">循环酸泵</text>
+<text id="annotations-264" font-family="sans-serif" stroke="none" fill="black" x="994.0" y="955.9666666666667" font-size="26.916666666666668" text-anchor="middle">贮</text>
+<text id="annotations-265" font-family="sans-serif" stroke="none" fill="black" x="994.0" y="987.6333333333333" font-size="26.916666666666668" text-anchor="middle">液</text>
+<text id="annotations-266" font-family="sans-serif" stroke="none" fill="black" x="994.0" y="1019.3" font-size="26.916666666666668" text-anchor="middle">处</text>
+<text id="annotations-267" font-family="sans-serif" stroke="none" fill="black" x="563" y="1081.4" font-size="30" textLength="551" lengthAdjust="spacingAndGlyphs">上海天工酸碱厂用土法制造硝酸流程图</text>
+<text id="annotations-268" font-family="sans-serif" stroke="none" fill="black" x="854.0" y="271.9133333333333" font-size="33.6" text-anchor="middle">氧</text>
+<text id="annotations-269" font-family="sans-serif" stroke="none" fill="black" x="854.0" y="324.24666666666667" font-size="33.6" text-anchor="middle">化</text>
+<text id="annotations-270" font-family="sans-serif" stroke="none" fill="black" x="854.0" y="376.58" font-size="33.6" text-anchor="middle">炉</text>
+<text id="annotations-271" font-family="sans-serif" stroke="none" fill="black" x="233" y="761.2" font-size="30" textLength="34" lengthAdjust="spacingAndGlyphs">吸</text>
+<text id="annotations-272" font-family="sans-serif" stroke="none" fill="black" x="422" y="765.4" font-size="30" textLength="32" lengthAdjust="spacingAndGlyphs">收</text>
+<text id="annotations-273" font-family="sans-serif" stroke="none" fill="black" x="614" y="768.4" font-size="28.846153846153847" textLength="30" lengthAdjust="spacingAndGlyphs">塔</text>
+<text id="annotations-274" font-family="sans-serif" stroke="none" fill="black" x="632" y="321.4" font-size="20.03205128205128" textLength="125" lengthAdjust="spacingAndGlyphs">高温计热电偶</text>
+<text id="annotations-275" font-family="sans-serif" stroke="none" fill="black" transform="translate(838.75 76) rotate(-90)" font-size="7.396449704142012" textLength="48" lengthAdjust="spacingAndGlyphs">待填入文字_a</text>
+<text id="annotations-276" font-family="sans-serif" stroke="none" fill="black" x="1069" y="375.8" font-size="19.87493715434892" textLength="253" lengthAdjust="spacingAndGlyphs">热交换器（交换面积2米²）</text>
+<text id="annotations-277" font-family="sans-serif" stroke="none" fill="black" x="1262" y="157.4" font-size="18.446432721357194" textLength="254" lengthAdjust="spacingAndGlyphs">空气加热器（待填入文字_b）</text>
+<text id="annotations-278" font-family="sans-serif" stroke="none" fill="black" x="1534" y="948.2" font-size="16.4879191321499" textLength="107" lengthAdjust="spacingAndGlyphs">待填入文字_d</text>
+<text id="annotations-279" font-family="sans-serif" stroke="none" fill="black" transform="translate(23.5 465) rotate(-90)" font-size="13.007825507825507" textLength="125" lengthAdjust="spacingAndGlyphs">待填入文字_c气出口</text>
+<text id="annotations-280" font-family="sans-serif" stroke="none" fill="black" x="32" y="493.0" font-size="24.038461538461537" textLength="25" lengthAdjust="spacingAndGlyphs">水</text>
+</g>
+<!-- 待填入: a=混合器顶部竖排进口标注; b=右上空气加热器标题及括注; c=左边竖排气体出口标注的首字; d=右下冷却设备说明 -->
+</svg>

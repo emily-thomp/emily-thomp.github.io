@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1043" height="392" viewBox="0 0 1043 392">
+<defs>
+<pattern id="hatch" width="11" height="11" patternUnits="userSpaceOnUse"><path d="M-2 2 L2 -2 M0 11 L11 0 M9 13 L13 9" fill="none" stroke="black" stroke-width="1"/></pattern>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".8"/><circle cx="9" cy="9" r=".8"/></pattern>
+<marker id="flow-arrow" viewBox="0 0 12 8" refX="11" refY="4" markerWidth="12" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0 L12 4 L0 8 Z" fill="black"/></marker>
+<marker id="dim-arrow" viewBox="0 0 10 6" refX="10" refY="3" markerWidth="10" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M10 3 L0 0 L0 6 Z" fill="black"/></marker>
+</defs>
+<rect id="paper" width="100%" height="100%" fill="white"/>
+<g id="hatching" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.8">
+
+</g>
+<g id="outlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="2.5">
+<rect id="outlines-1" x="14" y="12" width="1021" height="375" stroke-width="2.8"/>
+<line id="outlines-2" x1="116.1" y1="17" x2="116.1" y2="377" stroke-width="1.2"/>
+<line id="outlines-3" x1="218.2" y1="17" x2="218.2" y2="377" stroke-width="1.2"/>
+<line id="outlines-4" x1="320.29999999999995" y1="17" x2="320.29999999999995" y2="377" stroke-width="1.2"/>
+<line id="outlines-5" x1="422.4" y1="17" x2="422.4" y2="377" stroke-width="1.2"/>
+<line id="outlines-6" x1="524.5" y1="17" x2="524.5" y2="377" stroke-width="1.2"/>
+<line id="outlines-7" x1="626.5999999999999" y1="17" x2="626.5999999999999" y2="377" stroke-width="1.2"/>
+<line id="outlines-8" x1="728.6999999999999" y1="17" x2="728.6999999999999" y2="377" stroke-width="1.2"/>
+<line id="outlines-9" x1="830.8" y1="17" x2="830.8" y2="377" stroke-width="1.2"/>
+<line id="outlines-10" x1="932.9" y1="17" x2="932.9" y2="377" stroke-width="1.2"/>
+<line id="outlines-11" x1="23.0" y1="119" x2="111.0" y2="119" stroke-width="1.2"/>
+<line id="outlines-12" x1="125.1" y1="119" x2="213.1" y2="119" stroke-width="1.2"/>
+<line id="outlines-13" x1="227.2" y1="119" x2="315.2" y2="119" stroke-width="1.2"/>
+<line id="outlines-14" x1="329.29999999999995" y1="119" x2="417.29999999999995" y2="119" stroke-width="1.2"/>
+<line id="outlines-15" x1="431.4" y1="119" x2="519.4" y2="119" stroke-width="1.2"/>
+<line id="outlines-16" x1="533.5" y1="119" x2="621.5" y2="119" stroke-width="1.2"/>
+<line id="outlines-17" x1="635.5999999999999" y1="119" x2="723.5999999999999" y2="119" stroke-width="1.2"/>
+<line id="outlines-18" x1="737.6999999999999" y1="119" x2="825.6999999999999" y2="119" stroke-width="1.2"/>
+<line id="outlines-19" x1="839.8" y1="119" x2="927.8" y2="119" stroke-width="1.2"/>
+<line id="outlines-20" x1="941.9" y1="119" x2="1029.9" y2="119" stroke-width="1.2"/>
+</g>
+<g id="hidden-lines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.3" stroke-dasharray="10 6">
+
+</g>
+<g id="centerlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1" stroke-dasharray="16 4 3 4">
+
+</g>
+<g id="dimensions" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+
+</g>
+<g id="leaders" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+
+</g>
+<g id="annotations" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="0">
+<text id="annotations-21" font-family="sans-serif" stroke="none" fill="black" x="18" y="60.800000000000004" font-size="30" textLength="98" lengthAdjust="spacingAndGlyphs">化合氮</text>
+<text id="annotations-22" font-family="sans-serif" stroke="none" fill="black" x="53" y="95.8" font-size="28.8" textLength="33" lengthAdjust="spacingAndGlyphs">%</text>
+<text id="annotations-23" font-family="sans-serif" stroke="none" fill="black" x="120" y="60.800000000000004" font-size="30" textLength="96" lengthAdjust="spacingAndGlyphs">氨浓度</text>
+<text id="annotations-24" font-family="sans-serif" stroke="none" fill="black" x="156" y="95.8" font-size="28.8" textLength="33" lengthAdjust="spacingAndGlyphs">%</text>
+<text id="annotations-25" font-family="sans-serif" stroke="none" fill="black" x="44" y="167.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">4.0</text>
+<text id="annotations-26" font-family="sans-serif" stroke="none" fill="black" x="133" y="167.8" font-size="28.8" textLength="80" lengthAdjust="spacingAndGlyphs">8.16</text>
+<text id="annotations-27" font-family="sans-serif" stroke="none" fill="black" x="44" y="215.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">4.1</text>
+<text id="annotations-28" font-family="sans-serif" stroke="none" fill="black" x="133" y="215.8" font-size="28.8" textLength="80" lengthAdjust="spacingAndGlyphs">8.36</text>
+<text id="annotations-29" font-family="sans-serif" stroke="none" fill="black" x="44" y="263.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">4.2</text>
+<text id="annotations-30" font-family="sans-serif" stroke="none" fill="black" x="133" y="263.8" font-size="28.8" textLength="80" lengthAdjust="spacingAndGlyphs">8.56</text>
+<text id="annotations-31" font-family="sans-serif" stroke="none" fill="black" x="44" y="311.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">4.3</text>
+<text id="annotations-32" font-family="sans-serif" stroke="none" fill="black" x="133" y="311.8" font-size="28.8" textLength="80" lengthAdjust="spacingAndGlyphs">8.75</text>
+<text id="annotations-33" font-family="sans-serif" stroke="none" fill="black" x="44" y="359.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">4.4</text>
+<text id="annotations-34" font-family="sans-serif" stroke="none" fill="black" x="133" y="359.8" font-size="28.8" textLength="80" lengthAdjust="spacingAndGlyphs">8.95</text>
+<text id="annotations-35" font-family="sans-serif" stroke="none" fill="black" x="221" y="60.800000000000004" font-size="30" textLength="98" lengthAdjust="spacingAndGlyphs">化合氮</text>
+<text id="annotations-36" font-family="sans-serif" stroke="none" fill="black" x="256" y="95.8" font-size="28.8" textLength="33" lengthAdjust="spacingAndGlyphs">%</text>
+<text id="annotations-37" font-family="sans-serif" stroke="none" fill="black" x="323" y="60.800000000000004" font-size="30" textLength="96" lengthAdjust="spacingAndGlyphs">氨浓度</text>
+<text id="annotations-38" font-family="sans-serif" stroke="none" fill="black" x="359" y="95.8" font-size="28.8" textLength="33" lengthAdjust="spacingAndGlyphs">%</text>
+<text id="annotations-39" font-family="sans-serif" stroke="none" fill="black" x="247" y="167.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">4.5</text>
+<text id="annotations-40" font-family="sans-serif" stroke="none" fill="black" x="336" y="167.8" font-size="28.8" textLength="80" lengthAdjust="spacingAndGlyphs">9.14</text>
+<text id="annotations-41" font-family="sans-serif" stroke="none" fill="black" x="247" y="215.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">4.6</text>
+<text id="annotations-42" font-family="sans-serif" stroke="none" fill="black" x="336" y="215.8" font-size="28.8" textLength="80" lengthAdjust="spacingAndGlyphs">9.34</text>
+<text id="annotations-43" font-family="sans-serif" stroke="none" fill="black" x="247" y="263.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">4.7</text>
+<text id="annotations-44" font-family="sans-serif" stroke="none" fill="black" x="336" y="263.8" font-size="28.8" textLength="80" lengthAdjust="spacingAndGlyphs">9.54</text>
+<text id="annotations-45" font-family="sans-serif" stroke="none" fill="black" x="247" y="311.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">4.8</text>
+<text id="annotations-46" font-family="sans-serif" stroke="none" fill="black" x="336" y="311.8" font-size="28.8" textLength="80" lengthAdjust="spacingAndGlyphs">9.73</text>
+<text id="annotations-47" font-family="sans-serif" stroke="none" fill="black" x="247" y="359.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">4.9</text>
+<text id="annotations-48" font-family="sans-serif" stroke="none" fill="black" x="336" y="359.8" font-size="28.8" textLength="80" lengthAdjust="spacingAndGlyphs">9.93</text>
+<text id="annotations-49" font-family="sans-serif" stroke="none" fill="black" x="424" y="60.800000000000004" font-size="30" textLength="98" lengthAdjust="spacingAndGlyphs">化合氮</text>
+<text id="annotations-50" font-family="sans-serif" stroke="none" fill="black" x="459" y="95.8" font-size="28.8" textLength="33" lengthAdjust="spacingAndGlyphs">%</text>
+<text id="annotations-51" font-family="sans-serif" stroke="none" fill="black" x="526" y="60.800000000000004" font-size="30" textLength="96" lengthAdjust="spacingAndGlyphs">氨浓度</text>
+<text id="annotations-52" font-family="sans-serif" stroke="none" fill="black" x="562" y="95.8" font-size="28.8" textLength="33" lengthAdjust="spacingAndGlyphs">%</text>
+<text id="annotations-53" font-family="sans-serif" stroke="none" fill="black" x="450" y="167.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">5.0</text>
+<text id="annotations-54" font-family="sans-serif" stroke="none" fill="black" x="539" y="167.8" font-size="24.813895781637715" textLength="80" lengthAdjust="spacingAndGlyphs">10.12</text>
+<text id="annotations-55" font-family="sans-serif" stroke="none" fill="black" x="450" y="215.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">5.1</text>
+<text id="annotations-56" font-family="sans-serif" stroke="none" fill="black" x="539" y="215.8" font-size="24.813895781637715" textLength="80" lengthAdjust="spacingAndGlyphs">10.30</text>
+<text id="annotations-57" font-family="sans-serif" stroke="none" fill="black" x="450" y="263.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">5.2</text>
+<text id="annotations-58" font-family="sans-serif" stroke="none" fill="black" x="539" y="263.8" font-size="24.813895781637715" textLength="80" lengthAdjust="spacingAndGlyphs">10.50</text>
+<text id="annotations-59" font-family="sans-serif" stroke="none" fill="black" x="450" y="311.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">5.3</text>
+<text id="annotations-60" font-family="sans-serif" stroke="none" fill="black" x="539" y="311.8" font-size="24.813895781637715" textLength="80" lengthAdjust="spacingAndGlyphs">10.69</text>
+<text id="annotations-61" font-family="sans-serif" stroke="none" fill="black" x="450" y="359.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">5.4</text>
+<text id="annotations-62" font-family="sans-serif" stroke="none" fill="black" x="539" y="359.8" font-size="24.813895781637715" textLength="80" lengthAdjust="spacingAndGlyphs">10.89</text>
+<text id="annotations-63" font-family="sans-serif" stroke="none" fill="black" x="627" y="60.800000000000004" font-size="30" textLength="98" lengthAdjust="spacingAndGlyphs">化合氮</text>
+<text id="annotations-64" font-family="sans-serif" stroke="none" fill="black" x="662" y="95.8" font-size="28.8" textLength="33" lengthAdjust="spacingAndGlyphs">%</text>
+<text id="annotations-65" font-family="sans-serif" stroke="none" fill="black" x="729" y="60.800000000000004" font-size="30" textLength="96" lengthAdjust="spacingAndGlyphs">氨浓度</text>
+<text id="annotations-66" font-family="sans-serif" stroke="none" fill="black" x="765" y="95.8" font-size="28.8" textLength="33" lengthAdjust="spacingAndGlyphs">%</text>
+<text id="annotations-67" font-family="sans-serif" stroke="none" fill="black" x="653" y="167.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">5.5</text>
+<text id="annotations-68" font-family="sans-serif" stroke="none" fill="black" x="742" y="167.8" font-size="24.813895781637715" textLength="80" lengthAdjust="spacingAndGlyphs">11.09</text>
+<text id="annotations-69" font-family="sans-serif" stroke="none" fill="black" x="653" y="215.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">5.6</text>
+<text id="annotations-70" font-family="sans-serif" stroke="none" fill="black" x="742" y="215.8" font-size="24.813895781637715" textLength="80" lengthAdjust="spacingAndGlyphs">11.27</text>
+<text id="annotations-71" font-family="sans-serif" stroke="none" fill="black" x="653" y="263.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">5.7</text>
+<text id="annotations-72" font-family="sans-serif" stroke="none" fill="black" x="742" y="263.8" font-size="24.813895781637715" textLength="80" lengthAdjust="spacingAndGlyphs">11.48</text>
+<text id="annotations-73" font-family="sans-serif" stroke="none" fill="black" x="653" y="311.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">5.8</text>
+<text id="annotations-74" font-family="sans-serif" stroke="none" fill="black" x="742" y="311.8" font-size="24.813895781637715" textLength="80" lengthAdjust="spacingAndGlyphs">11.66</text>
+<text id="annotations-75" font-family="sans-serif" stroke="none" fill="black" x="653" y="359.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">5.9</text>
+<text id="annotations-76" font-family="sans-serif" stroke="none" fill="black" x="742" y="359.8" font-size="24.813895781637715" textLength="80" lengthAdjust="spacingAndGlyphs">11.86</text>
+<text id="annotations-77" font-family="sans-serif" stroke="none" fill="black" x="830" y="60.800000000000004" font-size="30" textLength="98" lengthAdjust="spacingAndGlyphs">化合氮</text>
+<text id="annotations-78" font-family="sans-serif" stroke="none" fill="black" x="865" y="95.8" font-size="28.8" textLength="33" lengthAdjust="spacingAndGlyphs">%</text>
+<text id="annotations-79" font-family="sans-serif" stroke="none" fill="black" x="932" y="60.800000000000004" font-size="30" textLength="96" lengthAdjust="spacingAndGlyphs">氨浓度</text>
+<text id="annotations-80" font-family="sans-serif" stroke="none" fill="black" x="968" y="95.8" font-size="28.8" textLength="33" lengthAdjust="spacingAndGlyphs">%</text>
+<text id="annotations-81" font-family="sans-serif" stroke="none" fill="black" x="856" y="167.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">6.0</text>
+<text id="annotations-82" font-family="sans-serif" stroke="none" fill="black" x="945" y="167.8" font-size="24.813895781637715" textLength="80" lengthAdjust="spacingAndGlyphs">12.01</text>
+<text id="annotations-83" font-family="sans-serif" stroke="none" fill="black" x="856" y="215.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">6.1</text>
+<text id="annotations-84" font-family="sans-serif" stroke="none" fill="black" x="945" y="215.8" font-size="24.813895781637715" textLength="80" lengthAdjust="spacingAndGlyphs">12.20</text>
+<text id="annotations-85" font-family="sans-serif" stroke="none" fill="black" x="856" y="263.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">6.2</text>
+<text id="annotations-86" font-family="sans-serif" stroke="none" fill="black" x="945" y="263.8" font-size="24.813895781637715" textLength="80" lengthAdjust="spacingAndGlyphs">12.40</text>
+<text id="annotations-87" font-family="sans-serif" stroke="none" fill="black" x="856" y="311.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">6.3</text>
+<text id="annotations-88" font-family="sans-serif" stroke="none" fill="black" x="945" y="311.8" font-size="24.813895781637715" textLength="80" lengthAdjust="spacingAndGlyphs">12.60</text>
+<text id="annotations-89" font-family="sans-serif" stroke="none" fill="black" x="856" y="359.8" font-size="28.8" textLength="62" lengthAdjust="spacingAndGlyphs">—</text>
+<text id="annotations-90" font-family="sans-serif" stroke="none" fill="black" x="945" y="359.8" font-size="28.8" textLength="80" lengthAdjust="spacingAndGlyphs">—</text>
+</g>
+<!-- 待填入: 无 -->
+</svg>

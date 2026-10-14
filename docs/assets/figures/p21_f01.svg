@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="748" height="313" viewBox="0 0 748 313">
+<defs>
+<pattern id="hatch" width="11" height="11" patternUnits="userSpaceOnUse"><path d="M-2 2 L2 -2 M0 11 L11 0 M9 13 L13 9" fill="none" stroke="black" stroke-width="1"/></pattern>
+<pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".8"/><circle cx="9" cy="9" r=".8"/></pattern>
+<marker id="flow-arrow" viewBox="0 0 12 8" refX="11" refY="4" markerWidth="12" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0 L12 4 L0 8 Z" fill="black"/></marker>
+<marker id="dim-arrow" viewBox="0 0 10 6" refX="10" refY="3" markerWidth="10" markerHeight="6" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M10 3 L0 0 L0 6 Z" fill="black"/></marker>
+</defs>
+<rect id="paper" width="100%" height="100%" fill="white"/>
+<g id="hatching" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.8">
+
+</g>
+<g id="outlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="2.5">
+<path d="M142 20 H73 C40 20 13 49 13 81 V181 C13 214 40 244 75 244 H140 V229 H75 C48 229 27 210 27 181 V81 C27 55 48 35 75 35 H142 Z M160 20 H698 L714 14 V42 L698 35 H160 Z M160 229 H696 L712 221 V253 L696 244 H160 Z M142 87 H130 C105 87 86 107 86 131 C86 158 107 179 133 179 H142 V164 H134 C115 164 101 150 101 132 C101 115 115 102 133 102 H142 Z M161 87 H696 L713 79 V110 L696 102 H161 Z M160 164 H696 L713 156 V187 L696 179 H160 Z" fill="url(#hatch)" stroke="black" stroke-width="2.5"/>
+<g stroke="black" fill="none" stroke-width="3"><path d="M151 13 V36 M151 83 V109 M151 163 V181 M151 229 V250 M118 128 V178 M187 132 V180 M119 149 H193 M119 157 H193 M120 243 V288 M186 245 V287 M109 270 H201 M109 279 H201"/><path d="M109 133 H131 V162 H109 Z M178 137 H201 V163 H178 Z M109 263 H132 V285 H109 Z M175 263 H199 V285 H175 Z M198 262 H232 L250 309 M152 277 L170 309"/></g>
+</g>
+<g id="hidden-lines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.3" stroke-dasharray="10 6">
+
+</g>
+<g id="centerlines" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1" stroke-dasharray="16 4 3 4">
+
+</g>
+<g id="dimensions" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+<line id="dimensions-1" x1="160" y1="195" x2="160" y2="218"/>
+<line id="dimensions-2" x1="712" y1="194" x2="712" y2="218"/>
+<line id="dimensions-3" x1="160" y1="206" x2="307" y2="206" marker-start="url(#dim-arrow)"/>
+<line id="dimensions-4" x1="401" y1="206" x2="712" y2="206" marker-end="url(#dim-arrow)"/>
+<line id="dimensions-5" x1="712" y1="184" x2="738" y2="184"/>
+<line id="dimensions-6" x1="712" y1="236" x2="738" y2="236"/>
+<line id="dimensions-7" x1="726" y1="184" x2="726" y2="236" marker-start="url(#dim-arrow)" marker-end="url(#dim-arrow)"/>
+</g>
+<g id="leaders" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1.2">
+
+</g>
+<g id="annotations" fill="none" stroke="black" stroke-linejoin="miter" stroke-linecap="butt" stroke-width="0">
+<text id="annotations-8" font-family="sans-serif" stroke="none" fill="black" x="328" y="223.0" font-size="30" textLength="58" lengthAdjust="spacingAndGlyphs">2米</text>
+<text id="annotations-9" font-family="sans-serif" stroke="none" fill="black" transform="translate(739 196) rotate(-90)" font-size="22.8617536309844" textLength="68" lengthAdjust="spacingAndGlyphs">0.1米</text>
+</g>
+<!-- 待填入: 无 -->
+</svg>

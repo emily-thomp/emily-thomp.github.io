@@ -47,7 +47,14 @@ Flowmeters may have errors, so analyse combined nitrogen in the ammonia–air mi
 | 6.2 | 12.40 |
 | 6.3 | 12.60 |
 
-![Original concentration table](../assets/figures/p33_f01.png)
+=== "SVG redraw"
+
+    ![Original concentration table](../assets/figures/p33_f01.svg)
+
+=== "Original scan"
+
+    ![Original concentration table](../assets/figures/p33_f01.png)
+
 
 Reaction temperature is another important control point and is indicated by the installed thermocouple. The text gives about 750°C for a combined platinum/non-platinum bed and about 700°C for a non-platinum bed alone, depending on the catalyst's properties.
 
