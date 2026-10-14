@@ -2,7 +2,7 @@ INHERIT: nav.yml
 
 site_name: Emily's Notes
 site_url: https://emily-thomp.github.io/
-site_description: 通信、化工、机械与信息安全技术文献
+site_description: 通信、化工、机械、信息安全与人工智能技术文献
 repo_url: https://github.com/emily-thomp/emily-thomp.github.io
 repo_name: emily-thomp/emily-thomp.github.io
 edit_uri: edit/main/docs/
@@ -52,13 +52,15 @@ plugins:
         - locale: en
           name: en - English
           build: true
-          site_description: Technical literature on communications, chemical engineering, mechanical engineering and information security
+          site_description: Technical literature on communications, chemical engineering, mechanical engineering, information security and artificial intelligence
           nav_translations:
             首页: Home
             通信: Communications
             化工: Chemical Engineering
             机械: Mechanical Engineering
             信息安全: Information Security
+            人工智能: Artificial Intelligence
+            大模型人格训练调查: Persona training in open models
             概览: Overview
             氨氧化土法制硝酸: Nitric Acid Handbook
             01 概述与书籍信息: 01 Overview and front matter

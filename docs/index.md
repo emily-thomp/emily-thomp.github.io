@@ -4,7 +4,7 @@
 
 这里整理可公开阅读的技术文献，将书籍中的正文、公式、表格和插图按章节呈现，方便阅读、检索与对照。
 
-文献按[通信](communications/index.md)、[化工](chemical-engineering/index.md)、[机械](mechanical-engineering/index.md)与[信息安全](information-security/index.md)分类。当前已收录的《氨氧化土法制硝酸》位于化工栏目。
+文献与笔记按[通信](communications/index.md)、[化工](chemical-engineering/index.md)、[机械](mechanical-engineering/index.md)、[信息安全](information-security/index.md)与[人工智能](artificial-intelligence/index.md)分类。《氨氧化土法制硝酸》位于化工栏目，大模型人格训练调查位于人工智能栏目。
 
 扫描书籍往往难以搜索，公式和图表也不便引用。本站保留原文的内容与来源，同时提供可检索的文字和英文译文，让不同语言的读者能够阅读同一份资料。
 
