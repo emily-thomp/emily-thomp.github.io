@@ -8,7 +8,7 @@ Documents and notes are grouped under [Communications](communications/index.md),
 
 Scanned books can be difficult to search, and their equations and tables inconvenient to reference. The site preserves the source material while providing searchable text and an English translation, so readers in different languages can explore the same document.
 
-## Available literature
+## Literature and notes
 
 ### Nitric Acid Handbook
 
@@ -17,6 +17,18 @@ Scanned books can be difficult to search, and their equations and tables inconve
 The book describes the historical production of nitric acid through catalytic ammonia oxidation using local materials and small-scale equipment. It covers the flowsheet, equipment construction, operating controls, analysis, technical and economic indicators, catalyst manufacture and worker protection, alongside the industrial context of its period.
 
 [Read the handbook](book/01-overview.md). Its contents are organized into eight chapters. Begin with the overview, or select Chemical Engineering in the top navigation and choose a chapter from the book's sidebar.
+
+### Information Security: Building black-box hardware
+
+Notes on erasable-hardware design inspiration, NXP Java Card experiments and candidate devices.
+
+[Read the hardware security note in Chinese](information-security/security_hardware.md)
+
+### Artificial Intelligence: Ideological alignment in open models
+
+A public-information report using the Tankie series as a case study, covering synthetic data, fine-tuning, weight merging and hardware requirements. It distinguishes published records from inference and does not include inference tests of the target models.
+
+[Read the ideological alignment report in Chinese](artificial-intelligence/ideological-alignment.md)
 
 ## Reading the site
 

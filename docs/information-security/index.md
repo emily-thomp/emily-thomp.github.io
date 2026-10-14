@@ -2,9 +2,13 @@
 
 信息安全领域的文献与笔记收录在这里。
 
-[制作可擦除的硬件](security_hardware.md)
+## 笔记
 
-On the (Im)possibility of Obfuscating Programs
+[制作黑盒硬件](security_hardware.md)：可擦除硬件的设计启发、Java Card 实验与待研究器件。
+
+## 相关阅读
+
+### On the (Im)possibility of Obfuscating Programs
 
 Webpage for a paper by Boaz Barak, Oded Goldreich, Rusell Impagliazzo, Steven Rudich, Amit Sahai, Salil Vadhan, and Ke Yang
 
