@@ -1,0 +1,90 @@
+{
+  "title": "氨氧化土法制硝酸",
+  "author": "吴亚义",
+  "year": 1958,
+  "scan_pages": 39,
+  "chapters": [
+    {
+      "slug": "01-overview",
+      "zh": "概述与书籍信息",
+      "en": "Overview and front matter"
+    },
+    {
+      "slug": "02-process",
+      "zh": "氨氧化法制硝酸",
+      "en": "Nitric acid by ammonia oxidation"
+    },
+    {
+      "slug": "03-start-stop",
+      "zh": "生产系统的开停车",
+      "en": "Startup and shutdown"
+    },
+    {
+      "slug": "04-analysis",
+      "zh": "生产控制分析方法",
+      "en": "Process-control analysis"
+    },
+    {
+      "slug": "05-operation",
+      "zh": "生产操作方法",
+      "en": "Operating methods"
+    },
+    {
+      "slug": "06-indicators",
+      "zh": "技术经济指标",
+      "en": "Technical and economic indicators"
+    },
+    {
+      "slug": "07-catalyst",
+      "zh": "氨氧化触媒的制造",
+      "en": "Manufacture of the oxidation catalyst"
+    },
+    {
+      "slug": "08-safety",
+      "zh": "安全技术与劳动保护",
+      "en": "Safety and worker protection"
+    }
+  ],
+  "formulas": 39,
+  "source_sha256": {
+    "p01.png": "d4e5962103d5469b62ab32edb3115d5e51fc90e14777ea9e06616787233cd970",
+    "p02.png": "86f8267ccd48e810cb1ff941a659298b8d02f1d810b9da4ebf076688186345cc",
+    "p03.png": "b980072aaeb5c0c8f7e934ea9d7464ec071926684224a58a4d9243ecfc5d4850",
+    "p04.png": "394b7bde408a85155787689d93d96d0d61405b498c252786163d8f78f03ac7f1",
+    "p05.png": "d459c6270854126b8417065101d5593986cf7445f1a9c265eebd13a832f1e366",
+    "p06.png": "03996f47fc94c8e39cdb16a3f70a3f7b0f504038e4e00a049b6dad9897ce5159",
+    "p07.png": "7d19ffff05b0366f0ea33a64a0c044090f0a657451e20d7774103d27f8c4f8db",
+    "p08.png": "bc02d455c30eda8ebb882ec3a51ac59757f284d57e7df6450240e4eb4df4502d",
+    "p09.png": "40db0e2a1be4e6fb96a26060a61922be899cf71fa7e0414521c94f0100ff6549",
+    "p10.png": "fda86d7ca5cff2a4fb0b1b2fb6bed2f9d1a3dd75462772fbc35d9d7031e45ed2",
+    "p11.png": "48b41423e807ae6243286623429a17b1a0c7e1e58e3a42dababe29f3db7122f4",
+    "p12.png": "b53381b468e36d616fb449457c16fc0021f496e7e31c83cf4bc6aaec0b84c91a",
+    "p13.png": "c96eaad816fff4f43eeccc02d0c05dc263cab35a78129d728cebce7e5fb33453",
+    "p14.png": "8aff0b2d0a2d586b35ddbd7a4fd7014cfa177fa47354b33036775aaeb8d4d558",
+    "p15.png": "9aa7a4cb1917916cb778097d0c042d50052956a954883af8c18abcf37dd40273",
+    "p16.png": "59d6484ea8d82370a4dd72f64f74ca686c7f4d337d21f0bce725f109fd1be655",
+    "p17.png": "e5d36cffd7b5a9317a9e355ccdf2b126d651e65b416c2ece676eced4ae16dd26",
+    "p18.png": "198632cb330c39613fe69e294779f4008530f6dc7bda1ba8f3da240334aadcc8",
+    "p19.png": "969c06e2637df037ca1ed4c41ce7dbdff14b860bc0850074a6ace55926f33487",
+    "p20.png": "05e2e87d9bc68c23ea3e49e8af095bef78f01cecd55cae2e896c92ff31e44388",
+    "p21.png": "7908c8b5482c74bb2705e62185bcb51d406866958692f3716496974cc21a039b",
+    "p22.png": "af715698a0589b3fef15710a1abc7aac5549ece71cc0a9a0e45ec460cece98ae",
+    "p23.png": "3d8315c69866bcd7f573a09120d4f31b1cebc79c522a9713d39cf53cb627c44d",
+    "p24.png": "b032f63df4c26c586138b45ec6f0877dbd65f4503193ccb15a98741697d8f996",
+    "p25.png": "2102a6b2e8ba8d318d4d8176a6e1aed063be2f4e05a963bea15715721918f765",
+    "p26.png": "c17ee4bedd4b856f9df47c7e9cf0763f1bdaab6621dbcec6bcb396a31093b86c",
+    "p27.png": "0eda49f7f7e855f872bab8620caa8edd415066bbfd5d98673e415ffd2c10ceaa",
+    "p28.png": "e8a268bfcbf0a7197b913882149bad8ea0c76320a43be593b503c37f87f8bbc2",
+    "p29.png": "a11e9a3b434ada2fbf739d263e62da6ace0dade26f8e990217747783e34f214f",
+    "p30.png": "33c26f9d2875e6f7ca67bf7dae06ea0dff6e1bed02f11de59994d976bcfe19b1",
+    "p31.png": "39800e3a44eb83cd13f1825f8739f50152e0af7b082a75822a2e229d618cf527",
+    "p32.png": "af8d85e2eada7c60029d9f13d6f348e50e9ce0a4bbeab85ba978d760ce1c05d2",
+    "p33.png": "8f070b9d5a7f22e6904b68a8fe661bff0b5673198b5dac06475071a1ed687813",
+    "p34.png": "905f987de260d9f704f8dd15714c12c7186b35e4e9210b17480fbb0cb8516b52",
+    "p35.png": "01c6559b6bc405bace92ed71551edfc3e96fda33d91261892f9fa62e6e138de4",
+    "p36.png": "b4e6daf9804670a671acbc9759aaa57d1a8c2b9ce372af18a0f3eb6f53d12203",
+    "p37.png": "894256fcead430aa8020db9df497d2e45524d235a7cee4063b3ff2856f9d385c",
+    "p38.png": "58a7acdaff4618eeee7f15af317cd20f4114598d68692e4952005522b4ed52ae",
+    "p39.png": "a9484c6f6b22607bf13879d011646eb13f2fcd0137faa12454cb37a742781f63"
+  }
+}

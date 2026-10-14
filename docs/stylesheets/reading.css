@@ -1,0 +1,8 @@
+.md-typeset { line-height: 1.85; }
+.md-typeset h1 { font-weight: 650; letter-spacing: -.02em; }
+.md-typeset h2 { margin-top: 2em; }
+.md-typeset img { display: block; margin: 1.4em auto; max-height: 75vh; object-fit: contain; }
+.md-typeset .arithmatex { overflow-x: auto; overflow-y: hidden; }
+.md-typeset table:not([class]) { font-variant-numeric: tabular-nums; }
+.md-typeset blockquote { font-size: .92em; }
+.md-select__link { white-space: nowrap; }

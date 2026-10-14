@@ -1,0 +1,261 @@
+[
+  {
+    "id": "p06-F01",
+    "scan_page": 6,
+    "latex": "4\\mathrm{NH_3}+5\\mathrm{O_1}=4\\mathrm{NO}+6\\mathrm{H_2O}+216{,}700\\,\\text{卡}",
+    "reviewed": true
+  },
+  {
+    "id": "p06-F02",
+    "scan_page": 6,
+    "latex": "2\\mathrm{NO}+\\mathrm{O_2}=2\\mathrm{NO_2}+29{,}500\\,\\text{卡}",
+    "reviewed": true
+  },
+  {
+    "id": "p06-F03",
+    "scan_page": 6,
+    "latex": "3\\mathrm{NO_2}+\\mathrm{H_2O}=2\\mathrm{HNO_3}+\\mathrm{NO}+17{,}590\\,\\text{卡}",
+    "reviewed": true
+  },
+  {
+    "id": "p06-I01",
+    "scan_page": 6,
+    "latex": "\\mathrm{O_2}",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p10-I01",
+    "scan_page": 10,
+    "latex": "\\frac{340\\times22.4}{17\\times24}=18.7",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p10-I02",
+    "scan_page": 10,
+    "latex": "\\frac{18.7}{18.7+X}=10\\%",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p12-I01",
+    "scan_page": 12,
+    "latex": "\\mathrm{20\\times 20}",
+    "kind": "inline",
+    "reviewed": false
+  },
+  {
+    "id": "p15-I01",
+    "scan_page": 15,
+    "latex": "720\\sim750^{\\circ}\\mathrm{C}",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p15-I02",
+    "scan_page": 15,
+    "latex": "\\frac{500}{15}\\times0.0177=0.59",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p15-I03",
+    "scan_page": 15,
+    "latex": "\\frac{\\pi D^2}{4}=0.59",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p15-I04",
+    "scan_page": 15,
+    "latex": "\\mathrm{D=0.87}",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p15-I05",
+    "scan_page": 15,
+    "latex": "0.59\\times0.08\\times1.3=0.061",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p15-I06",
+    "scan_page": 15,
+    "latex": "\\mathrm{3,000{\\sim}3,200}",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p16-F01",
+    "scan_page": 16,
+    "latex": "\\frac{500\\,\\text{公斤}\\times1\\,\\text{米}^2}{3000\\,\\text{公斤}}=0.17\\,\\text{米}^2",
+    "reviewed": true
+  },
+  {
+    "id": "p16-F02",
+    "scan_page": 16,
+    "latex": "\\text{炉的对径：}\\quad\\frac{\\pi D^2}{4}=0.17",
+    "reviewed": true
+  },
+  {
+    "id": "p16-F03",
+    "scan_page": 16,
+    "latex": "D=465\\,\\text{毫米}",
+    "reviewed": true
+  },
+  {
+    "id": "p23-F01",
+    "scan_page": 23,
+    "latex": "\\frac{300\\times13}{60\\times60}=4.4\\,\\text{立方米}\\quad\\text{氧化塔容积}",
+    "reviewed": true
+  },
+  {
+    "id": "p23-I01",
+    "scan_page": 23,
+    "latex": "30^{\\circ}\\mathrm{C}",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p25-I01",
+    "scan_page": 25,
+    "latex": "\\mathbf{50}\\times\\mathbf{50}",
+    "kind": "inline",
+    "reviewed": false
+  },
+  {
+    "id": "p25-I02",
+    "scan_page": 25,
+    "latex": "20{\\sim}30",
+    "kind": "inline",
+    "reviewed": false
+  },
+  {
+    "id": "p30-I01",
+    "scan_page": 30,
+    "latex": "4\\ NH_{3}+5O_{2}=4NO+6\\ H_{2}O",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p30-I02",
+    "scan_page": 30,
+    "latex": "4\\ NH_{3}+3O_{2}=2N_{2}+6\\ H_{2}O",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p31-F01",
+    "scan_page": 31,
+    "latex": "\\frac{N_{\\mathrm{H_2SO_4}}\\times V_{\\mathrm{H_2SO_4}}\\times\\frac{14}{1000}}{W_1}\\times100\\qquad(1)",
+    "reviewed": true
+  },
+  {
+    "id": "p31-F02",
+    "scan_page": 31,
+    "latex": "\\frac{N_{\\mathrm{NaOH}}\\times V_{\\mathrm{NaOH}}\\times\\frac{14}{1000}}{W_2}\\times100\\qquad(2)",
+    "reviewed": true
+  },
+  {
+    "id": "p31-F03",
+    "scan_page": 31,
+    "latex": "\\text{氧化效率}\\%=\\frac{\\text{氧化氮混合气体中含化合氮量}}{\\text{氨-空气混合气体中含化合氮量}}\\times100",
+    "reviewed": true
+  },
+  {
+    "id": "p31-I01",
+    "scan_page": 31,
+    "latex": "N_{\\mathrm{H_{2}SO_{4}}}",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p31-I02",
+    "scan_page": 31,
+    "latex": "V_{\\mathrm{H_{2}SO_{4}}}",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p31-I03",
+    "scan_page": 31,
+    "latex": "N_{\\mathrm{NaOH}}",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p31-I04",
+    "scan_page": 31,
+    "latex": "V_{\\mathrm{NaOH}}",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p31-I05",
+    "scan_page": 31,
+    "latex": "W_{1}",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p32-I01",
+    "scan_page": 32,
+    "latex": "W_{2}",
+    "kind": "inline",
+    "reviewed": false
+  },
+  {
+    "id": "p33-I01",
+    "scan_page": 33,
+    "latex": "\\frac{500\\times22.4}{17\\times24}=27.5",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p33-I02",
+    "scan_page": 33,
+    "latex": "\\frac{27.5-(27.5\\times0.1)}{0.1}=247.5",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p35-F01",
+    "scan_page": 35,
+    "latex": "\\mathrm{Fe}+\\mathrm{6}\\ \\mathrm{HNO_{3}}=\\mathrm{Fe}(\\mathrm{NO_{3}})_{3}+\\mathrm{3NO_{2}}+\\mathrm{3}\\ \\mathrm{H_{2}O}",
+    "reviewed": true
+  },
+  {
+    "id": "p35-F02",
+    "scan_page": 35,
+    "latex": "\\mathrm{Bi}+\\mathrm{6}\\ \\mathrm{HNO_{3}}=\\mathrm{Bi}(\\mathrm{NO_{3}})_{3}+\\mathrm{3NO_{2}}+\\mathrm{3}\\ \\mathrm{H_{2}O}",
+    "reviewed": true
+  },
+  {
+    "id": "p35-I01",
+    "scan_page": 35,
+    "latex": "\\mathrm{Bi(NO_3)_3\\cdot5H_2O}",
+    "kind": "inline",
+    "reviewed": true
+  },
+  {
+    "id": "p36-F01",
+    "scan_page": 36,
+    "latex": "\\begin{aligned}&\\mathrm{Fe}(\\mathrm{NO}_{3})_{3}+\\mathrm{NH}_{4}\\mathrm{OH}=\\mathrm{Fe}(\\mathrm{OH})_{3}+3\\mathrm{NH}_{4}\\mathrm{NO}_{3}\\\\ &\\mathrm{Bi}(\\mathrm{NO}_{3})_{3}+3\\mathrm{NH}_{4}\\mathrm{OH}=\\mathrm{Bi}(\\mathrm{OH})_{3}+3\\mathrm{NH}_{4}\\mathrm{NO}_{3}\\\\ \\end{aligned}",
+    "reviewed": true
+  },
+  {
+    "id": "p36-F02",
+    "scan_page": 36,
+    "latex": "\\begin{aligned}&\\mathrm{2Fe(OH)_{3}\\longrightarrow Fe_{2}O_{3}+3H_{2}O}\\\\ &\\mathrm{2Bi(OH)_{3}\\longrightarrow Bi_{2}O_{3}+3H_{2}O}\\\\ \\end{aligned}",
+    "reviewed": true
+  },
+  {
+    "id": "p36-I01",
+    "scan_page": 36,
+    "latex": "\\mathrm{[Fe(OH)_3+Bi(OH)_3]}",
+    "kind": "inline",
+    "reviewed": true
+  }
+]

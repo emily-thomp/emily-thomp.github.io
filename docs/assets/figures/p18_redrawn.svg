@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1540" viewBox="220 340 880 1232">
+<title>上海天工酸碱厂用土法制造硝酸的氧化炉图</title>
+<desc>依据 p18.png 重绘的工程剖面图。文字、尺寸、轮廓及剖面纹理均为矢量元素；尺寸数值沿用原图，不按图形比例推算。</desc>
+<defs>
+ <pattern id="hatch" patternUnits="userSpaceOnUse" width="10" height="10"><path d="M-2 2L2-2M0 10L10 0M8 12L12 8" stroke="black" stroke-width="1.2"/></pattern>
+ <pattern id="packing" patternUnits="userSpaceOnUse" width="12" height="12"><circle cx="3" cy="3" r="2" fill="none" stroke="black" stroke-width=".8"/><circle cx="9" cy="8" r="2.3" fill="none" stroke="black" stroke-width=".8"/></pattern>
+ <pattern id="catalyst" patternUnits="userSpaceOnUse" width="20" height="18"><path d="M2 3l3 1-1 3M12 11l4-2 1 4M8 16h2" stroke="black" stroke-width="1.5" fill="none"/></pattern>
+ <marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0 0L7 3L0 6Z" fill="black"/></marker>
+</defs>
+<style>
+ .outline{stroke:#000;stroke-width:2.6;stroke-linejoin:miter;stroke-linecap:square}
+ .thin{stroke:#000;stroke-width:1.25;fill:none}
+ .dimension{stroke:#000;stroke-width:1.15;marker-start:url(#arrow);marker-end:url(#arrow)}
+ .center{stroke:#000;stroke-width:1.15;stroke-dasharray:24 7 4 7}
+ .label{font-family:'SimSun','Noto Serif CJK SC','Microsoft YaHei',serif;fill:black}
+ .knockout{stroke:white;stroke-width:5;paint-order:stroke fill;stroke-linejoin:round}
+ .number{font-family:'Times New Roman',serif;font-style:italic;fill:black}
+</style>
+<rect x="220" y="340" width="880" height="1232" fill="white"/>
+<g id="section-geometry">
+<path d="M425 870L537 788L537 764L582 764L582 794L519 868L519 1138L410 1102L404 1128L519 1194L519 1244C519 1325 574 1375 650 1375L956 1375L956 1425L433 1425Z" class="outline" fill="url(#hatch)"/>
+<path d="M714 764L762 764L762 787L871 860L871 1134L780 1134L780 1050L780 860L714 794Z" class="outline" fill="url(#hatch)"/>
+<path d="M780 1165L871 1165L871 1280L956 1280L956 1328L860 1328C808 1328 780 1298 780 1244Z" class="outline" fill="url(#hatch)"/>
+<path d="M582 764L606 618L688 618L714 764M606 618L606 470L640 440L640 422L651 422L651 440L688 470L688 618M606 470H688" class="outline" fill="none"/>
+<path d="M688 483H718V513H688" class="outline" fill="none"/>
+<line x1="425" y1="868" x2="871" y2="860" class="thin"/>
+<line x1="425" y1="1056" x2="871" y2="1050" class="thin"/>
+<rect x="519" y="991" width="261" height="64" fill="url(#packing)" stroke="black" stroke-width="1.8"/>
+<rect x="519" y="1194" width="261" height="43" fill="url(#catalyst)" stroke="black" stroke-width="1.8"/>
+<line x1="519" y1="1055" x2="780" y2="1055" class="outline"/>
+<line x1="519" y1="1237" x2="780" y2="1237" class="thin"/>
+<path d="M519 1231H780M519 1228H780" class="center" fill="none"/>
+<path d="M871 1134H891V1165H871" class="outline" fill="none"/>
+<path d="M433 1227H657V1235H433M433 1227H410V1235H433M410 1221V1242M407 1221V1242" class="thin" fill="none"/>
+<path d="M410 1219V1244" class="outline" fill="none"/>
+<path d="M935 1328V1269H941V1328" class="thin" fill="none"/>
+<path d="M934 1269L938 1262L942 1269Z" class="thin" fill="black"/>
+<path d="M956 1328H980L977 1340L982 1351L978 1364L985 1375H956" class="outline" fill="none"/>
+<rect x="433" y="1425" width="446" height="42" fill="white" stroke="black" stroke-width="1.8"/>
+<line x1="433" y1="1446" x2="879" y2="1446" class="thin"/>
+<line x1="507" y1="1425" x2="507" y2="1446" class="thin"/>
+<line x1="581" y1="1425" x2="581" y2="1446" class="thin"/>
+<line x1="655" y1="1425" x2="655" y2="1446" class="thin"/>
+<line x1="729" y1="1425" x2="729" y2="1446" class="thin"/>
+<line x1="803" y1="1425" x2="803" y2="1446" class="thin"/>
+<line x1="470" y1="1446" x2="470" y2="1467" class="thin"/>
+<line x1="544" y1="1446" x2="544" y2="1467" class="thin"/>
+<line x1="618" y1="1446" x2="618" y2="1467" class="thin"/>
+<line x1="692" y1="1446" x2="692" y2="1467" class="thin"/>
+<line x1="766" y1="1446" x2="766" y2="1467" class="thin"/>
+<line x1="840" y1="1446" x2="840" y2="1467" class="thin"/>
+<line x1="357" y1="1467" x2="1005" y2="1467" class="thin"/>
+<line x1="647" y1="389" x2="655" y2="1483" class="center"/>
+</g><g id="dimensions">
+<line x1="534" y1="422" x2="594" y2="422" class="thin"/>
+<line x1="534" y1="470" x2="594" y2="470" class="thin"/>
+<line x1="534" y1="618" x2="594" y2="618" class="thin"/>
+<line x1="534" y1="764" x2="594" y2="764" class="thin"/>
+<path d="M554 422V425.5" stroke="black" stroke-width="1.15" fill="none" marker-start="url(#arrow)"/>
+<path d="M554 466.5V470" stroke="black" stroke-width="1.15" fill="none" marker-end="url(#arrow)"/>
+<text x="561.0" y="446.0" font-size="25" text-anchor="middle" class="number knockout" transform="rotate(-90 561.0 446.0)">110</text>
+<path d="M554 470V519.75" stroke="black" stroke-width="1.15" fill="none" marker-start="url(#arrow)"/>
+<path d="M554 568.25V618" stroke="black" stroke-width="1.15" fill="none" marker-end="url(#arrow)"/>
+<text x="561.0" y="544.0" font-size="25" text-anchor="middle" class="number knockout" transform="rotate(-90 561.0 544.0)">350</text>
+<path d="M554 618V666.75" stroke="black" stroke-width="1.15" fill="none" marker-start="url(#arrow)"/>
+<path d="M554 715.25V764" stroke="black" stroke-width="1.15" fill="none" marker-end="url(#arrow)"/>
+<text x="561.0" y="691.0" font-size="25" text-anchor="middle" class="number knockout" transform="rotate(-90 561.0 691.0)">350</text>
+<line x1="280" y1="422" x2="623" y2="422" class="thin"/>
+<line x1="280" y1="764" x2="525" y2="764" class="thin"/>
+<path d="M289 422V567.13" stroke="black" stroke-width="1.15" fill="none" marker-start="url(#arrow)"/>
+<path d="M289 618.87V764" stroke="black" stroke-width="1.15" fill="none" marker-end="url(#arrow)"/>
+<text x="296.0" y="593.0" font-size="27" text-anchor="middle" class="number knockout" transform="rotate(-90 296.0 593.0)">810</text>
+<line x1="280" y1="1425" x2="421" y2="1425" class="thin"/>
+<path d="M295 764V1061.34" stroke="black" stroke-width="1.15" fill="none" marker-start="url(#arrow)"/>
+<path d="M295 1127.66V1425" stroke="black" stroke-width="1.15" fill="none" marker-end="url(#arrow)"/>
+<text x="302.0" y="1094.5" font-size="27" text-anchor="middle" class="number knockout" transform="rotate(-90 302.0 1094.5)">2410</text>
+<line x1="313" y1="764" x2="422" y2="764" class="thin"/>
+<line x1="313" y1="868" x2="422" y2="868" class="thin"/>
+<line x1="313" y1="1056" x2="422" y2="1056" class="thin"/>
+<line x1="313" y1="1239" x2="422" y2="1239" class="thin"/>
+<line x1="313" y1="1264" x2="422" y2="1264" class="thin"/>
+<line x1="313" y1="1425" x2="422" y2="1425" class="thin"/>
+<path d="M336 764V791.75" stroke="black" stroke-width="1.15" fill="none" marker-start="url(#arrow)"/>
+<path d="M336 840.25V868" stroke="black" stroke-width="1.15" fill="none" marker-end="url(#arrow)"/>
+<text x="343.0" y="816.0" font-size="25" text-anchor="middle" class="number knockout" transform="rotate(-90 343.0 816.0)">230</text>
+<path d="M336 868V937.75" stroke="black" stroke-width="1.15" fill="none" marker-start="url(#arrow)"/>
+<path d="M336 986.25V1056" stroke="black" stroke-width="1.15" fill="none" marker-end="url(#arrow)"/>
+<text x="343.0" y="962.0" font-size="25" text-anchor="middle" class="number knockout" transform="rotate(-90 343.0 962.0)">450</text>
+<path d="M336 1056V1123.25" stroke="black" stroke-width="1.15" fill="none" marker-start="url(#arrow)"/>
+<path d="M336 1171.75V1239" stroke="black" stroke-width="1.15" fill="none" marker-end="url(#arrow)"/>
+<text x="343.0" y="1147.5" font-size="25" text-anchor="middle" class="number knockout" transform="rotate(-90 343.0 1147.5)">450</text>
+<path d="M362 1239V1242.5" stroke="black" stroke-width="1.15" fill="none" marker-start="url(#arrow)"/>
+<path d="M362 1260.5V1264" stroke="black" stroke-width="1.15" fill="none" marker-end="url(#arrow)"/>
+<text x="369.0" y="1251.5" font-size="21" text-anchor="middle" class="number knockout" transform="rotate(-90 369.0 1251.5)">25</text>
+<path d="M339 1264V1320.25" stroke="black" stroke-width="1.15" fill="none" marker-start="url(#arrow)"/>
+<path d="M339 1368.75V1425" stroke="black" stroke-width="1.15" fill="none" marker-end="url(#arrow)"/>
+<text x="346.0" y="1344.5" font-size="25" text-anchor="middle" class="number knockout" transform="rotate(-90 346.0 1344.5)">450</text>
+<line x1="537" y1="758" x2="537" y2="805" class="thin"/>
+<line x1="582" y1="758" x2="582" y2="805" class="thin"/>
+<line x1="714" y1="758" x2="714" y2="805" class="thin"/>
+<line x1="762" y1="758" x2="762" y2="805" class="thin"/>
+<line x1="537" y1="779" x2="582" y2="779" class="dimension"/>
+<rect x="539.5" y="763.0" width="40.0" height="32" fill="white"/>
+<text x="559.5" y="787.0" font-size="25" text-anchor="middle" class="number">60</text>
+<line x1="582" y1="779" x2="714" y2="779" class="dimension"/>
+<rect x="614.0" y="763.0" width="68.0" height="32" fill="white"/>
+<text x="648.0" y="787.0" font-size="25" text-anchor="middle" class="number">φ320</text>
+<line x1="714" y1="779" x2="762" y2="779" class="dimension"/>
+<rect x="718.0" y="763.0" width="40.0" height="32" fill="white"/>
+<text x="738.0" y="787.0" font-size="25" text-anchor="middle" class="number">60</text>
+<line x1="425" y1="923" x2="519" y2="923" class="dimension"/>
+<rect x="445.0" y="907.0" width="54.00000000000001" height="32" fill="white"/>
+<text x="472.0" y="931.0" font-size="25" text-anchor="middle" class="number">225</text>
+<line x1="519" y1="923" x2="780" y2="923" class="dimension"/>
+<rect x="612.14" y="907.0" width="74.72" height="32" fill="white"/>
+<text x="649.5" y="931.0" font-size="28" text-anchor="middle" class="number">φ650</text>
+<line x1="780" y1="923" x2="871" y2="923" class="dimension"/>
+<rect x="798.5" y="907.0" width="54.00000000000001" height="32" fill="white"/>
+<text x="825.5" y="931.0" font-size="25" text-anchor="middle" class="number">225</text>
+<line x1="650" y1="1244" x2="548" y2="1337" class="dimension"/>
+<text x="589" y="1324" font-size="25" text-anchor="middle" class="number knockout" transform="rotate(-49 589 1324)">R300</text>
+<line x1="858" y1="1245" x2="801" y2="1303" class="dimension"/>
+<text x="836" y="1267" font-size="24" text-anchor="middle" class="number knockout" transform="rotate(-48 836 1267)">R160</text>
+<line x1="888" y1="1280" x2="978" y2="1280" class="thin"/>
+<line x1="888" y1="1328" x2="978" y2="1328" class="thin"/>
+<line x1="888" y1="1375" x2="978" y2="1375" class="thin"/>
+<line x1="888" y1="1425" x2="978" y2="1425" class="thin"/>
+<path d="M917 1280V1283.5" stroke="black" stroke-width="1.15" fill="none" marker-start="url(#arrow)"/>
+<path d="M917 1324.5V1328" stroke="black" stroke-width="1.15" fill="none" marker-end="url(#arrow)"/>
+<text x="924.0" y="1304.0" font-size="22" text-anchor="middle" class="number knockout" transform="rotate(-90 924.0 1304.0)">110</text>
+<path d="M917 1328V1331.5" stroke="black" stroke-width="1.15" fill="none" marker-start="url(#arrow)"/>
+<path d="M917 1371.5V1375" stroke="black" stroke-width="1.15" fill="none" marker-end="url(#arrow)"/>
+<text x="924.0" y="1351.5" font-size="22" text-anchor="middle" class="number knockout" transform="rotate(-90 924.0 1351.5)">110</text>
+<path d="M917 1375V1378.5" stroke="black" stroke-width="1.15" fill="none" marker-start="url(#arrow)"/>
+<path d="M917 1421.5V1425" stroke="black" stroke-width="1.15" fill="none" marker-end="url(#arrow)"/>
+<text x="924.0" y="1400.0" font-size="22" text-anchor="middle" class="number knockout" transform="rotate(-90 924.0 1400.0)">110</text>
+<path d="M973 1280V1283.5" stroke="black" stroke-width="1.15" fill="none" marker-start="url(#arrow)"/>
+<path d="M973 1324.5V1328" stroke="black" stroke-width="1.15" fill="none" marker-end="url(#arrow)"/>
+<text x="980.0" y="1304.0" font-size="22" text-anchor="middle" class="number knockout" transform="rotate(-90 980.0 1304.0)">φ75</text>
+</g><g id="annotations">
+<text x="660" y="399" font-size="23" text-anchor="start" class="label">φ32 氨气进口</text>
+<path d="M653 405L646 422" class="thin" fill="none"/>
+<text x="735" y="507" font-size="23" text-anchor="start" class="label">φ75 空气进口</text>
+<path d="M733 498L718 502" class="thin" fill="none"/>
+<text x="754" y="620" font-size="24" text-anchor="start" class="label">5 毫米厚铝板制</text>
+<path d="M688 557L750 612M698 659L750 620" class="thin" fill="none"/>
+<text x="880" y="893" font-size="21" text-anchor="start" class="label">3 公厘铁板制</text>
+<text x="880" y="921" font-size="23" text-anchor="start" class="label">外壳 φ1100</text>
+<path d="M879 902L850 916" class="thin" fill="none"/>
+<rect x="540" y="1014" width="219" height="31" fill="white"/>
+<text x="650" y="1037" font-size="19" text-anchor="middle" class="label">小磁环（φ10×10）厚150</text>
+<text x="552" y="1090" font-size="20" text-anchor="start" class="label">不锈钢丝网</text>
+<path d="M608 1070V1055" class="thin" fill="none"/>
+<text x="474" y="971" font-size="22" text-anchor="middle" class="label">火</text>
+<text x="474" y="996" font-size="22" text-anchor="middle" class="label">砖</text>
+<text x="474" y="1021" font-size="22" text-anchor="middle" class="label">砌</text>
+<text x="826" y="971" font-size="22" text-anchor="middle" class="label">火</text>
+<text x="826" y="996" font-size="22" text-anchor="middle" class="label">砖</text>
+<text x="826" y="1021" font-size="22" text-anchor="middle" class="label">砌</text>
+<text x="339" y="1094" font-size="18" text-anchor="start" class="label">φ75 点火口</text>
+<path d="M396 1103L413 1112" class="thin" fill="none"/>
+<text x="912" y="1148" font-size="21" text-anchor="start" class="label">φ75 点火口</text>
+<path d="M909 1139L891 1149" class="thin" fill="none"/>
+<text x="576" y="1220" font-size="20" text-anchor="middle" class="label">氧化触媒层</text>
+<text x="558" y="1279" font-size="20" text-anchor="start" class="label">热电偶</text>
+<path d="M604 1257L610 1235" class="thin" fill="none"/>
+<text x="695" y="1267" font-size="20" text-anchor="start" class="label">不锈钢丝网</text>
+<path d="M697 1246L729 1237" class="thin" fill="none"/>
+<text x="663" y="1310" font-size="17" text-anchor="start" class="label">平铺一层小磁圈厚10</text>
+<path d="M672 1294V1229" class="thin" fill="none"/>
+<text x="886" y="1196" font-size="20" text-anchor="start" class="label">此处冷后要加装</text>
+<text x="886" y="1221" font-size="20" text-anchor="start" class="label">一层隔离铁板</text>
+<path d="M880 1210L859 1226" class="thin" fill="none"/>
+<text x="966" y="1254" font-size="21" text-anchor="start" class="label">取样口 φ10</text>
+<path d="M964 1258L941 1273" class="thin" fill="none"/>
+<text x="997" y="1411" font-size="22" text-anchor="start" class="label">氧化氮</text>
+<text x="997" y="1437" font-size="22" text-anchor="start" class="label">出口管</text>
+<path d="M993 1395L984 1370" class="thin" fill="none"/>
+<text x="672" y="1410" font-size="21" text-anchor="middle" class="label">火砖砌</text>
+<text x="689" y="1494" font-size="21" text-anchor="middle" class="label">青砖砌</text>
+<path d="M689 1475L676 1450" class="thin" fill="none"/>
+<text x="660" y="1550" font-size="25" text-anchor="middle" class="label">上海天工酸碱厂用土法制造硝酸的氧化炉图</text>
+</g></svg>

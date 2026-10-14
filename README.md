@@ -1,6 +1,6 @@
 # Emily's Notes
 
-使用 MkDocs Material 构建的个人笔记站点。
+使用 MkDocs Material 构建的双语笔记站点，收录《氨氧化土法制硝酸》（吴亚义编，1958）8 个章节的中文 OCR 校订稿与英文译文。
 
 站点地址：https://emily-thomp.github.io/
 
@@ -14,7 +14,11 @@ python -m pip install -r requirements.txt
 python -m mkdocs serve
 ```
 
-编辑 `docs/` 中的 Markdown 文件，并在 `mkdocs.yml` 中维护导航。严格构建检查：
+中文首页是 `docs/index.md`，英文首页是 `docs/index.en.md`。章节使用 `docs/book/<chapter>.zh.md` 与 `<chapter>.en.md` 成对维护；导航中的路径省略语言后缀。中文发布到站点根路径，英文发布到 `/en/`，顶部语言菜单保持当前章节。
+
+原扫描页与插图存放在 `docs/assets/`；`source-transcription/` 保留来源哈希、公式和 OCR 校订记录。图内标注保留中文。此版本为校订初稿，尚未逐字终校。
+
+严格构建检查：
 
 ```shell
 python -m mkdocs build --strict
