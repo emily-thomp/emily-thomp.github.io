@@ -1,30 +1,30 @@
-# Emily's Notes
+# Introduction
 
-## Nitric Acid Handbook
+Welcome to **Emily's Notes**.
 
-**Compiled by Wu Yayi · Keji Weisheng Publishing House · December 1958**
+This site presents openly readable technical literature, organizing its text, equations, tables and illustrations into chapters for reading, searching and comparison with the original sources.
 
-A transcription and translation of *Nitric Acid Production by Ammonia Oxidation Using Locally Made Equipment*, organized from 39 scanned pages into eight chapters. Read searchable text, typeset equations, tables and original illustrations; follow the scan links at the end of each chapter to check the source.
+Scanned books can be difficult to search, and their equations and tables inconvenient to reference. The site preserves the source material while providing searchable text and an English translation, so readers in different languages can explore the same document.
 
-Use the language menu in the header to switch between Chinese and English while staying in the same chapter.
+## Available literature
 
-[Start reading](book/01-overview.md){ .md-button .md-button--primary }
+### Nitric Acid Handbook
 
-## Chapters
+*Nitric Acid Production by Ammonia Oxidation Using Locally Made Equipment*, compiled by Wu Yayi and published by Keji Weisheng Publishing House in December 1958.
 
-| Chapter | Contents |
-| --- | --- |
-| [01 Overview and front matter](book/01-overview.md) | Publication details, preface, original contents and overview |
-| [02 Ammonia oxidation process](book/02-process.md) | Reactions, flowsheet, equipment, calculations and engineering drawings |
-| [03 Startup and shutdown](book/03-start-stop.md) | Preparations and operating sequence |
-| [04 Process-control analysis](book/04-analysis.md) | Oxidation efficiency and nitric acid concentration |
-| [05 Operating methods](book/05-operation.md) | Control of the reactor and absorption system |
-| [06 Technical and economic indicators](book/06-indicators.md) | Efficiency and material, electricity and catalyst consumption |
-| [07 Catalyst manufacture](book/07-catalyst.md) | Iron–bismuth catalyst principles, preparation and loading |
-| [08 Safety and worker protection](book/08-safety.md) | The original book's protective practices |
+The book describes the historical production of nitric acid through catalytic ammonia oxidation using local materials and small-scale equipment. It covers the flowsheet, equipment construction, operating controls, analysis, technical and economic indicators, catalyst manufacture and worker protection, alongside the industrial context of its period.
 
-## About this edition
+[Read the handbook](book/01-overview.md). Its contents are organized into eight chapters. Begin with the overview, or select the book title in the top navigation to browse the chapters.
 
-This is an **initial corrected OCR edition**, not a fully proofread critical edition. Missing equations, denominators, broken decimals and table structures have received particular attention. Apparent printing errors are retained with editorial notes. The Chinese edition retains the mixed character forms of the OCR transcription. The English text was translated for this edition; labels inside the original figures remain Chinese.
+## Reading the site
 
-This is a historical document from 1958. Its operating and protective practices are reproduced as historical text. The chapter links to the original scans support further proofreading.
+- **Browse chapters:** select a document in the top navigation, then use the chapter list on the left and the section contents on the right.
+- **Find a topic:** use the search box to locate terms or passages.
+- **Change language:** the header language menu switches between Chinese and English while retaining the current chapter.
+- **Check the original:** scan links at the end of each chapter allow comparison of text, equations and illustrations.
+
+## Sources and corrections
+
+The current edition has received initial proofreading and may still contain recognition or translation errors. Apparent original printing errors are retained with editorial notes. Figure labels remain Chinese, and the original historical context and operating practices are preserved.
+
+Use the repository link to inspect the source text and editorial records. To suggest a correction, open a [GitHub issue](https://github.com/emily-thomp/emily-thomp.github.io/issues) with the chapter, original page number and proposed change.

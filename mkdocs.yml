@@ -32,7 +32,8 @@ theme:
         name: 切换至浅色模式
 
 nav:
-  - 首页: index.md
+  - 开始:
+      - 简介: index.md
   - 氨氧化土法制硝酸:
       - 01 概述与书籍信息: book/01-overview.md
       - 02 氨氧化法制硝酸: book/02-process.md
@@ -64,7 +65,8 @@ plugins:
           build: true
           site_description: A Chinese transcription and English translation of a 1958 nitric acid handbook
           nav_translations:
-            首页: Home
+            开始: Start
+            简介: Introduction
             氨氧化土法制硝酸: Nitric Acid Handbook
             01 概述与书籍信息: 01 Overview and front matter
             02 氨氧化法制硝酸: 02 Ammonia oxidation process
