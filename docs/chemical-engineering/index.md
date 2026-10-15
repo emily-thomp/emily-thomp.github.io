@@ -13,4 +13,7 @@
 [从概述开始阅读](../book/01-overview.md)
 
 ### 关于安全的小短文
+
 [safety](safety.md)
+
+[chemical_safety_rewritten](chemical_safety_rewritten.md)
