@@ -14,6 +14,5 @@
 
 ### 关于安全的小短文
 
-[safety](safety.md)
+[safety](chemical-engineering-safety-final.md)
 
-[chemical_safety_rewritten](chemical_safety_rewritten.md)
