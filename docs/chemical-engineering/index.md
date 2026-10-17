@@ -16,3 +16,7 @@
 
 [safety](chemical-engineering-safety-final.md)
 
+### 化学计量与配气
+
+[化学气体计量与配气](化学气体计量与配气.md)
+
