@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="465" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">双活塞压差计量剖面动画</title>
+  <desc id="desc">扁长方体内两个活塞通过杆联动。活塞相向面距离固定为长度 L 的一半。气流推动活塞左右往复，三通交替进气和出气。</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f9fdff"/><stop offset="1" stop-color="#e4f3f6"/></linearGradient>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto"><path d="M0 0L6 3 0 6z" fill="#47727c"/></marker>
+    <marker id="inArrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L7 3 0 6z" fill="#55dbe6"/></marker>
+    <marker id="outArrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L7 3 0 6z" fill="#ffaf57"/></marker>
+    <style>
+      .lab{font:16px Arial,sans-serif;fill:#193f49}.small{font:13px Arial,sans-serif;fill:#5d7c85}.housing{fill:#d9f0f4;stroke:#3e7785;stroke-width:3}.inside{fill:#fff;stroke:#7aaab5;stroke-width:2}.piston{fill:#fff3d9;stroke:#d17824;stroke-width:3}.face{stroke:#00a7c2;stroke-width:5}.rod{stroke:#ff7d22;stroke-width:16;stroke-linecap:round}.port{fill:#fff;stroke:#3e7785;stroke-width:4}.tee{fill:none;stroke:#89adb6;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}.flow{fill:none;stroke-width:8;stroke-linecap:round;stroke-dasharray:10 15}.dim{stroke:#47727c;stroke-width:1.5;fill:none}.in{fill:#009fbd;font:bold 15px Arial,sans-serif}.out{fill:#f06d15;font:bold 15px Arial,sans-serif}
+    </style>
+  </defs>
+  <rect width="1200" height="620" fill="url(#bg)" rx="18"/>
+  <text x="55" y="55" class="lab" font-weight="bold">双活塞压差计量 · 抽象剖面</text>
+  <text x="55" y="80" class="small">初始 left 态：左进、右出。压差推动双活塞向右，到端部切换流路并反向。</text>
+  <!-- Y 三通与端口 -->
+  <g><path class="tee" d="M55 205L145 290H230M55 385L145 290"/><text x="40" y="195" class="in">进气</text><text x="35" y="410" class="out">出气</text><path id="leftIn" class="flow" stroke="#55dbe6" marker-end="url(#inArrow)" d="M55 205L145 290H230"><animate attributeName="stroke-dashoffset" from="0" to="-25" dur=".7s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.48;.5;.98;1" dur="5s" repeatCount="indefinite"/></path><path id="leftOut" class="flow" stroke="#ffaf57" marker-end="url(#outArrow)" d="M230 290H145L55 385"><animate attributeName="stroke-dashoffset" from="0" to="-25" dur=".7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.48;.5;.98;1" dur="5s" repeatCount="indefinite"/></path></g>
+  <g><path class="tee" d="M1145 205L1055 290H970M1145 385L1055 290"/><text x="1110" y="195" class="in">进气</text><text x="1105" y="410" class="out">出气</text><path class="flow" stroke="#ffaf57" marker-end="url(#outArrow)" d="M970 290H1055L1145 385"><animate attributeName="stroke-dashoffset" from="0" to="-25" dur=".7s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.48;.5;.98;1" dur="5s" repeatCount="indefinite"/></path><path class="flow" stroke="#55dbe6" marker-end="url(#inArrow)" d="M1145 205L1055 290H970"><animate attributeName="stroke-dashoffset" from="0" to="-25" dur=".7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.48;.5;.98;1" dur="5s" repeatCount="indefinite"/></path></g>
+  <!-- 扁长方体，高 d、宽 L -->
+  <rect x="230" y="205" width="740" height="190" rx="5" class="housing"/><rect x="245" y="225" width="710" height="150" class="inside"/><circle cx="230" cy="290" r="18" class="port"/><circle cx="970" cy="290" r="18" class="port"/>
+  <path class="dim" d="M230 455H970" marker-start="url(#arrow)" marker-end="url(#arrow)"/><path class="dim" d="M230 407V470M970 407V470"/><text x="600" y="450" text-anchor="middle" class="lab">宽度 L</text><path class="dim" d="M180 205V395" marker-start="url(#arrow)" marker-end="url(#arrow)"/><path class="dim" d="M194 205H164M194 395H164"/><text x="165" y="300" text-anchor="middle" class="lab" transform="rotate(-90 165 300)">高度 d</text>
+  <!-- 活塞与杆：初始位于左端，整体往返；内侧相向面永远相距 L/2 -->
+  <g transform="translate(-82 0)">
+    <animateTransform attributeName="transform" type="translate" values="-82 0;82 0;82 0;-82 0;-82 0" keyTimes="0;.48;.5;.98;1" dur="5s" repeatCount="indefinite"/>
+    <rect x="360" y="229" width="26" height="142" rx="3" class="piston"/><rect x="756" y="229" width="26" height="142" rx="3" class="piston"/>
+    <line x1="386" y1="300" x2="756" y2="300" class="rod"/>
+    <line x1="386" y1="229" x2="386" y2="371" class="face"/><line x1="756" y1="229" x2="756" y2="371" class="face"/>
+    <text x="571" y="327" text-anchor="middle" class="small">刚性联动杆</text>
+  </g>
+  <text x="318" y="425" text-anchor="middle" class="small">left 端位</text><text x="882" y="425" text-anchor="middle" class="small">right 端位</text>
+  <text x="600" y="550" text-anchor="middle" class="lab">压差 → 活塞行程 → 计量体积（有效截面积 × 行程）</text>
+</svg>
