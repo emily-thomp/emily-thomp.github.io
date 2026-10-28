@@ -128,8 +128,7 @@ AID: F0000000010101
 
 ### Package 与 Applet Instance 的关系
 
-```
-
+```text
 ┌──────────────────────────────────────┐
 │      Package / Executable Load File  │
 │                                      │
