@@ -1,3 +1,83 @@
+``` java
+
+//StoryApplet.java
+//javacard_story_demo\src\demo\story\StoryApplet.java
+package demo.story;
+
+import javacard.framework.APDU;
+import javacard.framework.Applet;
+import javacard.framework.ISO7816;
+import javacard.framework.ISOException;
+import javacard.framework.Util;
+
+public class StoryApplet extends Applet {
+    private static final byte CLA_STORY = (byte) 0x80;
+    private static final byte INS_READ = (byte) 0x30;
+    private static final short CHUNK_SIZE = (short) 48;
+    private static final short SW_LOCKED = (short) 0x6983;
+    private static final byte[] PASSWORD = { (byte)0x31, (byte)0x32, (byte)0x33, (byte)0x34 };
+
+    // Persistent fields. Java Card EEPROM/flash-backed state.
+    private byte failedAttempts;
+    private final byte[] story;
+
+    private StoryApplet() {
+        failedAttempts = (byte) 0;
+        story = StoryBytes.create();
+        register();
+    }
+
+    public static void install(byte[] bArray, short bOffset, byte bLength) {
+        new StoryApplet();
+    }
+
+    public void process(APDU apdu) {
+        if (selectingApplet()) return;
+        byte[] b = apdu.getBuffer();
+        if (b[ISO7816.OFFSET_CLA] != CLA_STORY)
+            ISOException.throwIt(ISO7816.SW_CLA_NOT_SUPPORTED);
+        if (b[ISO7816.OFFSET_INS] != INS_READ)
+            ISOException.throwIt(ISO7816.SW_INS_NOT_SUPPORTED);
+        if (failedAttempts >= (byte)3) ISOException.throwIt(SW_LOCKED);
+        if (b[ISO7816.OFFSET_P2] != (byte)0x00)
+            ISOException.throwIt(ISO7816.SW_WRONG_P1P2);
+
+        // Case 4 short APDU: CLA INS P1 P2 Lc Data Le.
+        short lc = apdu.getIncomingLength();
+        if (lc != (short)PASSWORD.length)
+            ISOException.throwIt(ISO7816.SW_WRONG_LENGTH);
+        short read = apdu.setIncomingAndReceive();
+        if (read != lc) ISOException.throwIt(ISO7816.SW_WRONG_LENGTH);
+
+        // Demo only: plaintext shared password. Count failed comparisons persistently.
+        if (Util.arrayCompare(b, ISO7816.OFFSET_CDATA,
+                              PASSWORD, (short)0, (short)PASSWORD.length) != 0) {
+            failedAttempts++;
+            if (failedAttempts >= (byte)3) {
+                ISOException.throwIt(SW_LOCKED);
+            }
+            ISOException.throwIt((short)(0x63C0 | (3 - failedAttempts)));
+        }
+
+        short index = (short)(b[ISO7816.OFFSET_P1] & 0xFF);
+        short start = (short)(index * CHUNK_SIZE);
+        if (start >= (short)story.length)
+            ISOException.throwIt(ISO7816.SW_WRONG_P1P2);
+        short length = (short)(story.length - start);
+        if (length > CHUNK_SIZE) length = CHUNK_SIZE;
+
+        // All bytes are stored as GBK. The host joins bytes before decoding.
+        short le = apdu.setOutgoing();
+        if (le < length) ISOException.throwIt(ISO7816.SW_WRONG_LENGTH);
+        apdu.setOutgoingLength(length);
+        apdu.sendBytesLong(story, start, length);
+    }
+}
+
+```
+
+
+
 # Java Card / GlobalPlatform / APDU 示例
 
 > 直接看用户4
