@@ -512,18 +512,6 @@ SELECT:        00 A4 04 00 07 [7-byte AID] 00
 
 我把程序整理成了工程，包含 Java Card 下位机、Python 上位机和 GBK 数据生成器。
 
-<box border radius="lg" padding={3} gap={2}>
-  <row align="center" gap={3}>
-    <icon name="file-archive" size="2xl" color="secondary"/>
-    <box flex="1" gap={1}>
-      **Java Card APDU Story Demo**
-
-      <text color="secondary" size="xs">Java / Python / README / GBK 数据</text>
-    </box>
-    <badge color="success">已生成</badge>
-  </row>
-  [下载完整示例工程 ZIP](sandbox:/mnt/data/javacard_story_demo.zip)
-</box>
 
 工程目录：
 
