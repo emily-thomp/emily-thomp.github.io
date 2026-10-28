@@ -100,7 +100,7 @@ public class StoryApplet extends Applet {
 
 执行一次：
 
-```powershell id="9iujwm"
+```powershell
 gp.exe --install applet.cap
 ```
 
@@ -110,13 +110,13 @@ gp.exe --install applet.cap
 
 假设安装后执行：
 
-```powershell id="cextus"
+```powershell
 gp.exe --list
 ```
 
 得到：
 
-```text id="c9doss"
+```text
 AID: F00000000101
      PKG: LOADED
 
@@ -163,13 +163,13 @@ Applet Class AID 和 Instance AID 可以相同，也可以不同。
 
 如果先删除 Package：
 
-```powershell id="maw7vs"
+```powershell
 gp.exe --delete F00000000101
 ```
 
 可能报：
 
-```text id="6wnm1d"
+```text
 SW: 6985
 Conditions of use not satisfied
 ```
@@ -178,7 +178,7 @@ Conditions of use not satisfied
 
 正确的顺序通常是：
 
-```powershell id="97iggf"
+```powershell
 # 删除实例
 gp.exe --delete F0000000010101
 
@@ -192,19 +192,19 @@ gp.exe --delete F00000000101
 
 可以。GlobalPlatformPro 支持强制删除及处理依赖对象：
 
-```powershell id="8w26sf"
+```powershell
 gp.exe -f --delete F00000000101
 ```
 
 或者根据你的版本使用：
 
-```powershell id="lva79s"
+```powershell
 gp.exe --delete F00000000101 --deletedeps
 ```
 
 也可以尝试通过 CAP 文件卸载：
 
-```powershell id="rfdtjx"
+```powershell
 gp.exe --uninstall applet.cap
 ```
 
