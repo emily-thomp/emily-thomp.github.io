@@ -6,7 +6,7 @@
 
 ## 当前实验
 
-已经用 NXP 的 Java Card 实验类似功能。
+已经用 NXP 的 Java Card 实验类似功能。[see](java_card_example.md)
 
 ## 待研究器件
 
