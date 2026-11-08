@@ -1,7 +1,13 @@
 nav:
   - 首页: index.md
-  - 通信:
-      - 概览: communications/index.md
+  - 数学、物理、电子科学:
+      - 通信:
+        - 概览: communications/index.md
+      - 信息安全:
+        - 概览: information-security/index.md
+    - 人工智能:
+        - 概览: artificial-intelligence/index.md
+        - 大模型意识形态对齐调查: artificial-intelligence/ideological-alignment.md
   - 化工:
       - 概览: chemical-engineering/index.md
       - 氨氧化土法制硝酸:
@@ -13,10 +19,7 @@ nav:
           - 06 技术经济指标: book/06-indicators.md
           - 07 氨氧化触媒的制造: book/07-catalyst.md
           - 08 安全技术与劳动保护: book/08-safety.md
-  - 机械:
+  - 机械与材料:
       - 概览: mechanical-engineering/index.md
-  - 信息安全:
-      - 概览: information-security/index.md
-  - 人工智能:
-      - 概览: artificial-intelligence/index.md
-      - 大模型意识形态对齐调查: artificial-intelligence/ideological-alignment.md
+  - 土木:
+    - 概览: civil-engineering/index.md
