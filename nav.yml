@@ -5,7 +5,7 @@ nav:
         - 概览: communications/index.md
       - 信息安全:
         - 概览: information-security/index.md
-    - 人工智能:
+      - 人工智能:
         - 概览: artificial-intelligence/index.md
         - 大模型意识形态对齐调查: artificial-intelligence/ideological-alignment.md
   - 化工:
