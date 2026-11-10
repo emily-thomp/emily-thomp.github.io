@@ -1,6 +1,7 @@
 nav:
   - 首页: index.md
   - 数学、物理、电子科学:
+      - 概览: math-phy/index.md
       - 通信:
         - 概览: communications/index.md
       - 信息安全:
