@@ -134,7 +134,7 @@ $$V_r = \frac{p}{m_g},\qquad E_r = \frac{p^2}{2 m_g}$$
 
 $$\omega=\frac{p\,h}{I_{zz}}$$
 
-$\beta$ 为气体动量系数（0.5–1.5，手枪取 1.2–1.3），$h$ 为膛线轴至支撑点高度。算例（9×19，124 gr，350 m/s，5.5 gr，0.9 kg）：$p=2.97\ \text{kg·m/s}$，$V_r=3.30\ \text{m/s}$，$E_r=4.9\ \text{J}$，与实测 4–6 J 相符。
+$\beta$ 为气体动量系数（0.5–1.5，手枪取 1.2–1.3），$ h $ 为膛线轴至支撑点高度。算例（9×19，124 gr，350 m/s，5.5 gr，0.9 kg）：$ p=2.97\ \text{kg·m/s} $，$ V_r=3.30\ \text{m/s} $，$ E_r=4.9\ \text{J} $，与实测 4–6 J 相符。
 
 #### C. 内弹道
 
@@ -202,7 +202,7 @@ $$\ddot{\boldsymbol\Phi}+2\alpha\dot{\boldsymbol\Phi}+\beta^2\boldsymbol\Phi=\ma
 
 厚壁圆筒 Lamé 解 + 自紧（autofrettage）残余应力；Hertz 线接触：
 
-$$p_{\max}=\sqrt{\frac{F E^*}{\pi R^* L}}$$
+$$p_{\max}=\sqrt{\frac{F E^\ast}{\pi R^\ast L}}$$
 
 Goodman 修正：
 
